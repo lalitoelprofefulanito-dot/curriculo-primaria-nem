@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Currículo Primaria NEM — referencia v1.0",
+  "principios": [
+    "Sin IA",
+    "Textos fuente conservados",
+    "Trazabilidad",
+    "No inferencia"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "fecha_generacion": "2026-08-25",
+  "fuente_archivo": "Generador de Planeaciones Primaria.xlsx",
+  "sha256_fuente": "f593e0e5d6d591f313fd90710875f808b46644195faeb6060bb17c497be9d737",
+  "estadisticas": {
+    "pdas": 1500,
+    "contenidos": 215,
+    "proyectos": 427,
+    "relaciones_grado_campo_contenido": 490,
+    "relaciones_contenido_pda": 1500,
+    "relaciones_proyecto_eje": 1298,
+    "relaciones_proyecto_contenido": 421,
+    "relaciones_proyecto_pda_derivadas": 1071,
+    "incidencias_proyectos": 4,
+    "incidencias_contenidos": 91,
+    "discrepancias_ejes": 13,
+    "discrepancias_campos": 1
+  }
+}
