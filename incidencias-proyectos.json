@@ -1,0 +1,46 @@
+[
+  {
+    "proyecto_id": "PR-0011",
+    "grado_origen": "1°",
+    "titulo": "Los Saberes de mi Comunidad",
+    "estado": "SIN_COINCIDENCIA_EXACTA_GRADO_TITULO",
+    "grados_encontrados_en_libros": [],
+    "filas_libros_encontradas": [],
+    "fuente": "Libros",
+    "hoja_origen": "Libros"
+  },
+  {
+    "proyecto_id": "PR-0074",
+    "grado_origen": "2°",
+    "titulo": "Los Saberes de mi Comunidad",
+    "estado": "SIN_COINCIDENCIA_EXACTA_GRADO_TITULO",
+    "grados_encontrados_en_libros": [],
+    "filas_libros_encontradas": [],
+    "fuente": "Libros",
+    "hoja_origen": "Libros"
+  },
+  {
+    "proyecto_id": "PR-0310",
+    "grado_origen": "5°",
+    "titulo": "Mi cuerpo hablan",
+    "estado": "SIN_COINCIDENCIA_EXACTA_GRADO_TITULO",
+    "grados_encontrados_en_libros": [],
+    "filas_libros_encontradas": [],
+    "fuente": "Libros",
+    "hoja_origen": "Libros"
+  },
+  {
+    "proyecto_id": "PR-0340",
+    "grado_origen": "",
+    "titulo": "Las historias que nos unen",
+    "estado": "SIN_COINCIDENCIA_EXACTA_GRADO_TITULO",
+    "grados_encontrados_en_libros": [
+      "5°"
+    ],
+    "filas_libros_encontradas": [
+      330
+    ],
+    "fuente": "Libros",
+    "hoja_origen": "Libros"
+  }
+]

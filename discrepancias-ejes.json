@@ -1,0 +1,158 @@
+[
+  {
+    "proyecto_id": "PR-0071",
+    "grado": "2°",
+    "titulo": "Lo que nos gusta y lo que nos disgusta",
+    "ejes_proyectos_coincidencias": "Inclusión, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+    "ejes_libros": [
+      "Inclusión, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Esperiencias Estéticas"
+    ],
+    "filas_libros": [
+      87
+    ]
+  },
+  {
+    "proyecto_id": "PR-0143",
+    "grado": "3°",
+    "titulo": "Tu historia de transformación",
+    "ejes_proyectos_coincidencias": "Interculturalidad Crítica, Igualdad de Género, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+    "ejes_libros": [
+      "Interculturalidad Crítica, Igualdad de Género, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Esperiencias Estéticas"
+    ],
+    "filas_libros": [
+      162
+    ]
+  },
+  {
+    "proyecto_id": "PR-0175",
+    "grado": "3°",
+    "titulo": "Álbum de mi comunidad",
+    "ejes_proyectos_coincidencias": "Inclusión, Pensamiento Crítico, Interculturalidad Crítica, Igualdad de Género, Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+    "ejes_libros": [
+      "Inclusión, Pensamiento Crítico, Interculturalidad Crítica, Igualdad de Género, Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Esperiencias Estéticas"
+    ],
+    "filas_libros": [
+      216
+    ]
+  },
+  {
+    "proyecto_id": "PR-0225",
+    "grado": "4°",
+    "titulo": "La poesía en la vida cotidiana",
+    "ejes_proyectos_coincidencias": "Pensamiento Crítico, Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+    "ejes_libros": [
+      "Pensamiento Crítico, Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Esperiencias Estéticas"
+    ],
+    "filas_libros": [
+      274
+    ]
+  },
+  {
+    "proyecto_id": "PR-0339",
+    "grado": "5°",
+    "titulo": "Nuestra primera revista colectiva",
+    "ejes_proyectos_coincidencias": "Pensamiento Crítico,",
+    "ejes_libros": [
+      "Pensamiento Crítico"
+    ],
+    "filas_libros": [
+      387
+    ]
+  },
+  {
+    "proyecto_id": "PR-0356",
+    "grado": "6°",
+    "titulo": "Un encuentro a favor de la diversidad",
+    "ejes_proyectos_coincidencias": "Inclusión, Interculturalidad Crítica, Igualdad de Género,",
+    "ejes_libros": [
+      "Inclusión, Interculturalidad Crítica, Igualdad de Género"
+    ],
+    "filas_libros": [
+      492
+    ]
+  },
+  {
+    "proyecto_id": "PR-0358",
+    "grado": "6°",
+    "titulo": "ColectivizArte",
+    "ejes_proyectos_coincidencias": "Inclusión, Pensamiento Crítico, Interculturalidad Crítica,",
+    "ejes_libros": [
+      "Inclusión, Pensamiento Crítico, Interculturalidad Crítica"
+    ],
+    "filas_libros": [
+      450
+    ]
+  },
+  {
+    "proyecto_id": "PR-0365",
+    "grado": "6°",
+    "titulo": "Salvemos juntos el arte",
+    "ejes_proyectos_coincidencias": "Pensamiento Crítico, Interculturalidad Crítica, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+    "ejes_libros": [
+      "Pensamiento Crítico, Interculturalidad Crítica, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Esperiencias Estéticas"
+    ],
+    "filas_libros": [
+      479
+    ]
+  },
+  {
+    "proyecto_id": "PR-0372",
+    "grado": "6°",
+    "titulo": "¡Mi comunidad se expresa!",
+    "ejes_proyectos_coincidencias": "Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+    "ejes_libros": [
+      "Apropiación de las culturas a través de la escritura y la lectura, Artes y Experiencias Estéticas"
+    ],
+    "filas_libros": [
+      481
+    ]
+  },
+  {
+    "proyecto_id": "PR-0373",
+    "grado": "6°",
+    "titulo": "Tu salud es una obra de arte",
+    "ejes_proyectos_coincidencias": "Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+    "ejes_libros": [
+      "Apropiación de las culturas a través de la escritura y la lectura, Artes y Experiencias Estéticas"
+    ],
+    "filas_libros": [
+      472
+    ]
+  },
+  {
+    "proyecto_id": "PR-0384",
+    "grado": "6°",
+    "titulo": "¡Vamos a la Feria de juegos tradicionales!",
+    "ejes_proyectos_coincidencias": "Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+    "ejes_libros": [
+      "Vida Saludable, Apropiación de las culturas a través de la escritura y la lectura, Artes y Experiencias Estéticas"
+    ],
+    "filas_libros": [
+      471
+    ]
+  },
+  {
+    "proyecto_id": "PR-0385",
+    "grado": "6°",
+    "titulo": "Hábitos con-sentidos",
+    "ejes_proyectos_coincidencias": "Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+    "ejes_libros": [
+      "Vida Saludable, Apropiación de las culturas a través de la escritura y la lectura, Artes y Experiencias Estéticas"
+    ],
+    "filas_libros": [
+      497
+    ]
+  },
+  {
+    "proyecto_id": "PR-0395",
+    "grado": "6°",
+    "titulo": "Antología El ojo crítico",
+    "ejes_proyectos_coincidencias": "Pensamiento Crítico, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+    "ejes_libros": [
+      "Pensamiento Crítico, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Esperiencias Estéticas"
+    ],
+    "filas_libros": [
+      415
+    ]
+  }
+]
