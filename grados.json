@@ -1,0 +1,32 @@
+[
+  {
+    "id": "G01",
+    "grado": "1°",
+    "fase_id": "FASE03"
+  },
+  {
+    "id": "G02",
+    "grado": "2°",
+    "fase_id": "FASE03"
+  },
+  {
+    "id": "G03",
+    "grado": "3°",
+    "fase_id": "FASE04"
+  },
+  {
+    "id": "G04",
+    "grado": "4°",
+    "fase_id": "FASE04"
+  },
+  {
+    "id": "G05",
+    "grado": "5°",
+    "fase_id": "FASE05"
+  },
+  {
+    "id": "G06",
+    "grado": "6°",
+    "fase_id": "FASE05"
+  }
+]
