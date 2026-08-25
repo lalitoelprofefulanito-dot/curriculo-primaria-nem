@@ -1,0 +1,11 @@
+{
+  "archivo": "Generador de Planeaciones Primaria.xlsx",
+  "sha256": "f593e0e5d6d591f313fd90710875f808b46644195faeb6060bb17c497be9d737",
+  "hojas": {
+    "PDAS": "Catálogo curricular maestro.",
+    "Proyectos CoincidenciasxEjes": "Proyectos, ejes, grado y campo.",
+    "Libros": "Propósitos y contenido relacionado; valores calculados tomados del libro.",
+    "Vinculador de proyectos": "Fórmulas/reglas operativas.",
+    "Secuencias": "Desarrollo didáctico."
+  }
+}
