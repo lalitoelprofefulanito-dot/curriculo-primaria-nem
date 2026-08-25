@@ -1,0 +1,26 @@
+[
+  {
+    "id": "FASE03",
+    "nombre": "Fase 3",
+    "grados": [
+      "1°",
+      "2°"
+    ]
+  },
+  {
+    "id": "FASE04",
+    "nombre": "Fase 4",
+    "grados": [
+      "3°",
+      "4°"
+    ]
+  },
+  {
+    "id": "FASE05",
+    "nombre": "Fase 5",
+    "grados": [
+      "5°",
+      "6°"
+    ]
+  }
+]
