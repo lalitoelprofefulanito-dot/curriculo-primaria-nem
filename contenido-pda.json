@@ -1,0 +1,9002 @@
+[
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0001",
+    "pda_id": "PDA-REG-0001"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0001",
+    "pda_id": "PDA-REG-0002"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0003"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0004"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0005"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0006"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0007"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0008"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0003",
+    "pda_id": "PDA-REG-0009"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0003",
+    "pda_id": "PDA-REG-0010"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0003",
+    "pda_id": "PDA-REG-0011"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0003",
+    "pda_id": "PDA-REG-0012"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0003",
+    "pda_id": "PDA-REG-0013"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0004",
+    "pda_id": "PDA-REG-0014"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0004",
+    "pda_id": "PDA-REG-0015"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0004",
+    "pda_id": "PDA-REG-0016"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0004",
+    "pda_id": "PDA-REG-0017"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0004",
+    "pda_id": "PDA-REG-0018"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0005",
+    "pda_id": "PDA-REG-0019"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0005",
+    "pda_id": "PDA-REG-0020"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0021"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0022"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0023"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0024"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0025"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0026"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0007",
+    "pda_id": "PDA-REG-0027"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0008",
+    "pda_id": "PDA-REG-0028"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0008",
+    "pda_id": "PDA-REG-0029"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0008",
+    "pda_id": "PDA-REG-0030"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0008",
+    "pda_id": "PDA-REG-0031"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0009",
+    "pda_id": "PDA-REG-0032"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0009",
+    "pda_id": "PDA-REG-0033"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0009",
+    "pda_id": "PDA-REG-0034"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0010",
+    "pda_id": "PDA-REG-0035"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0010",
+    "pda_id": "PDA-REG-0036"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0011",
+    "pda_id": "PDA-REG-0037"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0011",
+    "pda_id": "PDA-REG-0038"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0011",
+    "pda_id": "PDA-REG-0039"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0012",
+    "pda_id": "PDA-REG-0040"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0012",
+    "pda_id": "PDA-REG-0041"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0012",
+    "pda_id": "PDA-REG-0042"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0013",
+    "pda_id": "PDA-REG-0043"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0014",
+    "pda_id": "PDA-REG-0044"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0014",
+    "pda_id": "PDA-REG-0045"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0015",
+    "pda_id": "PDA-REG-0046"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0015",
+    "pda_id": "PDA-REG-0047"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0016",
+    "pda_id": "PDA-REG-0048"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0016",
+    "pda_id": "PDA-REG-0049"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0016",
+    "pda_id": "PDA-REG-0050"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0017",
+    "pda_id": "PDA-REG-0051"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0017",
+    "pda_id": "PDA-REG-0052"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0018",
+    "pda_id": "PDA-REG-0053"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0018",
+    "pda_id": "PDA-REG-0054"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0019",
+    "pda_id": "PDA-REG-0055"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0019",
+    "pda_id": "PDA-REG-0056"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0019",
+    "pda_id": "PDA-REG-0057"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0020",
+    "pda_id": "PDA-REG-0058"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0020",
+    "pda_id": "PDA-REG-0059"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0020",
+    "pda_id": "PDA-REG-0060"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0021",
+    "pda_id": "PDA-REG-0061"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0021",
+    "pda_id": "PDA-REG-0062"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0021",
+    "pda_id": "PDA-REG-0063"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0022",
+    "pda_id": "PDA-REG-0064"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0022",
+    "pda_id": "PDA-REG-0065"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0022",
+    "pda_id": "PDA-REG-0066"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0022",
+    "pda_id": "PDA-REG-0067"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0023",
+    "pda_id": "PDA-REG-0068"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0023",
+    "pda_id": "PDA-REG-0069"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0023",
+    "pda_id": "PDA-REG-0070"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0023",
+    "pda_id": "PDA-REG-0071"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0024",
+    "pda_id": "PDA-REG-0072"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0024",
+    "pda_id": "PDA-REG-0073"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0024",
+    "pda_id": "PDA-REG-0074"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0025",
+    "pda_id": "PDA-REG-0075"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0025",
+    "pda_id": "PDA-REG-0076"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0025",
+    "pda_id": "PDA-REG-0077"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0025",
+    "pda_id": "PDA-REG-0078"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0025",
+    "pda_id": "PDA-REG-0079"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0026",
+    "pda_id": "PDA-REG-0080"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0026",
+    "pda_id": "PDA-REG-0081"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0026",
+    "pda_id": "PDA-REG-0082"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0027",
+    "pda_id": "PDA-REG-0083"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0027",
+    "pda_id": "PDA-REG-0084"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0027",
+    "pda_id": "PDA-REG-0085"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0027",
+    "pda_id": "PDA-REG-0086"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0028",
+    "pda_id": "PDA-REG-0087"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0028",
+    "pda_id": "PDA-REG-0088"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0028",
+    "pda_id": "PDA-REG-0089"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0028",
+    "pda_id": "PDA-REG-0090"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0028",
+    "pda_id": "PDA-REG-0091"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0029",
+    "pda_id": "PDA-REG-0092"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0029",
+    "pda_id": "PDA-REG-0093"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0029",
+    "pda_id": "PDA-REG-0094"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0029",
+    "pda_id": "PDA-REG-0095"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0096"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0097"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0098"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0099"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0100"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0101"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0102"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0103"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0104"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0105"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0106"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0107"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0032",
+    "pda_id": "PDA-REG-0108"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0032",
+    "pda_id": "PDA-REG-0109"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0032",
+    "pda_id": "PDA-REG-0110"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0032",
+    "pda_id": "PDA-REG-0111"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0033",
+    "pda_id": "PDA-REG-0112"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0033",
+    "pda_id": "PDA-REG-0113"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0033",
+    "pda_id": "PDA-REG-0114"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0033",
+    "pda_id": "PDA-REG-0115"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0033",
+    "pda_id": "PDA-REG-0116"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0034",
+    "pda_id": "PDA-REG-0117"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0034",
+    "pda_id": "PDA-REG-0118"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0034",
+    "pda_id": "PDA-REG-0119"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0034",
+    "pda_id": "PDA-REG-0120"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0034",
+    "pda_id": "PDA-REG-0121"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0122"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0123"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0124"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0125"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0126"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0127"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0128"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0036",
+    "pda_id": "PDA-REG-0129"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0036",
+    "pda_id": "PDA-REG-0130"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0036",
+    "pda_id": "PDA-REG-0131"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0036",
+    "pda_id": "PDA-REG-0132"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0037",
+    "pda_id": "PDA-REG-0133"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0037",
+    "pda_id": "PDA-REG-0134"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0037",
+    "pda_id": "PDA-REG-0135"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0037",
+    "pda_id": "PDA-REG-0136"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0037",
+    "pda_id": "PDA-REG-0137"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0038",
+    "pda_id": "PDA-REG-0138"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0038",
+    "pda_id": "PDA-REG-0139"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0038",
+    "pda_id": "PDA-REG-0140"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0038",
+    "pda_id": "PDA-REG-0141"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0039",
+    "pda_id": "PDA-REG-0142"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0039",
+    "pda_id": "PDA-REG-0143"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0039",
+    "pda_id": "PDA-REG-0144"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0039",
+    "pda_id": "PDA-REG-0145"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0040",
+    "pda_id": "PDA-REG-0146"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0040",
+    "pda_id": "PDA-REG-0147"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0040",
+    "pda_id": "PDA-REG-0148"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0040",
+    "pda_id": "PDA-REG-0149"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0040",
+    "pda_id": "PDA-REG-0150"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0041",
+    "pda_id": "PDA-REG-0151"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0041",
+    "pda_id": "PDA-REG-0152"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0041",
+    "pda_id": "PDA-REG-0153"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0041",
+    "pda_id": "PDA-REG-0154"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0042",
+    "pda_id": "PDA-REG-0155"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0042",
+    "pda_id": "PDA-REG-0156"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0042",
+    "pda_id": "PDA-REG-0157"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0042",
+    "pda_id": "PDA-REG-0158"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0042",
+    "pda_id": "PDA-REG-0159"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0043",
+    "pda_id": "PDA-REG-0160"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0043",
+    "pda_id": "PDA-REG-0161"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0043",
+    "pda_id": "PDA-REG-0162"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0044",
+    "pda_id": "PDA-REG-0163"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0044",
+    "pda_id": "PDA-REG-0164"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0044",
+    "pda_id": "PDA-REG-0165"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0044",
+    "pda_id": "PDA-REG-0166"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0044",
+    "pda_id": "PDA-REG-0167"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0045",
+    "pda_id": "PDA-REG-0168"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0045",
+    "pda_id": "PDA-REG-0169"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0045",
+    "pda_id": "PDA-REG-0170"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0045",
+    "pda_id": "PDA-REG-0171"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0045",
+    "pda_id": "PDA-REG-0172"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0046",
+    "pda_id": "PDA-REG-0173"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0046",
+    "pda_id": "PDA-REG-0174"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0046",
+    "pda_id": "PDA-REG-0175"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0047",
+    "pda_id": "PDA-REG-0176"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0047",
+    "pda_id": "PDA-REG-0177"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0048",
+    "pda_id": "PDA-REG-0178"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0048",
+    "pda_id": "PDA-REG-0179"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0048",
+    "pda_id": "PDA-REG-0180"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0048",
+    "pda_id": "PDA-REG-0181"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0049",
+    "pda_id": "PDA-REG-0182"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0049",
+    "pda_id": "PDA-REG-0183"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0049",
+    "pda_id": "PDA-REG-0184"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0050",
+    "pda_id": "PDA-REG-0185"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0050",
+    "pda_id": "PDA-REG-0186"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0050",
+    "pda_id": "PDA-REG-0187"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0050",
+    "pda_id": "PDA-REG-0188"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0050",
+    "pda_id": "PDA-REG-0189"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0051",
+    "pda_id": "PDA-REG-0190"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0051",
+    "pda_id": "PDA-REG-0191"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0051",
+    "pda_id": "PDA-REG-0192"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0051",
+    "pda_id": "PDA-REG-0193"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0051",
+    "pda_id": "PDA-REG-0194"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0052",
+    "pda_id": "PDA-REG-0195"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0052",
+    "pda_id": "PDA-REG-0196"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0052",
+    "pda_id": "PDA-REG-0197"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0052",
+    "pda_id": "PDA-REG-0198"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0052",
+    "pda_id": "PDA-REG-0199"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0053",
+    "pda_id": "PDA-REG-0200"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0053",
+    "pda_id": "PDA-REG-0201"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0053",
+    "pda_id": "PDA-REG-0202"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0053",
+    "pda_id": "PDA-REG-0203"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0053",
+    "pda_id": "PDA-REG-0204"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0054",
+    "pda_id": "PDA-REG-0205"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0054",
+    "pda_id": "PDA-REG-0206"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0054",
+    "pda_id": "PDA-REG-0207"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0054",
+    "pda_id": "PDA-REG-0208"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0054",
+    "pda_id": "PDA-REG-0209"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0055",
+    "pda_id": "PDA-REG-0210"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0055",
+    "pda_id": "PDA-REG-0211"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0055",
+    "pda_id": "PDA-REG-0212"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0055",
+    "pda_id": "PDA-REG-0213"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0056",
+    "pda_id": "PDA-REG-0214"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0056",
+    "pda_id": "PDA-REG-0215"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0056",
+    "pda_id": "PDA-REG-0216"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0056",
+    "pda_id": "PDA-REG-0217"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0057",
+    "pda_id": "PDA-REG-0218"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0057",
+    "pda_id": "PDA-REG-0219"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0057",
+    "pda_id": "PDA-REG-0220"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0057",
+    "pda_id": "PDA-REG-0221"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0058",
+    "pda_id": "PDA-REG-0222"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0058",
+    "pda_id": "PDA-REG-0223"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0058",
+    "pda_id": "PDA-REG-0224"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0058",
+    "pda_id": "PDA-REG-0225"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0058",
+    "pda_id": "PDA-REG-0226"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0059",
+    "pda_id": "PDA-REG-0227"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0059",
+    "pda_id": "PDA-REG-0228"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0059",
+    "pda_id": "PDA-REG-0229"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0059",
+    "pda_id": "PDA-REG-0230"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0059",
+    "pda_id": "PDA-REG-0231"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0060",
+    "pda_id": "PDA-REG-0232"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0060",
+    "pda_id": "PDA-REG-0233"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0060",
+    "pda_id": "PDA-REG-0234"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0060",
+    "pda_id": "PDA-REG-0235"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0060",
+    "pda_id": "PDA-REG-0236"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0061",
+    "pda_id": "PDA-REG-0237"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0061",
+    "pda_id": "PDA-REG-0238"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0061",
+    "pda_id": "PDA-REG-0239"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0061",
+    "pda_id": "PDA-REG-0240"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0061",
+    "pda_id": "PDA-REG-0241"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0062",
+    "pda_id": "PDA-REG-0242"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0062",
+    "pda_id": "PDA-REG-0243"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0062",
+    "pda_id": "PDA-REG-0244"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0062",
+    "pda_id": "PDA-REG-0245"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0062",
+    "pda_id": "PDA-REG-0246"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0063",
+    "pda_id": "PDA-REG-0247"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0063",
+    "pda_id": "PDA-REG-0248"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0063",
+    "pda_id": "PDA-REG-0249"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0063",
+    "pda_id": "PDA-REG-0250"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0063",
+    "pda_id": "PDA-REG-0251"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0064",
+    "pda_id": "PDA-REG-0252"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0064",
+    "pda_id": "PDA-REG-0253"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0064",
+    "pda_id": "PDA-REG-0254"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0064",
+    "pda_id": "PDA-REG-0255"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0064",
+    "pda_id": "PDA-REG-0256"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0065",
+    "pda_id": "PDA-REG-0257"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0065",
+    "pda_id": "PDA-REG-0258"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0065",
+    "pda_id": "PDA-REG-0259"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0065",
+    "pda_id": "PDA-REG-0260"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0065",
+    "pda_id": "PDA-REG-0261"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0066",
+    "pda_id": "PDA-REG-0262"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0066",
+    "pda_id": "PDA-REG-0263"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0066",
+    "pda_id": "PDA-REG-0264"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0066",
+    "pda_id": "PDA-REG-0265"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0066",
+    "pda_id": "PDA-REG-0266"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0067",
+    "pda_id": "PDA-REG-0267"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0067",
+    "pda_id": "PDA-REG-0268"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0067",
+    "pda_id": "PDA-REG-0269"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0068",
+    "pda_id": "PDA-REG-0270"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0068",
+    "pda_id": "PDA-REG-0271"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0068",
+    "pda_id": "PDA-REG-0272"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0069",
+    "pda_id": "PDA-REG-0273"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0069",
+    "pda_id": "PDA-REG-0274"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0069",
+    "pda_id": "PDA-REG-0275"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0069",
+    "pda_id": "PDA-REG-0276"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0069",
+    "pda_id": "PDA-REG-0277"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0070",
+    "pda_id": "PDA-REG-0278"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0070",
+    "pda_id": "PDA-REG-0279"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0070",
+    "pda_id": "PDA-REG-0280"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0070",
+    "pda_id": "PDA-REG-0281"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0071",
+    "pda_id": "PDA-REG-0282"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0071",
+    "pda_id": "PDA-REG-0283"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0072",
+    "pda_id": "PDA-REG-0284"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0072",
+    "pda_id": "PDA-REG-0285"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0072",
+    "pda_id": "PDA-REG-0286"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0073",
+    "pda_id": "PDA-REG-0287"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0073",
+    "pda_id": "PDA-REG-0288"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0073",
+    "pda_id": "PDA-REG-0289"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0073",
+    "pda_id": "PDA-REG-0290"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0074",
+    "pda_id": "PDA-REG-0291"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0074",
+    "pda_id": "PDA-REG-0292"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0074",
+    "pda_id": "PDA-REG-0293"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-0294"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-0295"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-0296"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-0297"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-0298"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-0299"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0076",
+    "pda_id": "PDA-REG-0300"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0076",
+    "pda_id": "PDA-REG-0301"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0076",
+    "pda_id": "PDA-REG-0302"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0077",
+    "pda_id": "PDA-REG-0303"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0077",
+    "pda_id": "PDA-REG-0304"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0077",
+    "pda_id": "PDA-REG-0305"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0077",
+    "pda_id": "PDA-REG-0306"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0078",
+    "pda_id": "PDA-REG-0307"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0078",
+    "pda_id": "PDA-REG-0308"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0078",
+    "pda_id": "PDA-REG-0309"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0078",
+    "pda_id": "PDA-REG-0310"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0079",
+    "pda_id": "PDA-REG-0311"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0079",
+    "pda_id": "PDA-REG-0312"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0079",
+    "pda_id": "PDA-REG-0313"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0080",
+    "pda_id": "PDA-REG-0314"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0080",
+    "pda_id": "PDA-REG-0315"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0080",
+    "pda_id": "PDA-REG-0316"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0081",
+    "pda_id": "PDA-REG-0317"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0081",
+    "pda_id": "PDA-REG-0318"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0081",
+    "pda_id": "PDA-REG-0319"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0082",
+    "pda_id": "PDA-REG-0320"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0082",
+    "pda_id": "PDA-REG-0321"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0082",
+    "pda_id": "PDA-REG-0322"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0082",
+    "pda_id": "PDA-REG-0323"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0083",
+    "pda_id": "PDA-REG-0324"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0083",
+    "pda_id": "PDA-REG-0325"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0326"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0327"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0328"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0085",
+    "pda_id": "PDA-REG-0329"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0085",
+    "pda_id": "PDA-REG-0330"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0085",
+    "pda_id": "PDA-REG-0331"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0086",
+    "pda_id": "PDA-REG-0332"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0086",
+    "pda_id": "PDA-REG-0333"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0086",
+    "pda_id": "PDA-REG-0334"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0086",
+    "pda_id": "PDA-REG-0335"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0087",
+    "pda_id": "PDA-REG-0336"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0088",
+    "pda_id": "PDA-REG-0337"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0088",
+    "pda_id": "PDA-REG-0338"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0089",
+    "pda_id": "PDA-REG-0339"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0089",
+    "pda_id": "PDA-REG-0340"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0090",
+    "pda_id": "PDA-REG-0341"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0091",
+    "pda_id": "PDA-REG-0342"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0092",
+    "pda_id": "PDA-REG-0343"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0092",
+    "pda_id": "PDA-REG-0344"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0092",
+    "pda_id": "PDA-REG-0345"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0093",
+    "pda_id": "PDA-REG-0346"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0093",
+    "pda_id": "PDA-REG-0347"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0093",
+    "pda_id": "PDA-REG-0348"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0093",
+    "pda_id": "PDA-REG-0349"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0094",
+    "pda_id": "PDA-REG-0350"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0094",
+    "pda_id": "PDA-REG-0351"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0094",
+    "pda_id": "PDA-REG-0352"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0094",
+    "pda_id": "PDA-REG-0353"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0095",
+    "pda_id": "PDA-REG-0354"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0095",
+    "pda_id": "PDA-REG-0355"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0095",
+    "pda_id": "PDA-REG-0356"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0095",
+    "pda_id": "PDA-REG-0357"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0096",
+    "pda_id": "PDA-REG-0358"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0096",
+    "pda_id": "PDA-REG-0359"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0096",
+    "pda_id": "PDA-REG-0360"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0097",
+    "pda_id": "PDA-REG-0361"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0097",
+    "pda_id": "PDA-REG-0362"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0097",
+    "pda_id": "PDA-REG-0363"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0098",
+    "pda_id": "PDA-REG-0364"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0098",
+    "pda_id": "PDA-REG-0365"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0098",
+    "pda_id": "PDA-REG-0366"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0099",
+    "pda_id": "PDA-REG-0367"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0099",
+    "pda_id": "PDA-REG-0368"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0100",
+    "pda_id": "PDA-REG-0369"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0100",
+    "pda_id": "PDA-REG-0370"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0100",
+    "pda_id": "PDA-REG-0371"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0101",
+    "pda_id": "PDA-REG-0372"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0101",
+    "pda_id": "PDA-REG-0373"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0101",
+    "pda_id": "PDA-REG-0374"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0375"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0376"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0377"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0378"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0379"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0380"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0381"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-0382"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-0383"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-0384"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-0385"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-0386"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-0387"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-0388"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-0389"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0087",
+    "pda_id": "PDA-REG-0390"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0088",
+    "pda_id": "PDA-REG-0391"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0089",
+    "pda_id": "PDA-REG-0392"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0104",
+    "pda_id": "PDA-REG-0393"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0090",
+    "pda_id": "PDA-REG-0394"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0090",
+    "pda_id": "PDA-REG-0395"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0091",
+    "pda_id": "PDA-REG-0396"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0105",
+    "pda_id": "PDA-REG-0397"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0105",
+    "pda_id": "PDA-REG-0398"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0105",
+    "pda_id": "PDA-REG-0399"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0105",
+    "pda_id": "PDA-REG-0400"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0106",
+    "pda_id": "PDA-REG-0401"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0106",
+    "pda_id": "PDA-REG-0402"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0106",
+    "pda_id": "PDA-REG-0403"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0106",
+    "pda_id": "PDA-REG-0404"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0106",
+    "pda_id": "PDA-REG-0405"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0107",
+    "pda_id": "PDA-REG-0406"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0107",
+    "pda_id": "PDA-REG-0407"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0107",
+    "pda_id": "PDA-REG-0408"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0107",
+    "pda_id": "PDA-REG-0409"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0107",
+    "pda_id": "PDA-REG-0410"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0108",
+    "pda_id": "PDA-REG-0411"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0108",
+    "pda_id": "PDA-REG-0412"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0108",
+    "pda_id": "PDA-REG-0413"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0108",
+    "pda_id": "PDA-REG-0414"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0108",
+    "pda_id": "PDA-REG-0415"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0109",
+    "pda_id": "PDA-REG-0416"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0109",
+    "pda_id": "PDA-REG-0417"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0109",
+    "pda_id": "PDA-REG-0418"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0110",
+    "pda_id": "PDA-REG-0419"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0110",
+    "pda_id": "PDA-REG-0420"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0110",
+    "pda_id": "PDA-REG-0421"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0110",
+    "pda_id": "PDA-REG-0422"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0111",
+    "pda_id": "PDA-REG-0423"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0111",
+    "pda_id": "PDA-REG-0424"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0111",
+    "pda_id": "PDA-REG-0425"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0112",
+    "pda_id": "PDA-REG-0426"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0112",
+    "pda_id": "PDA-REG-0427"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0112",
+    "pda_id": "PDA-REG-0428"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0112",
+    "pda_id": "PDA-REG-0429"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0113",
+    "pda_id": "PDA-REG-0430"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0113",
+    "pda_id": "PDA-REG-0431"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0113",
+    "pda_id": "PDA-REG-0432"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0113",
+    "pda_id": "PDA-REG-0433"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0114",
+    "pda_id": "PDA-REG-0434"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0114",
+    "pda_id": "PDA-REG-0435"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0114",
+    "pda_id": "PDA-REG-0436"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0115",
+    "pda_id": "PDA-REG-0437"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0115",
+    "pda_id": "PDA-REG-0438"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0115",
+    "pda_id": "PDA-REG-0439"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0115",
+    "pda_id": "PDA-REG-0440"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0116",
+    "pda_id": "PDA-REG-0441"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0116",
+    "pda_id": "PDA-REG-0442"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0116",
+    "pda_id": "PDA-REG-0443"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0444"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0445"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0446"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0447"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-0448"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-0449"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-0450"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-0451"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-0452"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0117",
+    "pda_id": "PDA-REG-0453"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0117",
+    "pda_id": "PDA-REG-0454"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0117",
+    "pda_id": "PDA-REG-0455"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0117",
+    "pda_id": "PDA-REG-0456"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0087",
+    "pda_id": "PDA-REG-0457"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0088",
+    "pda_id": "PDA-REG-0458"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0118",
+    "pda_id": "PDA-REG-0459"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0118",
+    "pda_id": "PDA-REG-0460"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0089",
+    "pda_id": "PDA-REG-0461"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0119",
+    "pda_id": "PDA-REG-0462"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0119",
+    "pda_id": "PDA-REG-0463"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0119",
+    "pda_id": "PDA-REG-0464"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0091",
+    "pda_id": "PDA-REG-0465"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0091",
+    "pda_id": "PDA-REG-0466"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0120",
+    "pda_id": "PDA-REG-0467"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0120",
+    "pda_id": "PDA-REG-0468"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0121",
+    "pda_id": "PDA-REG-0469"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0121",
+    "pda_id": "PDA-REG-0470"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0122",
+    "pda_id": "PDA-REG-0471"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0122",
+    "pda_id": "PDA-REG-0472"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0122",
+    "pda_id": "PDA-REG-0473"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0122",
+    "pda_id": "PDA-REG-0474"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0123",
+    "pda_id": "PDA-REG-0475"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0123",
+    "pda_id": "PDA-REG-0476"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0124",
+    "pda_id": "PDA-REG-0477"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0124",
+    "pda_id": "PDA-REG-0478"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0125",
+    "pda_id": "PDA-REG-0479"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0126",
+    "pda_id": "PDA-REG-0480"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0126",
+    "pda_id": "PDA-REG-0481"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0127",
+    "pda_id": "PDA-REG-0482"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0127",
+    "pda_id": "PDA-REG-0483"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0128",
+    "pda_id": "PDA-REG-0484"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0128",
+    "pda_id": "PDA-REG-0485"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0129",
+    "pda_id": "PDA-REG-0486"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0129",
+    "pda_id": "PDA-REG-0487"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0130",
+    "pda_id": "PDA-REG-0488"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0130",
+    "pda_id": "PDA-REG-0489"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0131",
+    "pda_id": "PDA-REG-0490"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0131",
+    "pda_id": "PDA-REG-0491"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0132",
+    "pda_id": "PDA-REG-0492"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0133",
+    "pda_id": "PDA-REG-0493"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0133",
+    "pda_id": "PDA-REG-0494"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0134",
+    "pda_id": "PDA-REG-0495"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0134",
+    "pda_id": "PDA-REG-0496"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0134",
+    "pda_id": "PDA-REG-0497"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0135",
+    "pda_id": "PDA-REG-0498"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0135",
+    "pda_id": "PDA-REG-0499"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0136",
+    "pda_id": "PDA-REG-0500"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0137",
+    "pda_id": "PDA-REG-0501"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0137",
+    "pda_id": "PDA-REG-0502"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0138",
+    "pda_id": "PDA-REG-0503"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0138",
+    "pda_id": "PDA-REG-0504"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0138",
+    "pda_id": "PDA-REG-0505"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0138",
+    "pda_id": "PDA-REG-0506"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0138",
+    "pda_id": "PDA-REG-0507"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0139",
+    "pda_id": "PDA-REG-0508"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0139",
+    "pda_id": "PDA-REG-0509"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0139",
+    "pda_id": "PDA-REG-0510"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0139",
+    "pda_id": "PDA-REG-0511"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0140",
+    "pda_id": "PDA-REG-0512"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0140",
+    "pda_id": "PDA-REG-0513"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0140",
+    "pda_id": "PDA-REG-0514"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0141",
+    "pda_id": "PDA-REG-0515"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0141",
+    "pda_id": "PDA-REG-0516"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0141",
+    "pda_id": "PDA-REG-0517"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0141",
+    "pda_id": "PDA-REG-0518"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0142",
+    "pda_id": "PDA-REG-0519"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0142",
+    "pda_id": "PDA-REG-0520"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0142",
+    "pda_id": "PDA-REG-0521"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0142",
+    "pda_id": "PDA-REG-0522"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0143",
+    "pda_id": "PDA-REG-0523"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0143",
+    "pda_id": "PDA-REG-0524"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0143",
+    "pda_id": "PDA-REG-0525"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0143",
+    "pda_id": "PDA-REG-0526"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0144",
+    "pda_id": "PDA-REG-0527"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0144",
+    "pda_id": "PDA-REG-0528"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0144",
+    "pda_id": "PDA-REG-0529"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0145",
+    "pda_id": "PDA-REG-0530"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0145",
+    "pda_id": "PDA-REG-0531"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0145",
+    "pda_id": "PDA-REG-0532"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0145",
+    "pda_id": "PDA-REG-0533"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0145",
+    "pda_id": "PDA-REG-0534"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0146",
+    "pda_id": "PDA-REG-0535"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0146",
+    "pda_id": "PDA-REG-0536"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0146",
+    "pda_id": "PDA-REG-0537"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0147",
+    "pda_id": "PDA-REG-0538"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0147",
+    "pda_id": "PDA-REG-0539"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0147",
+    "pda_id": "PDA-REG-0540"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0148",
+    "pda_id": "PDA-REG-0541"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0148",
+    "pda_id": "PDA-REG-0542"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0149",
+    "pda_id": "PDA-REG-0543"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0149",
+    "pda_id": "PDA-REG-0544"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0150",
+    "pda_id": "PDA-REG-0545"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0150",
+    "pda_id": "PDA-REG-0546"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0150",
+    "pda_id": "PDA-REG-0547"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0150",
+    "pda_id": "PDA-REG-0548"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0151",
+    "pda_id": "PDA-REG-0549"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0152",
+    "pda_id": "PDA-REG-0550"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0152",
+    "pda_id": "PDA-REG-0551"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0153",
+    "pda_id": "PDA-REG-0552"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0153",
+    "pda_id": "PDA-REG-0553"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0154",
+    "pda_id": "PDA-REG-0554"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0154",
+    "pda_id": "PDA-REG-0555"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0155",
+    "pda_id": "PDA-REG-0556"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0155",
+    "pda_id": "PDA-REG-0557"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0155",
+    "pda_id": "PDA-REG-0558"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0156",
+    "pda_id": "PDA-REG-0559"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0156",
+    "pda_id": "PDA-REG-0560"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0156",
+    "pda_id": "PDA-REG-0561"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0156",
+    "pda_id": "PDA-REG-0562"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0156",
+    "pda_id": "PDA-REG-0563"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0157",
+    "pda_id": "PDA-REG-0564"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0157",
+    "pda_id": "PDA-REG-0565"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0157",
+    "pda_id": "PDA-REG-0566"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0158",
+    "pda_id": "PDA-REG-0567"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0158",
+    "pda_id": "PDA-REG-0568"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0158",
+    "pda_id": "PDA-REG-0569"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0158",
+    "pda_id": "PDA-REG-0570"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0159",
+    "pda_id": "PDA-REG-0571"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0159",
+    "pda_id": "PDA-REG-0572"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0159",
+    "pda_id": "PDA-REG-0573"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0159",
+    "pda_id": "PDA-REG-0574"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0160",
+    "pda_id": "PDA-REG-0575"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0160",
+    "pda_id": "PDA-REG-0576"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0160",
+    "pda_id": "PDA-REG-0577"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0161",
+    "pda_id": "PDA-REG-0578"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-0579"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-0580"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-0581"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-0582"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-0583"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-0584"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-0585"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-0586"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0163",
+    "pda_id": "PDA-REG-0587"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0163",
+    "pda_id": "PDA-REG-0588"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0163",
+    "pda_id": "PDA-REG-0589"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0163",
+    "pda_id": "PDA-REG-0590"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0164",
+    "pda_id": "PDA-REG-0591"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0164",
+    "pda_id": "PDA-REG-0592"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0164",
+    "pda_id": "PDA-REG-0593"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0165",
+    "pda_id": "PDA-REG-0594"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0165",
+    "pda_id": "PDA-REG-0595"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0165",
+    "pda_id": "PDA-REG-0596"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0166",
+    "pda_id": "PDA-REG-0597"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0166",
+    "pda_id": "PDA-REG-0598"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0166",
+    "pda_id": "PDA-REG-0599"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0167",
+    "pda_id": "PDA-REG-0600"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0167",
+    "pda_id": "PDA-REG-0601"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0167",
+    "pda_id": "PDA-REG-0602"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0168",
+    "pda_id": "PDA-REG-0603"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0168",
+    "pda_id": "PDA-REG-0604"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0169",
+    "pda_id": "PDA-REG-0605"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0169",
+    "pda_id": "PDA-REG-0606"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0169",
+    "pda_id": "PDA-REG-0607"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0169",
+    "pda_id": "PDA-REG-0608"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0169",
+    "pda_id": "PDA-REG-0609"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0170",
+    "pda_id": "PDA-REG-0610"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0171",
+    "pda_id": "PDA-REG-0611"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0171",
+    "pda_id": "PDA-REG-0612"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-0613"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-0614"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-0615"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-0616"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-0617"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-0618"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0619"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0620"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0621"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0622"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0623"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0624"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0625"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0626"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0627"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0628"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0629"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-0630"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-0631"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-0632"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-0633"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-0634"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-0635"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-0636"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-0637"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-0638"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-0639"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-0640"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-0641"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-0642"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-0643"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-0644"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-0645"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-0646"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-0647"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-0648"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-0649"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-0650"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-0651"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-0652"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-0653"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-0654"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-0655"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0177",
+    "pda_id": "PDA-REG-0656"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0177",
+    "pda_id": "PDA-REG-0657"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0177",
+    "pda_id": "PDA-REG-0658"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0178",
+    "pda_id": "PDA-REG-0659"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0178",
+    "pda_id": "PDA-REG-0660"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0179",
+    "pda_id": "PDA-REG-0661"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0179",
+    "pda_id": "PDA-REG-0662"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0180",
+    "pda_id": "PDA-REG-0663"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0181",
+    "pda_id": "PDA-REG-0664"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0181",
+    "pda_id": "PDA-REG-0665"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0181",
+    "pda_id": "PDA-REG-0666"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0182",
+    "pda_id": "PDA-REG-0667"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-0668"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-0669"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0184",
+    "pda_id": "PDA-REG-0670"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0185",
+    "pda_id": "PDA-REG-0671"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0186",
+    "pda_id": "PDA-REG-0672"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0187",
+    "pda_id": "PDA-REG-0673"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0188",
+    "pda_id": "PDA-REG-0674"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0189",
+    "pda_id": "PDA-REG-0675"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-0676"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-0677"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-0678"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0191",
+    "pda_id": "PDA-REG-0679"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0191",
+    "pda_id": "PDA-REG-0680"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0192",
+    "pda_id": "PDA-REG-0681"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0192",
+    "pda_id": "PDA-REG-0682"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0193",
+    "pda_id": "PDA-REG-0683"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0194",
+    "pda_id": "PDA-REG-0684"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0195",
+    "pda_id": "PDA-REG-0685"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0195",
+    "pda_id": "PDA-REG-0686"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-0687"
+  },
+  {
+    "grado_id": "G01",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-0688"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0197",
+    "pda_id": "PDA-REG-0689"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0197",
+    "pda_id": "PDA-REG-0690"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0198",
+    "pda_id": "PDA-REG-0691"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0198",
+    "pda_id": "PDA-REG-0692"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0198",
+    "pda_id": "PDA-REG-0693"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0199",
+    "pda_id": "PDA-REG-0694"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0199",
+    "pda_id": "PDA-REG-0695"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0182",
+    "pda_id": "PDA-REG-0696"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-0697"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-0698"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0200",
+    "pda_id": "PDA-REG-0699"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0184",
+    "pda_id": "PDA-REG-0700"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0201",
+    "pda_id": "PDA-REG-0701"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0202",
+    "pda_id": "PDA-REG-0702"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0202",
+    "pda_id": "PDA-REG-0703"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0202",
+    "pda_id": "PDA-REG-0704"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0203",
+    "pda_id": "PDA-REG-0705"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0203",
+    "pda_id": "PDA-REG-0706"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0185",
+    "pda_id": "PDA-REG-0707"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0186",
+    "pda_id": "PDA-REG-0708"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0187",
+    "pda_id": "PDA-REG-0709"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0204",
+    "pda_id": "PDA-REG-0710"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0189",
+    "pda_id": "PDA-REG-0711"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0205",
+    "pda_id": "PDA-REG-0712"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0205",
+    "pda_id": "PDA-REG-0713"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0206",
+    "pda_id": "PDA-REG-0714"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0207",
+    "pda_id": "PDA-REG-0715"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0207",
+    "pda_id": "PDA-REG-0716"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0207",
+    "pda_id": "PDA-REG-0717"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0207",
+    "pda_id": "PDA-REG-0718"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0207",
+    "pda_id": "PDA-REG-0719"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-0720"
+  },
+  {
+    "grado_id": "G03",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-0721"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0208",
+    "pda_id": "PDA-REG-0722"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0208",
+    "pda_id": "PDA-REG-0723"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0209",
+    "pda_id": "PDA-REG-0724"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0209",
+    "pda_id": "PDA-REG-0725"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0210",
+    "pda_id": "PDA-REG-0726"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0210",
+    "pda_id": "PDA-REG-0727"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0211",
+    "pda_id": "PDA-REG-0728"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0211",
+    "pda_id": "PDA-REG-0729"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0182",
+    "pda_id": "PDA-REG-0730"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-0731"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-0732"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0184",
+    "pda_id": "PDA-REG-0733"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0212",
+    "pda_id": "PDA-REG-0734"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0213",
+    "pda_id": "PDA-REG-0735"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0214",
+    "pda_id": "PDA-REG-0736"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0187",
+    "pda_id": "PDA-REG-0737"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0204",
+    "pda_id": "PDA-REG-0738"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0189",
+    "pda_id": "PDA-REG-0739"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-0740"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-0741"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-0742"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0191",
+    "pda_id": "PDA-REG-0743"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0191",
+    "pda_id": "PDA-REG-0744"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0215",
+    "pda_id": "PDA-REG-0745"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0215",
+    "pda_id": "PDA-REG-0746"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0215",
+    "pda_id": "PDA-REG-0747"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0215",
+    "pda_id": "PDA-REG-0748"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-0749"
+  },
+  {
+    "grado_id": "G05",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-0750"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0001",
+    "pda_id": "PDA-REG-0751"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0001",
+    "pda_id": "PDA-REG-0752"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0753"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0754"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0755"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0756"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0757"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0002",
+    "pda_id": "PDA-REG-0758"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0003",
+    "pda_id": "PDA-REG-0759"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0003",
+    "pda_id": "PDA-REG-0760"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0003",
+    "pda_id": "PDA-REG-0761"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0003",
+    "pda_id": "PDA-REG-0762"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0003",
+    "pda_id": "PDA-REG-0763"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0004",
+    "pda_id": "PDA-REG-0764"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0004",
+    "pda_id": "PDA-REG-0765"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0004",
+    "pda_id": "PDA-REG-0766"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0004",
+    "pda_id": "PDA-REG-0767"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0004",
+    "pda_id": "PDA-REG-0768"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0005",
+    "pda_id": "PDA-REG-0769"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0005",
+    "pda_id": "PDA-REG-0770"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0771"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0772"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0773"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0774"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0775"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0006",
+    "pda_id": "PDA-REG-0776"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0007",
+    "pda_id": "PDA-REG-0777"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0008",
+    "pda_id": "PDA-REG-0778"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0008",
+    "pda_id": "PDA-REG-0779"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0008",
+    "pda_id": "PDA-REG-0780"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0008",
+    "pda_id": "PDA-REG-0781"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0009",
+    "pda_id": "PDA-REG-0782"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0009",
+    "pda_id": "PDA-REG-0783"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0009",
+    "pda_id": "PDA-REG-0784"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0010",
+    "pda_id": "PDA-REG-0785"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0010",
+    "pda_id": "PDA-REG-0786"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0011",
+    "pda_id": "PDA-REG-0787"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0011",
+    "pda_id": "PDA-REG-0788"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0011",
+    "pda_id": "PDA-REG-0789"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0012",
+    "pda_id": "PDA-REG-0790"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0012",
+    "pda_id": "PDA-REG-0791"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0012",
+    "pda_id": "PDA-REG-0792"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0013",
+    "pda_id": "PDA-REG-0793"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0014",
+    "pda_id": "PDA-REG-0794"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0014",
+    "pda_id": "PDA-REG-0795"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0015",
+    "pda_id": "PDA-REG-0796"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0015",
+    "pda_id": "PDA-REG-0797"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0016",
+    "pda_id": "PDA-REG-0798"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0016",
+    "pda_id": "PDA-REG-0799"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0016",
+    "pda_id": "PDA-REG-0800"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0017",
+    "pda_id": "PDA-REG-0801"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0017",
+    "pda_id": "PDA-REG-0802"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0018",
+    "pda_id": "PDA-REG-0803"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0018",
+    "pda_id": "PDA-REG-0804"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0019",
+    "pda_id": "PDA-REG-0805"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0019",
+    "pda_id": "PDA-REG-0806"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0019",
+    "pda_id": "PDA-REG-0807"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0020",
+    "pda_id": "PDA-REG-0808"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0020",
+    "pda_id": "PDA-REG-0809"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0020",
+    "pda_id": "PDA-REG-0810"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0021",
+    "pda_id": "PDA-REG-0811"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0021",
+    "pda_id": "PDA-REG-0812"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0021",
+    "pda_id": "PDA-REG-0813"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0022",
+    "pda_id": "PDA-REG-0814"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0022",
+    "pda_id": "PDA-REG-0815"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0022",
+    "pda_id": "PDA-REG-0816"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0022",
+    "pda_id": "PDA-REG-0817"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0023",
+    "pda_id": "PDA-REG-0818"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0023",
+    "pda_id": "PDA-REG-0819"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0023",
+    "pda_id": "PDA-REG-0820"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0023",
+    "pda_id": "PDA-REG-0821"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0024",
+    "pda_id": "PDA-REG-0822"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0024",
+    "pda_id": "PDA-REG-0823"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0024",
+    "pda_id": "PDA-REG-0824"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0025",
+    "pda_id": "PDA-REG-0825"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0025",
+    "pda_id": "PDA-REG-0826"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0025",
+    "pda_id": "PDA-REG-0827"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0025",
+    "pda_id": "PDA-REG-0828"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0025",
+    "pda_id": "PDA-REG-0829"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0026",
+    "pda_id": "PDA-REG-0830"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0026",
+    "pda_id": "PDA-REG-0831"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0026",
+    "pda_id": "PDA-REG-0832"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0027",
+    "pda_id": "PDA-REG-0833"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0027",
+    "pda_id": "PDA-REG-0834"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0027",
+    "pda_id": "PDA-REG-0835"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0027",
+    "pda_id": "PDA-REG-0836"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0028",
+    "pda_id": "PDA-REG-0837"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0028",
+    "pda_id": "PDA-REG-0838"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0028",
+    "pda_id": "PDA-REG-0839"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0028",
+    "pda_id": "PDA-REG-0840"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0028",
+    "pda_id": "PDA-REG-0841"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0029",
+    "pda_id": "PDA-REG-0842"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0029",
+    "pda_id": "PDA-REG-0843"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0029",
+    "pda_id": "PDA-REG-0844"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0029",
+    "pda_id": "PDA-REG-0845"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0846"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0847"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0848"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0849"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0850"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0030",
+    "pda_id": "PDA-REG-0851"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0852"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0853"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0854"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0855"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0856"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0031",
+    "pda_id": "PDA-REG-0857"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0032",
+    "pda_id": "PDA-REG-0858"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0032",
+    "pda_id": "PDA-REG-0859"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0032",
+    "pda_id": "PDA-REG-0860"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0032",
+    "pda_id": "PDA-REG-0861"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0033",
+    "pda_id": "PDA-REG-0862"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0033",
+    "pda_id": "PDA-REG-0863"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0033",
+    "pda_id": "PDA-REG-0864"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0033",
+    "pda_id": "PDA-REG-0865"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0033",
+    "pda_id": "PDA-REG-0866"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0034",
+    "pda_id": "PDA-REG-0867"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0034",
+    "pda_id": "PDA-REG-0868"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0034",
+    "pda_id": "PDA-REG-0869"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0034",
+    "pda_id": "PDA-REG-0870"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0034",
+    "pda_id": "PDA-REG-0871"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0872"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0873"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0874"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0875"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0876"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0877"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0035",
+    "pda_id": "PDA-REG-0878"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0036",
+    "pda_id": "PDA-REG-0879"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0036",
+    "pda_id": "PDA-REG-0880"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0036",
+    "pda_id": "PDA-REG-0881"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0036",
+    "pda_id": "PDA-REG-0882"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0037",
+    "pda_id": "PDA-REG-0883"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0037",
+    "pda_id": "PDA-REG-0884"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0037",
+    "pda_id": "PDA-REG-0885"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0037",
+    "pda_id": "PDA-REG-0886"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0037",
+    "pda_id": "PDA-REG-0887"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0038",
+    "pda_id": "PDA-REG-0888"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0038",
+    "pda_id": "PDA-REG-0889"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0038",
+    "pda_id": "PDA-REG-0890"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0038",
+    "pda_id": "PDA-REG-0891"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0039",
+    "pda_id": "PDA-REG-0892"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0039",
+    "pda_id": "PDA-REG-0893"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0039",
+    "pda_id": "PDA-REG-0894"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0039",
+    "pda_id": "PDA-REG-0895"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0040",
+    "pda_id": "PDA-REG-0896"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0040",
+    "pda_id": "PDA-REG-0897"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0040",
+    "pda_id": "PDA-REG-0898"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0040",
+    "pda_id": "PDA-REG-0899"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0040",
+    "pda_id": "PDA-REG-0900"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0041",
+    "pda_id": "PDA-REG-0901"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0041",
+    "pda_id": "PDA-REG-0902"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0041",
+    "pda_id": "PDA-REG-0903"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0041",
+    "pda_id": "PDA-REG-0904"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0042",
+    "pda_id": "PDA-REG-0905"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0042",
+    "pda_id": "PDA-REG-0906"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0042",
+    "pda_id": "PDA-REG-0907"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0042",
+    "pda_id": "PDA-REG-0908"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0042",
+    "pda_id": "PDA-REG-0909"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0043",
+    "pda_id": "PDA-REG-0910"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0043",
+    "pda_id": "PDA-REG-0911"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0043",
+    "pda_id": "PDA-REG-0912"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0044",
+    "pda_id": "PDA-REG-0913"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0044",
+    "pda_id": "PDA-REG-0914"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0044",
+    "pda_id": "PDA-REG-0915"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0044",
+    "pda_id": "PDA-REG-0916"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0044",
+    "pda_id": "PDA-REG-0917"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0045",
+    "pda_id": "PDA-REG-0918"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0045",
+    "pda_id": "PDA-REG-0919"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0045",
+    "pda_id": "PDA-REG-0920"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0045",
+    "pda_id": "PDA-REG-0921"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0045",
+    "pda_id": "PDA-REG-0922"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0046",
+    "pda_id": "PDA-REG-0923"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0046",
+    "pda_id": "PDA-REG-0924"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0046",
+    "pda_id": "PDA-REG-0925"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0047",
+    "pda_id": "PDA-REG-0926"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0047",
+    "pda_id": "PDA-REG-0927"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0048",
+    "pda_id": "PDA-REG-0928"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0048",
+    "pda_id": "PDA-REG-0929"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0048",
+    "pda_id": "PDA-REG-0930"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0048",
+    "pda_id": "PDA-REG-0931"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0049",
+    "pda_id": "PDA-REG-0932"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0049",
+    "pda_id": "PDA-REG-0933"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0049",
+    "pda_id": "PDA-REG-0934"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0050",
+    "pda_id": "PDA-REG-0935"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0050",
+    "pda_id": "PDA-REG-0936"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0050",
+    "pda_id": "PDA-REG-0937"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0050",
+    "pda_id": "PDA-REG-0938"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0050",
+    "pda_id": "PDA-REG-0939"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0051",
+    "pda_id": "PDA-REG-0940"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0051",
+    "pda_id": "PDA-REG-0941"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0051",
+    "pda_id": "PDA-REG-0942"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0051",
+    "pda_id": "PDA-REG-0943"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0051",
+    "pda_id": "PDA-REG-0944"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0052",
+    "pda_id": "PDA-REG-0945"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0052",
+    "pda_id": "PDA-REG-0946"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0052",
+    "pda_id": "PDA-REG-0947"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0052",
+    "pda_id": "PDA-REG-0948"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0052",
+    "pda_id": "PDA-REG-0949"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0053",
+    "pda_id": "PDA-REG-0950"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0053",
+    "pda_id": "PDA-REG-0951"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0053",
+    "pda_id": "PDA-REG-0952"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0053",
+    "pda_id": "PDA-REG-0953"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0053",
+    "pda_id": "PDA-REG-0954"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0054",
+    "pda_id": "PDA-REG-0955"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0054",
+    "pda_id": "PDA-REG-0956"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0054",
+    "pda_id": "PDA-REG-0957"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0054",
+    "pda_id": "PDA-REG-0958"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0054",
+    "pda_id": "PDA-REG-0959"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0055",
+    "pda_id": "PDA-REG-0960"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0055",
+    "pda_id": "PDA-REG-0961"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0055",
+    "pda_id": "PDA-REG-0962"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0055",
+    "pda_id": "PDA-REG-0963"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0056",
+    "pda_id": "PDA-REG-0964"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0056",
+    "pda_id": "PDA-REG-0965"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0056",
+    "pda_id": "PDA-REG-0966"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0056",
+    "pda_id": "PDA-REG-0967"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0057",
+    "pda_id": "PDA-REG-0968"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0057",
+    "pda_id": "PDA-REG-0969"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0057",
+    "pda_id": "PDA-REG-0970"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0057",
+    "pda_id": "PDA-REG-0971"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0058",
+    "pda_id": "PDA-REG-0972"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0058",
+    "pda_id": "PDA-REG-0973"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0058",
+    "pda_id": "PDA-REG-0974"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0058",
+    "pda_id": "PDA-REG-0975"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0058",
+    "pda_id": "PDA-REG-0976"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0059",
+    "pda_id": "PDA-REG-0977"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0059",
+    "pda_id": "PDA-REG-0978"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0059",
+    "pda_id": "PDA-REG-0979"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0059",
+    "pda_id": "PDA-REG-0980"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0059",
+    "pda_id": "PDA-REG-0981"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0060",
+    "pda_id": "PDA-REG-0982"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0060",
+    "pda_id": "PDA-REG-0983"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0060",
+    "pda_id": "PDA-REG-0984"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0060",
+    "pda_id": "PDA-REG-0985"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0060",
+    "pda_id": "PDA-REG-0986"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0061",
+    "pda_id": "PDA-REG-0987"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0061",
+    "pda_id": "PDA-REG-0988"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0061",
+    "pda_id": "PDA-REG-0989"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0061",
+    "pda_id": "PDA-REG-0990"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0061",
+    "pda_id": "PDA-REG-0991"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0062",
+    "pda_id": "PDA-REG-0992"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0062",
+    "pda_id": "PDA-REG-0993"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0062",
+    "pda_id": "PDA-REG-0994"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0062",
+    "pda_id": "PDA-REG-0995"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0062",
+    "pda_id": "PDA-REG-0996"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0063",
+    "pda_id": "PDA-REG-0997"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0063",
+    "pda_id": "PDA-REG-0998"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0063",
+    "pda_id": "PDA-REG-0999"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0063",
+    "pda_id": "PDA-REG-1000"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0063",
+    "pda_id": "PDA-REG-1001"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0064",
+    "pda_id": "PDA-REG-1002"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0064",
+    "pda_id": "PDA-REG-1003"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0064",
+    "pda_id": "PDA-REG-1004"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0064",
+    "pda_id": "PDA-REG-1005"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0064",
+    "pda_id": "PDA-REG-1006"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0065",
+    "pda_id": "PDA-REG-1007"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0065",
+    "pda_id": "PDA-REG-1008"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0065",
+    "pda_id": "PDA-REG-1009"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0065",
+    "pda_id": "PDA-REG-1010"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0065",
+    "pda_id": "PDA-REG-1011"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0066",
+    "pda_id": "PDA-REG-1012"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0066",
+    "pda_id": "PDA-REG-1013"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0066",
+    "pda_id": "PDA-REG-1014"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0066",
+    "pda_id": "PDA-REG-1015"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0066",
+    "pda_id": "PDA-REG-1016"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0067",
+    "pda_id": "PDA-REG-1017"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0067",
+    "pda_id": "PDA-REG-1018"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0067",
+    "pda_id": "PDA-REG-1019"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0068",
+    "pda_id": "PDA-REG-1020"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0068",
+    "pda_id": "PDA-REG-1021"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0068",
+    "pda_id": "PDA-REG-1022"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0069",
+    "pda_id": "PDA-REG-1023"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0069",
+    "pda_id": "PDA-REG-1024"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0069",
+    "pda_id": "PDA-REG-1025"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0069",
+    "pda_id": "PDA-REG-1026"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0069",
+    "pda_id": "PDA-REG-1027"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0070",
+    "pda_id": "PDA-REG-1028"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0070",
+    "pda_id": "PDA-REG-1029"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0070",
+    "pda_id": "PDA-REG-1030"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0070",
+    "pda_id": "PDA-REG-1031"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0071",
+    "pda_id": "PDA-REG-1032"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0071",
+    "pda_id": "PDA-REG-1033"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0072",
+    "pda_id": "PDA-REG-1034"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0072",
+    "pda_id": "PDA-REG-1035"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0072",
+    "pda_id": "PDA-REG-1036"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0073",
+    "pda_id": "PDA-REG-1037"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0073",
+    "pda_id": "PDA-REG-1038"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0073",
+    "pda_id": "PDA-REG-1039"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0073",
+    "pda_id": "PDA-REG-1040"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0074",
+    "pda_id": "PDA-REG-1041"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0074",
+    "pda_id": "PDA-REG-1042"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0074",
+    "pda_id": "PDA-REG-1043"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-1044"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-1045"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-1046"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-1047"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-1048"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF01",
+    "contenido_id": "C0075",
+    "pda_id": "PDA-REG-1049"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0076",
+    "pda_id": "PDA-REG-1050"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0076",
+    "pda_id": "PDA-REG-1051"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0076",
+    "pda_id": "PDA-REG-1052"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0077",
+    "pda_id": "PDA-REG-1053"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0077",
+    "pda_id": "PDA-REG-1054"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0077",
+    "pda_id": "PDA-REG-1055"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0077",
+    "pda_id": "PDA-REG-1056"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0078",
+    "pda_id": "PDA-REG-1057"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0078",
+    "pda_id": "PDA-REG-1058"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0078",
+    "pda_id": "PDA-REG-1059"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0078",
+    "pda_id": "PDA-REG-1060"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0079",
+    "pda_id": "PDA-REG-1061"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0079",
+    "pda_id": "PDA-REG-1062"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0079",
+    "pda_id": "PDA-REG-1063"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0080",
+    "pda_id": "PDA-REG-1064"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0080",
+    "pda_id": "PDA-REG-1065"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0080",
+    "pda_id": "PDA-REG-1066"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0081",
+    "pda_id": "PDA-REG-1067"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0081",
+    "pda_id": "PDA-REG-1068"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0081",
+    "pda_id": "PDA-REG-1069"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0082",
+    "pda_id": "PDA-REG-1070"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0082",
+    "pda_id": "PDA-REG-1071"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0082",
+    "pda_id": "PDA-REG-1072"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0082",
+    "pda_id": "PDA-REG-1073"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0083",
+    "pda_id": "PDA-REG-1074"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0083",
+    "pda_id": "PDA-REG-1075"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1076"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1077"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1078"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0085",
+    "pda_id": "PDA-REG-1079"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0085",
+    "pda_id": "PDA-REG-1080"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0085",
+    "pda_id": "PDA-REG-1081"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0086",
+    "pda_id": "PDA-REG-1082"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0086",
+    "pda_id": "PDA-REG-1083"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0086",
+    "pda_id": "PDA-REG-1084"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0086",
+    "pda_id": "PDA-REG-1085"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0087",
+    "pda_id": "PDA-REG-1086"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0088",
+    "pda_id": "PDA-REG-1087"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0088",
+    "pda_id": "PDA-REG-1088"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0089",
+    "pda_id": "PDA-REG-1089"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0089",
+    "pda_id": "PDA-REG-1090"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0090",
+    "pda_id": "PDA-REG-1091"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0091",
+    "pda_id": "PDA-REG-1092"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0092",
+    "pda_id": "PDA-REG-1093"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0092",
+    "pda_id": "PDA-REG-1094"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0092",
+    "pda_id": "PDA-REG-1095"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0093",
+    "pda_id": "PDA-REG-1096"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0093",
+    "pda_id": "PDA-REG-1097"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0093",
+    "pda_id": "PDA-REG-1098"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0093",
+    "pda_id": "PDA-REG-1099"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0094",
+    "pda_id": "PDA-REG-1100"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0094",
+    "pda_id": "PDA-REG-1101"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0094",
+    "pda_id": "PDA-REG-1102"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0094",
+    "pda_id": "PDA-REG-1103"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0095",
+    "pda_id": "PDA-REG-1104"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0095",
+    "pda_id": "PDA-REG-1105"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0095",
+    "pda_id": "PDA-REG-1106"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0095",
+    "pda_id": "PDA-REG-1107"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0096",
+    "pda_id": "PDA-REG-1108"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0096",
+    "pda_id": "PDA-REG-1109"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0096",
+    "pda_id": "PDA-REG-1110"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0097",
+    "pda_id": "PDA-REG-1111"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0097",
+    "pda_id": "PDA-REG-1112"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0097",
+    "pda_id": "PDA-REG-1113"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0098",
+    "pda_id": "PDA-REG-1114"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0098",
+    "pda_id": "PDA-REG-1115"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0098",
+    "pda_id": "PDA-REG-1116"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0099",
+    "pda_id": "PDA-REG-1117"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0099",
+    "pda_id": "PDA-REG-1118"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0100",
+    "pda_id": "PDA-REG-1119"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0100",
+    "pda_id": "PDA-REG-1120"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0100",
+    "pda_id": "PDA-REG-1121"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0101",
+    "pda_id": "PDA-REG-1122"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0101",
+    "pda_id": "PDA-REG-1123"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0101",
+    "pda_id": "PDA-REG-1124"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1125"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1126"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1127"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1128"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1129"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1130"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1131"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-1132"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-1133"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-1134"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-1135"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-1136"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-1137"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-1138"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-1139"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0087",
+    "pda_id": "PDA-REG-1140"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0088",
+    "pda_id": "PDA-REG-1141"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0089",
+    "pda_id": "PDA-REG-1142"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0104",
+    "pda_id": "PDA-REG-1143"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0090",
+    "pda_id": "PDA-REG-1144"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0090",
+    "pda_id": "PDA-REG-1145"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0091",
+    "pda_id": "PDA-REG-1146"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0105",
+    "pda_id": "PDA-REG-1147"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0105",
+    "pda_id": "PDA-REG-1148"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0105",
+    "pda_id": "PDA-REG-1149"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0105",
+    "pda_id": "PDA-REG-1150"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0106",
+    "pda_id": "PDA-REG-1151"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0106",
+    "pda_id": "PDA-REG-1152"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0106",
+    "pda_id": "PDA-REG-1153"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0106",
+    "pda_id": "PDA-REG-1154"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0106",
+    "pda_id": "PDA-REG-1155"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0107",
+    "pda_id": "PDA-REG-1156"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0107",
+    "pda_id": "PDA-REG-1157"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0107",
+    "pda_id": "PDA-REG-1158"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0107",
+    "pda_id": "PDA-REG-1159"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0107",
+    "pda_id": "PDA-REG-1160"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0108",
+    "pda_id": "PDA-REG-1161"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0108",
+    "pda_id": "PDA-REG-1162"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0108",
+    "pda_id": "PDA-REG-1163"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0108",
+    "pda_id": "PDA-REG-1164"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0108",
+    "pda_id": "PDA-REG-1165"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0109",
+    "pda_id": "PDA-REG-1166"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0109",
+    "pda_id": "PDA-REG-1167"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0109",
+    "pda_id": "PDA-REG-1168"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0110",
+    "pda_id": "PDA-REG-1169"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0110",
+    "pda_id": "PDA-REG-1170"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0110",
+    "pda_id": "PDA-REG-1171"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0110",
+    "pda_id": "PDA-REG-1172"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0111",
+    "pda_id": "PDA-REG-1173"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0111",
+    "pda_id": "PDA-REG-1174"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0111",
+    "pda_id": "PDA-REG-1175"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0112",
+    "pda_id": "PDA-REG-1176"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0112",
+    "pda_id": "PDA-REG-1177"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0112",
+    "pda_id": "PDA-REG-1178"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0112",
+    "pda_id": "PDA-REG-1179"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0113",
+    "pda_id": "PDA-REG-1180"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0113",
+    "pda_id": "PDA-REG-1181"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0113",
+    "pda_id": "PDA-REG-1182"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0113",
+    "pda_id": "PDA-REG-1183"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0114",
+    "pda_id": "PDA-REG-1184"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0114",
+    "pda_id": "PDA-REG-1185"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0114",
+    "pda_id": "PDA-REG-1186"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0115",
+    "pda_id": "PDA-REG-1187"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0115",
+    "pda_id": "PDA-REG-1188"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0115",
+    "pda_id": "PDA-REG-1189"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0115",
+    "pda_id": "PDA-REG-1190"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0116",
+    "pda_id": "PDA-REG-1191"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0116",
+    "pda_id": "PDA-REG-1192"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0116",
+    "pda_id": "PDA-REG-1193"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1194"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1195"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1196"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1197"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0084",
+    "pda_id": "PDA-REG-1198"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-1199"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0102",
+    "pda_id": "PDA-REG-1200"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-1201"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0103",
+    "pda_id": "PDA-REG-1202"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0117",
+    "pda_id": "PDA-REG-1203"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0117",
+    "pda_id": "PDA-REG-1204"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0117",
+    "pda_id": "PDA-REG-1205"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0117",
+    "pda_id": "PDA-REG-1206"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0087",
+    "pda_id": "PDA-REG-1207"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0088",
+    "pda_id": "PDA-REG-1208"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0118",
+    "pda_id": "PDA-REG-1209"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0118",
+    "pda_id": "PDA-REG-1210"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0089",
+    "pda_id": "PDA-REG-1211"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0119",
+    "pda_id": "PDA-REG-1212"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0119",
+    "pda_id": "PDA-REG-1213"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0119",
+    "pda_id": "PDA-REG-1214"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0091",
+    "pda_id": "PDA-REG-1215"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0091",
+    "pda_id": "PDA-REG-1216"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0120",
+    "pda_id": "PDA-REG-1217"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF02",
+    "contenido_id": "C0120",
+    "pda_id": "PDA-REG-1218"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0121",
+    "pda_id": "PDA-REG-1219"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0121",
+    "pda_id": "PDA-REG-1220"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0122",
+    "pda_id": "PDA-REG-1221"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0122",
+    "pda_id": "PDA-REG-1222"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0122",
+    "pda_id": "PDA-REG-1223"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0122",
+    "pda_id": "PDA-REG-1224"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0123",
+    "pda_id": "PDA-REG-1225"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0123",
+    "pda_id": "PDA-REG-1226"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0124",
+    "pda_id": "PDA-REG-1227"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0124",
+    "pda_id": "PDA-REG-1228"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0125",
+    "pda_id": "PDA-REG-1229"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0126",
+    "pda_id": "PDA-REG-1230"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0126",
+    "pda_id": "PDA-REG-1231"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0127",
+    "pda_id": "PDA-REG-1232"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0127",
+    "pda_id": "PDA-REG-1233"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0128",
+    "pda_id": "PDA-REG-1234"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0128",
+    "pda_id": "PDA-REG-1235"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0129",
+    "pda_id": "PDA-REG-1236"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0129",
+    "pda_id": "PDA-REG-1237"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0130",
+    "pda_id": "PDA-REG-1238"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0130",
+    "pda_id": "PDA-REG-1239"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0131",
+    "pda_id": "PDA-REG-1240"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0131",
+    "pda_id": "PDA-REG-1241"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0132",
+    "pda_id": "PDA-REG-1242"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0133",
+    "pda_id": "PDA-REG-1243"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0133",
+    "pda_id": "PDA-REG-1244"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0134",
+    "pda_id": "PDA-REG-1245"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0134",
+    "pda_id": "PDA-REG-1246"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0134",
+    "pda_id": "PDA-REG-1247"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0135",
+    "pda_id": "PDA-REG-1248"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0135",
+    "pda_id": "PDA-REG-1249"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0136",
+    "pda_id": "PDA-REG-1250"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0137",
+    "pda_id": "PDA-REG-1251"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0137",
+    "pda_id": "PDA-REG-1252"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0138",
+    "pda_id": "PDA-REG-1253"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0138",
+    "pda_id": "PDA-REG-1254"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0138",
+    "pda_id": "PDA-REG-1255"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0138",
+    "pda_id": "PDA-REG-1256"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0138",
+    "pda_id": "PDA-REG-1257"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0139",
+    "pda_id": "PDA-REG-1258"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0139",
+    "pda_id": "PDA-REG-1259"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0139",
+    "pda_id": "PDA-REG-1260"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0139",
+    "pda_id": "PDA-REG-1261"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0140",
+    "pda_id": "PDA-REG-1262"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0140",
+    "pda_id": "PDA-REG-1263"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0140",
+    "pda_id": "PDA-REG-1264"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0141",
+    "pda_id": "PDA-REG-1265"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0141",
+    "pda_id": "PDA-REG-1266"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0141",
+    "pda_id": "PDA-REG-1267"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0141",
+    "pda_id": "PDA-REG-1268"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0142",
+    "pda_id": "PDA-REG-1269"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0142",
+    "pda_id": "PDA-REG-1270"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0142",
+    "pda_id": "PDA-REG-1271"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0142",
+    "pda_id": "PDA-REG-1272"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0143",
+    "pda_id": "PDA-REG-1273"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0143",
+    "pda_id": "PDA-REG-1274"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0143",
+    "pda_id": "PDA-REG-1275"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0143",
+    "pda_id": "PDA-REG-1276"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0144",
+    "pda_id": "PDA-REG-1277"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0144",
+    "pda_id": "PDA-REG-1278"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0144",
+    "pda_id": "PDA-REG-1279"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0145",
+    "pda_id": "PDA-REG-1280"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0145",
+    "pda_id": "PDA-REG-1281"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0145",
+    "pda_id": "PDA-REG-1282"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0145",
+    "pda_id": "PDA-REG-1283"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0145",
+    "pda_id": "PDA-REG-1284"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0146",
+    "pda_id": "PDA-REG-1285"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0146",
+    "pda_id": "PDA-REG-1286"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0146",
+    "pda_id": "PDA-REG-1287"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0147",
+    "pda_id": "PDA-REG-1288"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0147",
+    "pda_id": "PDA-REG-1289"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0147",
+    "pda_id": "PDA-REG-1290"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0148",
+    "pda_id": "PDA-REG-1291"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0148",
+    "pda_id": "PDA-REG-1292"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0149",
+    "pda_id": "PDA-REG-1293"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0149",
+    "pda_id": "PDA-REG-1294"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0150",
+    "pda_id": "PDA-REG-1295"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0150",
+    "pda_id": "PDA-REG-1296"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0150",
+    "pda_id": "PDA-REG-1297"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0150",
+    "pda_id": "PDA-REG-1298"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0151",
+    "pda_id": "PDA-REG-1299"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0152",
+    "pda_id": "PDA-REG-1300"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0152",
+    "pda_id": "PDA-REG-1301"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0153",
+    "pda_id": "PDA-REG-1302"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0153",
+    "pda_id": "PDA-REG-1303"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0154",
+    "pda_id": "PDA-REG-1304"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0154",
+    "pda_id": "PDA-REG-1305"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0155",
+    "pda_id": "PDA-REG-1306"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0155",
+    "pda_id": "PDA-REG-1307"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0155",
+    "pda_id": "PDA-REG-1308"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0156",
+    "pda_id": "PDA-REG-1309"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0156",
+    "pda_id": "PDA-REG-1310"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0156",
+    "pda_id": "PDA-REG-1311"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0156",
+    "pda_id": "PDA-REG-1312"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0156",
+    "pda_id": "PDA-REG-1313"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0157",
+    "pda_id": "PDA-REG-1314"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0157",
+    "pda_id": "PDA-REG-1315"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0157",
+    "pda_id": "PDA-REG-1316"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0158",
+    "pda_id": "PDA-REG-1317"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0158",
+    "pda_id": "PDA-REG-1318"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0158",
+    "pda_id": "PDA-REG-1319"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0158",
+    "pda_id": "PDA-REG-1320"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0159",
+    "pda_id": "PDA-REG-1321"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0159",
+    "pda_id": "PDA-REG-1322"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0159",
+    "pda_id": "PDA-REG-1323"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0159",
+    "pda_id": "PDA-REG-1324"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0160",
+    "pda_id": "PDA-REG-1325"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0160",
+    "pda_id": "PDA-REG-1326"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0160",
+    "pda_id": "PDA-REG-1327"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0161",
+    "pda_id": "PDA-REG-1328"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-1329"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-1330"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-1331"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-1332"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-1333"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-1334"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-1335"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0162",
+    "pda_id": "PDA-REG-1336"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0163",
+    "pda_id": "PDA-REG-1337"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0163",
+    "pda_id": "PDA-REG-1338"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0163",
+    "pda_id": "PDA-REG-1339"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0163",
+    "pda_id": "PDA-REG-1340"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0164",
+    "pda_id": "PDA-REG-1341"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0164",
+    "pda_id": "PDA-REG-1342"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0164",
+    "pda_id": "PDA-REG-1343"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0165",
+    "pda_id": "PDA-REG-1344"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0165",
+    "pda_id": "PDA-REG-1345"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0165",
+    "pda_id": "PDA-REG-1346"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0166",
+    "pda_id": "PDA-REG-1347"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0166",
+    "pda_id": "PDA-REG-1348"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0166",
+    "pda_id": "PDA-REG-1349"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0167",
+    "pda_id": "PDA-REG-1350"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0167",
+    "pda_id": "PDA-REG-1351"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0167",
+    "pda_id": "PDA-REG-1352"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0168",
+    "pda_id": "PDA-REG-1353"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0168",
+    "pda_id": "PDA-REG-1354"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0169",
+    "pda_id": "PDA-REG-1355"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0169",
+    "pda_id": "PDA-REG-1356"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0169",
+    "pda_id": "PDA-REG-1357"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0169",
+    "pda_id": "PDA-REG-1358"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0169",
+    "pda_id": "PDA-REG-1359"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0170",
+    "pda_id": "PDA-REG-1360"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0171",
+    "pda_id": "PDA-REG-1361"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0171",
+    "pda_id": "PDA-REG-1362"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-1363"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-1364"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-1365"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-1366"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-1367"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0172",
+    "pda_id": "PDA-REG-1368"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1369"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1370"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1371"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1372"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1373"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1374"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1375"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1376"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1377"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1378"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1379"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0173",
+    "pda_id": "PDA-REG-1380"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-1381"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-1382"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-1383"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-1384"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-1385"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-1386"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-1387"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0174",
+    "pda_id": "PDA-REG-1388"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-1389"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-1390"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-1391"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-1392"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-1393"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-1394"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-1395"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-1396"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-1397"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0175",
+    "pda_id": "PDA-REG-1398"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-1399"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-1400"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-1401"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-1402"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-1403"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-1404"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF03",
+    "contenido_id": "C0176",
+    "pda_id": "PDA-REG-1405"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0177",
+    "pda_id": "PDA-REG-1406"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0177",
+    "pda_id": "PDA-REG-1407"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0177",
+    "pda_id": "PDA-REG-1408"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0178",
+    "pda_id": "PDA-REG-1409"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0178",
+    "pda_id": "PDA-REG-1410"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0179",
+    "pda_id": "PDA-REG-1411"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0179",
+    "pda_id": "PDA-REG-1412"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0180",
+    "pda_id": "PDA-REG-1413"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0181",
+    "pda_id": "PDA-REG-1414"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0181",
+    "pda_id": "PDA-REG-1415"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0181",
+    "pda_id": "PDA-REG-1416"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0182",
+    "pda_id": "PDA-REG-1417"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-1418"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-1419"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0184",
+    "pda_id": "PDA-REG-1420"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0185",
+    "pda_id": "PDA-REG-1421"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0186",
+    "pda_id": "PDA-REG-1422"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0187",
+    "pda_id": "PDA-REG-1423"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0188",
+    "pda_id": "PDA-REG-1424"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0189",
+    "pda_id": "PDA-REG-1425"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-1426"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-1427"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-1428"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0191",
+    "pda_id": "PDA-REG-1429"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0191",
+    "pda_id": "PDA-REG-1430"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0192",
+    "pda_id": "PDA-REG-1431"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0192",
+    "pda_id": "PDA-REG-1432"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0193",
+    "pda_id": "PDA-REG-1433"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0194",
+    "pda_id": "PDA-REG-1434"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0195",
+    "pda_id": "PDA-REG-1435"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0195",
+    "pda_id": "PDA-REG-1436"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-1437"
+  },
+  {
+    "grado_id": "G02",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-1438"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0197",
+    "pda_id": "PDA-REG-1439"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0197",
+    "pda_id": "PDA-REG-1440"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0198",
+    "pda_id": "PDA-REG-1441"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0198",
+    "pda_id": "PDA-REG-1442"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0198",
+    "pda_id": "PDA-REG-1443"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0199",
+    "pda_id": "PDA-REG-1444"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0199",
+    "pda_id": "PDA-REG-1445"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0182",
+    "pda_id": "PDA-REG-1446"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-1447"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-1448"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0200",
+    "pda_id": "PDA-REG-1449"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0184",
+    "pda_id": "PDA-REG-1450"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0201",
+    "pda_id": "PDA-REG-1451"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0202",
+    "pda_id": "PDA-REG-1452"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0202",
+    "pda_id": "PDA-REG-1453"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0202",
+    "pda_id": "PDA-REG-1454"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0203",
+    "pda_id": "PDA-REG-1455"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0203",
+    "pda_id": "PDA-REG-1456"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0185",
+    "pda_id": "PDA-REG-1457"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0186",
+    "pda_id": "PDA-REG-1458"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0187",
+    "pda_id": "PDA-REG-1459"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0204",
+    "pda_id": "PDA-REG-1460"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0189",
+    "pda_id": "PDA-REG-1461"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0205",
+    "pda_id": "PDA-REG-1462"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0205",
+    "pda_id": "PDA-REG-1463"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0206",
+    "pda_id": "PDA-REG-1464"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0207",
+    "pda_id": "PDA-REG-1465"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0207",
+    "pda_id": "PDA-REG-1466"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0207",
+    "pda_id": "PDA-REG-1467"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0207",
+    "pda_id": "PDA-REG-1468"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0207",
+    "pda_id": "PDA-REG-1469"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-1470"
+  },
+  {
+    "grado_id": "G04",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-1471"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0208",
+    "pda_id": "PDA-REG-1472"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0208",
+    "pda_id": "PDA-REG-1473"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0209",
+    "pda_id": "PDA-REG-1474"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0209",
+    "pda_id": "PDA-REG-1475"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0210",
+    "pda_id": "PDA-REG-1476"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0210",
+    "pda_id": "PDA-REG-1477"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0211",
+    "pda_id": "PDA-REG-1478"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0211",
+    "pda_id": "PDA-REG-1479"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0182",
+    "pda_id": "PDA-REG-1480"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-1481"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0183",
+    "pda_id": "PDA-REG-1482"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0184",
+    "pda_id": "PDA-REG-1483"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0212",
+    "pda_id": "PDA-REG-1484"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0213",
+    "pda_id": "PDA-REG-1485"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0214",
+    "pda_id": "PDA-REG-1486"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0187",
+    "pda_id": "PDA-REG-1487"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0204",
+    "pda_id": "PDA-REG-1488"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0189",
+    "pda_id": "PDA-REG-1489"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-1490"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-1491"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0190",
+    "pda_id": "PDA-REG-1492"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0191",
+    "pda_id": "PDA-REG-1493"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0191",
+    "pda_id": "PDA-REG-1494"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0215",
+    "pda_id": "PDA-REG-1495"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0215",
+    "pda_id": "PDA-REG-1496"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0215",
+    "pda_id": "PDA-REG-1497"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0215",
+    "pda_id": "PDA-REG-1498"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-1499"
+  },
+  {
+    "grado_id": "G06",
+    "campo_formativo_id": "CF04",
+    "contenido_id": "C0196",
+    "pda_id": "PDA-REG-1500"
+  }
+]
