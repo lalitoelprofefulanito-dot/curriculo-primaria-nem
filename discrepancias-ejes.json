@@ -9,7 +9,9 @@
     ],
     "filas_libros": [
       87
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0143",
@@ -21,7 +23,9 @@
     ],
     "filas_libros": [
       162
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0175",
@@ -33,7 +37,9 @@
     ],
     "filas_libros": [
       216
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0225",
@@ -45,7 +51,9 @@
     ],
     "filas_libros": [
       274
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0339",
@@ -57,7 +65,9 @@
     ],
     "filas_libros": [
       387
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0356",
@@ -69,7 +79,9 @@
     ],
     "filas_libros": [
       492
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0358",
@@ -81,7 +93,9 @@
     ],
     "filas_libros": [
       450
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0365",
@@ -93,7 +107,9 @@
     ],
     "filas_libros": [
       479
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0372",
@@ -105,7 +121,9 @@
     ],
     "filas_libros": [
       481
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0373",
@@ -117,7 +135,9 @@
     ],
     "filas_libros": [
       472
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0384",
@@ -129,7 +149,9 @@
     ],
     "filas_libros": [
       471
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0385",
@@ -141,7 +163,9 @@
     ],
     "filas_libros": [
       497
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   },
   {
     "proyecto_id": "PR-0395",
@@ -153,6 +177,8 @@
     ],
     "filas_libros": [
       415
-    ]
+    ],
+    "resuelto_v1_2": true,
+    "resolucion": "Texto canónico reconstruido desde relaciones/proyecto-eje + catálogo de ejes."
   }
 ]

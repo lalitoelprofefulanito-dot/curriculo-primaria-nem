@@ -1,0 +1,201 @@
+{
+  "version": "1.2.0",
+  "reparaciones": [
+    {
+      "proyecto_id": "PR-0011",
+      "tipo": "metadatos_verificados",
+      "antes": {
+        "titulo": "Los Saberes de mi Comunidad",
+        "grado": "1°",
+        "grado_id": "G01",
+        "fase_id": "FASE03",
+        "campo_formativo": "Lenguajes",
+        "campo_formativo_id": "CF01"
+      },
+      "despues": {
+        "titulo": "Los Saberes de mi Comunidad",
+        "grado": "1°",
+        "grado_id": "G01",
+        "fase_id": "FASE03",
+        "campo_formativo": "Lenguajes",
+        "campo_formativo_id": "CF01"
+      },
+      "evidencia": "Web corroboration: 1°/Fase 3/Lenguajes, project Los saberes de mi comunidad."
+    },
+    {
+      "proyecto_id": "PR-0074",
+      "tipo": "metadatos_verificados",
+      "antes": {
+        "titulo": "Los Saberes de mi Comunidad",
+        "grado": "2°",
+        "grado_id": "G02",
+        "fase_id": "FASE03",
+        "campo_formativo": "Ética, Naturaleza y Sociedades",
+        "campo_formativo_id": "CF03"
+      },
+      "despues": {
+        "titulo": "Los Saberes de mi Comunidad",
+        "grado": "2°",
+        "grado_id": "G02",
+        "fase_id": "FASE03",
+        "campo_formativo": "Ética, Naturaleza y Sociedades",
+        "campo_formativo_id": "CF03"
+      },
+      "evidencia": "Web corroboration: 2°/Fase 3/Ética, Naturaleza y Sociedades, project Los saberes de mi comunidad."
+    },
+    {
+      "proyecto_id": "PR-0134",
+      "tipo": "metadatos_verificados",
+      "antes": {
+        "grado": "2°",
+        "grado_id": "G02",
+        "fase_id": "FASE03",
+        "campo_formativo": "Ética, Naturaleza y Sociedades",
+        "campo_formativo_id": "CF03"
+      },
+      "despues": {
+        "grado": "2°",
+        "grado_id": "G02",
+        "fase_id": "FASE03",
+        "campo_formativo": "Ética, Naturaleza y Sociedades",
+        "campo_formativo_id": "CF03"
+      },
+      "evidencia": "Official SEP LTG material and corroborating planning sources identify the project in Ética, Naturaleza y Sociedades."
+    },
+    {
+      "proyecto_id": "PR-0310",
+      "tipo": "metadatos_verificados",
+      "antes": {
+        "titulo": "Mi cuerpo habla",
+        "grado": "5°",
+        "grado_id": "G05",
+        "fase_id": "FASE05",
+        "campo_formativo": "Lenguajes",
+        "campo_formativo_id": "CF01"
+      },
+      "despues": {
+        "titulo": "Mi cuerpo habla",
+        "grado": "5°",
+        "grado_id": "G05",
+        "fase_id": "FASE05",
+        "campo_formativo": "Lenguajes",
+        "campo_formativo_id": "CF01"
+      },
+      "evidencia": "Web corroboration: Fase 5, 5°, Lenguajes, project Mi cuerpo habla."
+    },
+    {
+      "proyecto_id": "PR-0340",
+      "tipo": "metadatos_verificados",
+      "antes": {
+        "grado": "5°",
+        "grado_id": "G05",
+        "fase_id": "FASE05"
+      },
+      "despues": {
+        "grado": "5°",
+        "grado_id": "G05",
+        "fase_id": "FASE05"
+      },
+      "evidencia": "Web corroboration: Fase 5, 5°, Lenguajes, project Las historias que nos unen."
+    },
+    {
+      "proyecto_id": "PR-0071",
+      "tipo": "ejes_texto_origen",
+      "antes": "Inclusión, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "despues": "Inclusión, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0143",
+      "tipo": "ejes_texto_origen",
+      "antes": "Interculturalidad Crítica, Igualdad de Género, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "despues": "Interculturalidad Crítica, Igualdad de Género, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0175",
+      "tipo": "ejes_texto_origen",
+      "antes": "Inclusión, Pensamiento Crítico, Interculturalidad Crítica, Igualdad de Género, Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "despues": "Inclusión, Pensamiento Crítico, Interculturalidad Crítica, Igualdad de Género, Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0225",
+      "tipo": "ejes_texto_origen",
+      "antes": "Pensamiento Crítico, Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "despues": "Pensamiento Crítico, Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0339",
+      "tipo": "ejes_texto_origen",
+      "antes": "Pensamiento Crítico",
+      "despues": "Pensamiento Crítico",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0356",
+      "tipo": "ejes_texto_origen",
+      "antes": "Inclusión, Interculturalidad Crítica, Igualdad de Género",
+      "despues": "Inclusión, Interculturalidad Crítica, Igualdad de Género",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0358",
+      "tipo": "ejes_texto_origen",
+      "antes": "Inclusión, Pensamiento Crítico, Interculturalidad Crítica",
+      "despues": "Inclusión, Pensamiento Crítico, Interculturalidad Crítica",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0365",
+      "tipo": "ejes_texto_origen",
+      "antes": "Pensamiento Crítico, Interculturalidad Crítica, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "despues": "Pensamiento Crítico, Interculturalidad Crítica, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0372",
+      "tipo": "ejes_texto_origen",
+      "antes": "Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "despues": "Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0373",
+      "tipo": "ejes_texto_origen",
+      "antes": "Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "despues": "Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0384",
+      "tipo": "ejes_texto_origen",
+      "antes": "Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "despues": "Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0385",
+      "tipo": "ejes_texto_origen",
+      "antes": "Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "despues": "Vida Saludable, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    },
+    {
+      "proyecto_id": "PR-0395",
+      "tipo": "ejes_texto_origen",
+      "antes": "Pensamiento Crítico, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "despues": "Pensamiento Crítico, Apropiación de las Culturas a través de la Lectura y la Escritura, Artes y Experiencias Estéticas",
+      "justificacion": "Normalización contra IDs de relaciones/proyecto-eje y catálogo canónico de ejes."
+    }
+  ],
+  "contenido": {
+    "incidencias_originales": 91,
+    "resueltas_por_equivalencia_canonica": 75,
+    "pendientes": 16,
+    "pdas_derivadas_nuevas": 382
+  },
+  "pendientes_proyectos": [],
+  "criterio": "No se asignó contenido por similitud cuando no hubo candidato único con separación de al menos 5 puntos; los casos ambiguos permanecen pendientes."
+}

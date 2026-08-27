@@ -360,12 +360,6 @@
     "fila_origen": 61
   },
   {
-    "proyecto_id": "PR-0061",
-    "campo_formativo_id": "CF01",
-    "fuente": "Proyectos CoincidenciasxEjes",
-    "fila_origen": 62
-  },
-  {
     "proyecto_id": "PR-0062",
     "campo_formativo_id": "CF01",
     "fuente": "Proyectos CoincidenciasxEjes",
@@ -439,8 +433,8 @@
   },
   {
     "proyecto_id": "PR-0074",
-    "campo_formativo_id": "CF01",
-    "fuente": "Proyectos CoincidenciasxEjes",
+    "campo_formativo_id": "CF03",
+    "fuente": "REPARACION_v1.1",
     "fila_origen": 75
   },
   {
@@ -454,12 +448,6 @@
     "campo_formativo_id": "CF04",
     "fuente": "Proyectos CoincidenciasxEjes",
     "fila_origen": 77
-  },
-  {
-    "proyecto_id": "PR-0077",
-    "campo_formativo_id": "CF03",
-    "fuente": "Proyectos CoincidenciasxEjes",
-    "fila_origen": 78
   },
   {
     "proyecto_id": "PR-0078",
@@ -708,12 +696,6 @@
     "fila_origen": 119
   },
   {
-    "proyecto_id": "PR-0119",
-    "campo_formativo_id": "CF04",
-    "fuente": "Proyectos CoincidenciasxEjes",
-    "fila_origen": 120
-  },
-  {
     "proyecto_id": "PR-0120",
     "campo_formativo_id": "CF01",
     "fuente": "Proyectos CoincidenciasxEjes",
@@ -799,8 +781,8 @@
   },
   {
     "proyecto_id": "PR-0134",
-    "campo_formativo_id": "CF04",
-    "fuente": "Proyectos CoincidenciasxEjes",
+    "campo_formativo_id": "CF03",
+    "fuente": "REPARACION_v1.1",
     "fila_origen": 135
   },
   {
@@ -2340,12 +2322,6 @@
     "fila_origen": 392
   },
   {
-    "proyecto_id": "PR-0392",
-    "campo_formativo_id": "CF04",
-    "fuente": "Proyectos CoincidenciasxEjes",
-    "fila_origen": 393
-  },
-  {
     "proyecto_id": "PR-0393",
     "campo_formativo_id": "CF04",
     "fuente": "Proyectos CoincidenciasxEjes",
@@ -2554,5 +2530,35 @@
     "campo_formativo_id": "CF02",
     "fuente": "Proyectos CoincidenciasxEjes",
     "fila_origen": 428
+  },
+  {
+    "proyecto_id": "PR-0310",
+    "campo_formativo_id": "CF01",
+    "fuente": "REPARACION_v1.1",
+    "fila_origen": 311
+  },
+  {
+    "proyecto_id": "PR-0061",
+    "campo_formativo_id": "CF03",
+    "fuente": "REPARACION_V1_3",
+    "fila_origen": 62
+  },
+  {
+    "proyecto_id": "PR-0077",
+    "campo_formativo_id": "CF02",
+    "fuente": "REPARACION_V1_3",
+    "fila_origen": 78
+  },
+  {
+    "proyecto_id": "PR-0119",
+    "campo_formativo_id": "CF02",
+    "fuente": "REPARACION_V1_3",
+    "fila_origen": 120
+  },
+  {
+    "proyecto_id": "PR-0392",
+    "campo_formativo_id": "CF01",
+    "fuente": "REPARACION_V1_3",
+    "fila_origen": 393
   }
 ]

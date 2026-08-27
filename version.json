@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "fecha_generacion": "2026-08-25",
+  "version": "1.3.0",
+  "fecha_generacion": "2026-08-26",
   "fuente_archivo": "Generador de Planeaciones Primaria.xlsx",
   "sha256_fuente": "f593e0e5d6d591f313fd90710875f808b46644195faeb6060bb17c497be9d737",
   "estadisticas": {
@@ -15,6 +15,16 @@
     "incidencias_proyectos": 4,
     "incidencias_contenidos": 91,
     "discrepancias_ejes": 13,
-    "discrepancias_campos": 1
-  }
+    "discrepancias_campos": 1,
+    "proyectos_campo": 427,
+    "relaciones_proyecto_campo": 427,
+    "incidencias_contenidos_originales": 91,
+    "contenidos_resueltos_v1_2": 75,
+    "contenidos_pendientes_v1_2": 16,
+    "pdas_derivadas_nuevas_v1_2": 382,
+    "ejes_discrepancias_resueltas_v1_2": 13,
+    "proyectos_metadatos_verificados_v1_2": 5
+  },
+  "version_anterior": "1.2.0",
+  "cambios": "Reparación integral de las 16 incidencias de contenido pendientes de v1.2; sincronización de campos y relaciones proyecto-contenido/proyecto-PDA; verificación explícita de proyectos sin contenido canónico."
 }

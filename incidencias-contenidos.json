@@ -32,11 +32,21 @@
     "campo_formativo_id": "CF01",
     "campo_formativo": "Lenguajes",
     "contenido_origen": "Exploración de testimonios escritos, fotográficos y de audiovisuales del pasado familiar y comunitario",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0051",
+      "PDA-REG-0052",
+      "PDA-REG-0801",
+      "PDA-REG-0802"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 111
+    "fila_origen": 111,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0017",
+    "contenido_canonico": "Exploración de testimonios escritos, fotográficos y audiovisuales del pasado familiar y comunitario",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF01"
   },
   {
     "proyecto_id": "PR-0072",
@@ -45,11 +55,21 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Los seres humanos son diversos y valiosos, y tiene derechos humanos",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0477",
+      "PDA-REG-0478",
+      "PDA-REG-1227",
+      "PDA-REG-1228"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 98
+    "fila_origen": 98,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0124",
+    "contenido_canonico": "Los seres humanos son diversos y valiosos, y tienen derechos humanos",
+    "equivalencia_score": 99.13,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0075",
@@ -58,11 +78,16 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 96
+    "fila_origen": 96,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0079",
+    "contenido_canonico": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF02"
   },
   {
     "proyecto_id": "PR-0077",
@@ -84,11 +109,21 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Los seres humanos son diversos y valiosos, y tiene derechos humanos",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0477",
+      "PDA-REG-0478",
+      "PDA-REG-1227",
+      "PDA-REG-1228"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 150
+    "fila_origen": 150,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0124",
+    "contenido_canonico": "Los seres humanos son diversos y valiosos, y tienen derechos humanos",
+    "equivalencia_score": 99.13,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0081",
@@ -97,11 +132,21 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Democracia como forma de vida: construcción participativa de normas, reglas y acuerdo para alcanzar metas colectivas y contribuir a una convivencia pacífica en nuestra casa, el aula, la escuela y la comunidad, así como las consecuencias de no respetar acuerdos, reglas, y normas escolares y comunitarias",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0490",
+      "PDA-REG-0491",
+      "PDA-REG-1240",
+      "PDA-REG-1241"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 127
+    "fila_origen": 127,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0131",
+    "contenido_canonico": "Democracia como forma de vida: construcción participativa de normas, reglas y acuerdos para alcanzar metas colectivas y contribuir a una convivencia pacífica en nuestra casa, el aula, la escuela y la comunidad, así como las consecuencias de no respetar los acuerdos, reglas y normas escolares y comunitarias",
+    "equivalencia_score": 98.75,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0082",
@@ -110,11 +155,21 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Cambios en la naturaleza del lugar donde vive, y su relación con las actividades humanas cotidianas que tienen orden cronológico, asociadas a ciclos agrícolas y festividades, así como su vínculo con la noción de tiempo y espacio histórico (“antes, durante y después”)",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0475",
+      "PDA-REG-0476",
+      "PDA-REG-1225",
+      "PDA-REG-1226"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 149
+    "fila_origen": 149,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0123",
+    "contenido_canonico": "Cambios en la naturaleza del lugar donde vive, y su relación con las actividades humanas cotidianas que tienen orden cronológico, asociadas a ciclos agrícolas y festividades, así como su vínculo con la noción de tiempo y espacio histórico (antes, durante y después)",
+    "equivalencia_score": 99.6,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0085",
@@ -123,11 +178,21 @@
     "campo_formativo_id": "CF01",
     "campo_formativo": "Lenguajes",
     "contenido_origen": "Descripción de objetos y lugares y seres vivos",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0019",
+      "PDA-REG-0020",
+      "PDA-REG-0769",
+      "PDA-REG-0770"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 112
+    "fila_origen": 112,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0005",
+    "contenido_canonico": "Descripción de objetos, lugares y seres vivos",
+    "equivalencia_score": 98.88,
+    "campo_formativo_canonico_id": "CF01"
   },
   {
     "proyecto_id": "PR-0095",
@@ -136,11 +201,16 @@
     "campo_formativo_id": "CF01",
     "campo_formativo": "Lenguajes",
     "contenido_origen": "Sentido de comunidad y satisfacción de necesidades humanas",
-    "estado": "OTRO_CAMPO_MISMO_GRADO",
+    "estado": "VALIDADA_CANONICA_CONTEXTO_PENDIENTE_PDA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 113
+    "fila_origen": 113,
+    "estado_original": "OTRO_CAMPO_MISMO_GRADO",
+    "contenido_id_canonico": "C0191",
+    "contenido_canonico": "Sentido de comunidad y satisfacción de necesidades humanas",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0096",
@@ -149,11 +219,21 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Los seres humanos son diversos y valiosos, y tiene derechos humanos",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0477",
+      "PDA-REG-0478",
+      "PDA-REG-1227",
+      "PDA-REG-1228"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 126
+    "fila_origen": 126,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0124",
+    "contenido_canonico": "Los seres humanos son diversos y valiosos, y tienen derechos humanos",
+    "equivalencia_score": 99.13,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0097",
@@ -162,11 +242,16 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Construcción de la paz mediante el diálogo: situaciones de conflicto o discrepancia como parte de la interacción de los seres humanos en la casa, el aula, la escuela y la comunidad",
-    "estado": "OTRO_CAMPO_MISMO_GRADO",
+    "estado": "VALIDADA_CANONICA_CONTEXTO_PENDIENTE_PDA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 158
+    "fila_origen": 158,
+    "estado_original": "OTRO_CAMPO_MISMO_GRADO",
+    "contenido_id_canonico": "C0130",
+    "contenido_canonico": "Construcción de la paz mediante el diálogo: situaciones de conflicto o discrepancia como parte de la interacción de los seres humanos en la casa, el aula, la escuela y la comunidad",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0098",
@@ -175,11 +260,16 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Cambios en la naturaleza del lugar donde vive, y su relación con las actividades humanas cotidianas que tienen orden cronológico, asociadas a ciclos agrícolas y festividades, así como su vínculo con la noción de tiempo y espacio histórico (“antes, durante y después”)",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 159
+    "fila_origen": 159,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0123",
+    "contenido_canonico": "Cambios en la naturaleza del lugar donde vive, y su relación con las actividades humanas cotidianas que tienen orden cronológico, asociadas a ciclos agrícolas y festividades, así como su vínculo con la noción de tiempo y espacio histórico (antes, durante y después)",
+    "equivalencia_score": 99.6,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0107",
@@ -188,11 +278,23 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "La comunidad como espacio en el que se vive y se encuentra la escuela",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0656",
+      "PDA-REG-0657",
+      "PDA-REG-0658",
+      "PDA-REG-1406",
+      "PDA-REG-1407",
+      "PDA-REG-1408"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 156
+    "fila_origen": 156,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0177",
+    "contenido_canonico": "La comunidad como el espacio en el que se vive y se encuentra la escuela",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0110",
@@ -201,11 +303,16 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Beneficios del consumo de alimentos saludables, de agua simple potable, y de la práctica de la actividad física",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 155
+    "fila_origen": 155,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0077",
+    "contenido_canonico": "Beneficios del consumo de alimentos saludables, de agua simple potable, y de la práctica de actividad física",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF02"
   },
   {
     "proyecto_id": "PR-0112",
@@ -214,11 +321,23 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "El derecho a la Igualdad de Género y vida sin violencia: estereotipos de género que pueden inducir formas de violencia, desigualdad y discriminación",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0495",
+      "PDA-REG-0496",
+      "PDA-REG-0497",
+      "PDA-REG-1245",
+      "PDA-REG-1246",
+      "PDA-REG-1247"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 147
+    "fila_origen": 147,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0134",
+    "contenido_canonico": "El derecho a la igualdad de género y vida sin violencia: estereotipos de género que pueden inducir a formas de violencia, desigualdad y discriminación",
+    "equivalencia_score": 96.7,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0113",
@@ -227,11 +346,16 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Historia personal y familiar, diversidad de familias y el derecho a pertenecer a una",
-    "estado": "OTRO_CAMPO_MISMO_GRADO",
+    "estado": "VALIDADA_CANONICA_CONTEXTO_PENDIENTE_PDA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 105
+    "fila_origen": 105,
+    "estado_original": "OTRO_CAMPO_MISMO_GRADO",
+    "contenido_id_canonico": "C0129",
+    "contenido_canonico": "Historia personal y familiar, diversidad de familias y el derecho a pertenecer a una",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0114",
@@ -266,11 +390,16 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Descripción de objetos y lugares y seres vivos",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 106
+    "fila_origen": 106,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0005",
+    "contenido_canonico": "Descripción de objetos, lugares y seres vivos",
+    "equivalencia_score": 98.88,
+    "campo_formativo_canonico_id": "CF01"
   },
   {
     "proyecto_id": "PR-0126",
@@ -292,11 +421,25 @@
     "campo_formativo_id": "CF02",
     "campo_formativo": "Saberes y Pensamiento Científico",
     "contenido_origen": "Beneficios del consumo de alimentos saludables, de agua simple potable, y de la práctica de la actividad física",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0303",
+      "PDA-REG-0304",
+      "PDA-REG-0305",
+      "PDA-REG-0306",
+      "PDA-REG-1053",
+      "PDA-REG-1054",
+      "PDA-REG-1055",
+      "PDA-REG-1056"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 93
+    "fila_origen": 93,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0077",
+    "contenido_canonico": "Beneficios del consumo de alimentos saludables, de agua simple potable, y de la práctica de actividad física",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF02"
   },
   {
     "proyecto_id": "PR-0134",
@@ -305,11 +448,16 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Diversos contextos sociales, naturales y territoriales: cambios y continuidades",
-    "estado": "OTRO_CAMPO_MISMO_GRADO",
+    "estado": "VALIDADA_CANONICA_CONTEXTO_PENDIENTE_PDA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 153
+    "fila_origen": 153,
+    "estado_original": "OTRO_CAMPO_MISMO_GRADO",
+    "contenido_id_canonico": "C0121",
+    "contenido_canonico": "Diversos contextos sociales, naturales y territoriales: cambios y continuidades",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0138",
@@ -318,11 +466,27 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "La vida cotidiana antes de la primera invasión europea y en el México colonial: personas y grupos sociales que incidieron en la historia de la comunidad, entidad y el país, para reconocer sus aportes en lo social, cultural, político y económico, entre otros, en las transformaciones sociales",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0530",
+      "PDA-REG-0531",
+      "PDA-REG-0532",
+      "PDA-REG-0533",
+      "PDA-REG-0534",
+      "PDA-REG-1280",
+      "PDA-REG-1281",
+      "PDA-REG-1282",
+      "PDA-REG-1283",
+      "PDA-REG-1284"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 229
+    "fila_origen": 229,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0145",
+    "contenido_canonico": "La vida cotidiana antes de la primera invasión europea y en el México colonial: personas y grupos sociales que incidieron en la historia de la comunidad, entidad y el país, para reconocer sus aportes en lo social, cultural, político y económico",
+    "equivalencia_score": 97.67,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0148",
@@ -331,11 +495,21 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Democracia en la vida cotidiana: construcción, cumplimiento y aplicación justa de acuerdos, normas y leyes que contribuyen a la protección de los derechos de todas las personas, individuales y colectivos, y a la convivencia conforme a los principios de igualdad, justicia y responsabilidad",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0552",
+      "PDA-REG-0553",
+      "PDA-REG-1302",
+      "PDA-REG-1303"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 232
+    "fila_origen": 232,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0153",
+    "contenido_canonico": "Democracia en la vida cotidiana: construcción, cumplimiento y aplicación justa de acuerdos, normas y leyes que contribuyen a la protección de los derechos de todas las personas individuales y colectivos, y a la convivencia conforme a los principios de igualdad, justicia y responsabilidad",
+    "equivalencia_score": 99.81,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0149",
@@ -344,11 +518,21 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Hábitos saludables, para promover el bienestar en los seres vivos",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0712",
+      "PDA-REG-0713",
+      "PDA-REG-1462",
+      "PDA-REG-1463"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 212
+    "fila_origen": 212,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0205",
+    "contenido_canonico": "Hábitos saludables para promover el bienestar en los seres vivos",
+    "equivalencia_score": 99.22,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0153",
@@ -357,11 +541,16 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Cuidado de los ecosistemas para su regeneración, preservación y sustentable (nuevo)",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 200
+    "fila_origen": 200,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0141",
+    "contenido_canonico": "Cuidado de los ecosistemas para su regeneración, preservación responsable y sustentable",
+    "equivalencia_score": 94.94,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0159",
@@ -370,11 +559,25 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Retos en el reconocimiento y ejercicio de los derechos humanos y la satisfacción de las necesidades básicas, físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes, así como situaciones injustas en el pasado y el presente, en las que no se respetan los derechos para satisfacer las necesidades básicas de todas las personas",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0545",
+      "PDA-REG-0546",
+      "PDA-REG-0547",
+      "PDA-REG-0548",
+      "PDA-REG-1295",
+      "PDA-REG-1296",
+      "PDA-REG-1297",
+      "PDA-REG-1298"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 201
+    "fila_origen": 201,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0150",
+    "contenido_canonico": "Retos en el reconocimiento y ejercicio de los derechos humanos y la satisfacción de las necesidades básicas, físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes; así como situaciones injustas en el pasado y el presente, en las que no se respetan los derechos para satisfacer las necesidades básicas de todas las personas",
+    "equivalencia_score": 99.65,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0160",
@@ -383,11 +586,23 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Origen histórico de algunos símbolos (territorio, lugares sagrados, figuras y colores, banderas, escudos, himnos, entre otros), que identifican a las comunidades, pueblos, y a la entidad y a México como país, en tanto referentes que dan sentido de identidad y pertenencia",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0535",
+      "PDA-REG-0536",
+      "PDA-REG-0537",
+      "PDA-REG-1285",
+      "PDA-REG-1286",
+      "PDA-REG-1287"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 178
+    "fila_origen": 178,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0146",
+    "contenido_canonico": "Origen histórico de algunos símbolos (territorio, lugares sagrados, figuras y colores, banderas, escudos, himnos, entre otros), que identifican a las comunidades, pueblos, la entidad y a México como país, en tanto referentes que dan sentido de identidad y pertenencia",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0166",
@@ -396,11 +611,16 @@
     "campo_formativo_id": "CF01",
     "campo_formativo": "Lenguajes",
     "contenido_origen": "Comprensión y producción de textos expositivos en los que se planteen: problema@solución, comparación@contraste, causa",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 187
+    "fila_origen": 187,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0030",
+    "contenido_canonico": "Comprensión y producción de textos expositivos en los que se planteen: problema-solución, comparación-contraste, causa-consecuencia y enumeración",
+    "equivalencia_score": 88.89,
+    "campo_formativo_canonico_id": "CF01"
   },
   {
     "proyecto_id": "PR-0173",
@@ -409,11 +629,19 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Equidad de género en la familia, la escuela y la comunidad",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0699",
+      "PDA-REG-1449"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 236
+    "fila_origen": 236,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0200",
+    "contenido_canonico": "Equidad de género en las familias, la escuela y la comunidad",
+    "equivalencia_score": 95.41,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0184",
@@ -422,11 +650,25 @@
     "campo_formativo_id": "CF02",
     "campo_formativo": "Saberes y Pensamiento Científico",
     "contenido_origen": "Medición de la longitud, masa y capacidad",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0339",
+      "PDA-REG-0340",
+      "PDA-REG-0392",
+      "PDA-REG-0461",
+      "PDA-REG-1089",
+      "PDA-REG-1090",
+      "PDA-REG-1142",
+      "PDA-REG-1211"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 222
+    "fila_origen": 222,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0089",
+    "contenido_canonico": "Medición de longitud, masa y capacidad",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF02"
   },
   {
     "proyecto_id": "PR-0188",
@@ -435,11 +677,16 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Higiene para una Vida Saludable",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 185
+    "fila_origen": 185,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0206",
+    "contenido_canonico": "Higiene para una vida saludable",
+    "equivalencia_score": 93.55,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0189",
@@ -461,11 +708,25 @@
     "campo_formativo_id": "CF01",
     "campo_formativo": "Lenguajes",
     "contenido_origen": "Comunicación a distancia con personas y propósitos diverso",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0129",
+      "PDA-REG-0130",
+      "PDA-REG-0131",
+      "PDA-REG-0132",
+      "PDA-REG-0879",
+      "PDA-REG-0880",
+      "PDA-REG-0881",
+      "PDA-REG-0882"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 219
+    "fila_origen": 219,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0036",
+    "contenido_canonico": "Comunicación a distancia con personas y propósitos diversos",
+    "equivalencia_score": 99.15,
+    "campo_formativo_canonico_id": "CF01"
   },
   {
     "proyecto_id": "PR-0202",
@@ -474,11 +735,25 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Valoración de los ecosistemas: Características del territorio como espacio de vida y las interacciones de la comunidad con los ecosistemas, para su preservación responsable y sustentable",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0508",
+      "PDA-REG-0509",
+      "PDA-REG-0510",
+      "PDA-REG-0511",
+      "PDA-REG-1258",
+      "PDA-REG-1259",
+      "PDA-REG-1260",
+      "PDA-REG-1261"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 228
+    "fila_origen": 228,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0139",
+    "contenido_canonico": "Valoración de los ecosistemas: características del territorio como espacio de vida y las interacciones de la comunidad con los ecosistemas, para su preservación responsable y sustentable",
+    "equivalencia_score": 99.43,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0206",
@@ -487,11 +762,21 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Democracia en la vida cotidiana: construcción, cumplimiento y aplicación justa de acuerdos, normas y leyes que contribuyen a la protección de los derechos de todas las personas, individuales y colectivos, y a la convivencia conforme a los principios de igualdad, justicia y responsabilidad",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0552",
+      "PDA-REG-0553",
+      "PDA-REG-1302",
+      "PDA-REG-1303"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 317
+    "fila_origen": 317,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0153",
+    "contenido_canonico": "Democracia en la vida cotidiana: construcción, cumplimiento y aplicación justa de acuerdos, normas y leyes que contribuyen a la protección de los derechos de todas las personas individuales y colectivos, y a la convivencia conforme a los principios de igualdad, justicia y responsabilidad",
+    "equivalencia_score": 99.81,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0209",
@@ -500,11 +785,16 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Cuidado de los ecosistemas para su regeneración, preservación y sustentable (nuevo)",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 256
+    "fila_origen": 256,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0141",
+    "contenido_canonico": "Cuidado de los ecosistemas para su regeneración, preservación responsable y sustentable",
+    "equivalencia_score": 94.94,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0211",
@@ -513,11 +803,25 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Retos en el reconocimiento y ejercicio de los derechos humanos y la satisfacción de las necesidades básicas, físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes, así como situaciones injustas en el pasado y el presente, en las que no se respetan los derechos para satisfacer las necesidades básicas de todas las personas",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0545",
+      "PDA-REG-0546",
+      "PDA-REG-0547",
+      "PDA-REG-0548",
+      "PDA-REG-1295",
+      "PDA-REG-1296",
+      "PDA-REG-1297",
+      "PDA-REG-1298"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 285
+    "fila_origen": 285,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0150",
+    "contenido_canonico": "Retos en el reconocimiento y ejercicio de los derechos humanos y la satisfacción de las necesidades básicas, físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes; así como situaciones injustas en el pasado y el presente, en las que no se respetan los derechos para satisfacer las necesidades básicas de todas las personas",
+    "equivalencia_score": 99.65,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0218",
@@ -526,11 +830,16 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Higiene para una Vida Saludable",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 297
+    "fila_origen": 297,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0206",
+    "contenido_canonico": "Higiene para una vida saludable",
+    "equivalencia_score": 93.55,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0220",
@@ -539,11 +848,23 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Origen histórico de algunos símbolos (territorio, lugares sagrados, figuras y colores, banderas, escudos, himnos, entre otros), que identifican a las comunidades, pueblos, y a la entidad y a México como país, en tanto referentes que dan sentido de identidad y pertenencia",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0535",
+      "PDA-REG-0536",
+      "PDA-REG-0537",
+      "PDA-REG-1285",
+      "PDA-REG-1286",
+      "PDA-REG-1287"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 261
+    "fila_origen": 261,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0146",
+    "contenido_canonico": "Origen histórico de algunos símbolos (territorio, lugares sagrados, figuras y colores, banderas, escudos, himnos, entre otros), que identifican a las comunidades, pueblos, la entidad y a México como país, en tanto referentes que dan sentido de identidad y pertenencia",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0226",
@@ -552,11 +873,21 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Hábitos saludables, para promover el bienestar en los seres vivos",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0712",
+      "PDA-REG-0713",
+      "PDA-REG-1462",
+      "PDA-REG-1463"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 324
+    "fila_origen": 324,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0205",
+    "contenido_canonico": "Hábitos saludables para promover el bienestar en los seres vivos",
+    "equivalencia_score": 99.22,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0238",
@@ -578,11 +909,16 @@
     "campo_formativo_id": "CF01",
     "campo_formativo": "Lenguajes",
     "contenido_origen": "Comunicación a distancia con interlocutores y propósitos diversos",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 301
+    "fila_origen": 301,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0036",
+    "contenido_canonico": "Comunicación a distancia con personas y propósitos diversos",
+    "equivalencia_score": 91.74,
+    "campo_formativo_canonico_id": "CF01"
   },
   {
     "proyecto_id": "PR-0248",
@@ -591,11 +927,19 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Equidad de género en la familia, la escuela y la comunidad",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0699",
+      "PDA-REG-1449"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 321
+    "fila_origen": 321,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0200",
+    "contenido_canonico": "Equidad de género en las familias, la escuela y la comunidad",
+    "equivalencia_score": 95.41,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0249",
@@ -617,11 +961,25 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Valoración de los ecosistemas: Características del territorio como espacio de vida y las interacciones de la comunidad con los ecosistemas, para su preservación responsable y sustentable",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0508",
+      "PDA-REG-0509",
+      "PDA-REG-0510",
+      "PDA-REG-0511",
+      "PDA-REG-1258",
+      "PDA-REG-1259",
+      "PDA-REG-1260",
+      "PDA-REG-1261"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 284
+    "fila_origen": 284,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0139",
+    "contenido_canonico": "Valoración de los ecosistemas: características del territorio como espacio de vida y las interacciones de la comunidad con los ecosistemas, para su preservación responsable y sustentable",
+    "equivalencia_score": 99.43,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0262",
@@ -630,11 +988,23 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Interculturalidad y sustentabilidad: Formas en las que los pueblos originarios y otras culturas del país se relacionan con la naturaleza para contribuir a reducir el impacto negativo de la humanidad en el medio natural y social, así como acciones colectivas para promover el bienestar con respeto y protección, a fin de preservar la naturaleza y fortalecer la conciencia geográfica",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0512",
+      "PDA-REG-0513",
+      "PDA-REG-0514",
+      "PDA-REG-1262",
+      "PDA-REG-1263",
+      "PDA-REG-1264"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 313
+    "fila_origen": 313,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0140",
+    "contenido_canonico": "Interculturalidad y sustentabilidad: formas en las que los pueblos originarios y otras culturas del país se relacionan con la naturaleza para contribuir a reducir el impacto negativo de la humanidad en el medio natural y social, así como acciones colectivas para promover el bienestar con respeto y protección, a fin de preservar la naturaleza y fortalecer la conciencia geográfica",
+    "equivalencia_score": 99.7,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0263",
@@ -643,11 +1013,23 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Interculturalidad y sustentabilidad: Formas en las que los pueblos originarios y otras culturas del país se relacionan con la naturaleza para contribuir a reducir el impacto negativo de la humanidad en el medio natural y social, así como acciones colectivas para promover el bienestar con respeto y protección, a fin de preservar la naturaleza y fortalecer la conciencia geográfica",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0512",
+      "PDA-REG-0513",
+      "PDA-REG-0514",
+      "PDA-REG-1262",
+      "PDA-REG-1263",
+      "PDA-REG-1264"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 316
+    "fila_origen": 316,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0140",
+    "contenido_canonico": "Interculturalidad y sustentabilidad: formas en las que los pueblos originarios y otras culturas del país se relacionan con la naturaleza para contribuir a reducir el impacto negativo de la humanidad en el medio natural y social, así como acciones colectivas para promover el bienestar con respeto y protección, a fin de preservar la naturaleza y fortalecer la conciencia geográfica",
+    "equivalencia_score": 99.7,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0267",
@@ -656,11 +1038,25 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Retos en el reconocimiento y ejercicio de los derechos humanos y la satisfacción de las necesidades básicas, físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes, así como situaciones injustas en el pasado y el presente, en las que no se respetan los derechos para satisfacer las necesidades básicas de todas las personas",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0545",
+      "PDA-REG-0546",
+      "PDA-REG-0547",
+      "PDA-REG-0548",
+      "PDA-REG-1295",
+      "PDA-REG-1296",
+      "PDA-REG-1297",
+      "PDA-REG-1298"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 288
+    "fila_origen": 288,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0150",
+    "contenido_canonico": "Retos en el reconocimiento y ejercicio de los derechos humanos y la satisfacción de las necesidades básicas, físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes; así como situaciones injustas en el pasado y el presente, en las que no se respetan los derechos para satisfacer las necesidades básicas de todas las personas",
+    "equivalencia_score": 99.65,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0275",
@@ -669,11 +1065,27 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "La vida cotidiana antes de la primera invasión europea y en el México colonial: personas y grupos sociales que incidieron en la historia de la comunidad, entidad y el país, para reconocer sus aportes en lo social, cultural, político y económico, entre otros, en las transformaciones sociales",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0530",
+      "PDA-REG-0531",
+      "PDA-REG-0532",
+      "PDA-REG-0533",
+      "PDA-REG-0534",
+      "PDA-REG-1280",
+      "PDA-REG-1281",
+      "PDA-REG-1282",
+      "PDA-REG-1283",
+      "PDA-REG-1284"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 289
+    "fila_origen": 289,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0145",
+    "contenido_canonico": "La vida cotidiana antes de la primera invasión europea y en el México colonial: personas y grupos sociales que incidieron en la historia de la comunidad, entidad y el país, para reconocer sus aportes en lo social, cultural, político y económico",
+    "equivalencia_score": 97.67,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0279",
@@ -682,11 +1094,25 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Sustentabilidad de la biodiversidad y humanismo: Rasgos de los estilos de vida y modelos de desarrollo dominantes y su impacto en la biodiversidad, Implicaciones socioambientales de la preservación",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0567",
+      "PDA-REG-0568",
+      "PDA-REG-0569",
+      "PDA-REG-0570",
+      "PDA-REG-1317",
+      "PDA-REG-1318",
+      "PDA-REG-1319",
+      "PDA-REG-1320"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 370
+    "fila_origen": 370,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0158",
+    "contenido_canonico": "Sustentabilidad de la biodiversidad y humanismo: rasgos de los estilos de vida y modelos de desarrollo dominantes y su impacto en la biodiversidad, implicaciones socioambientales de la preservación",
+    "equivalencia_score": 98.86,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0280",
@@ -695,11 +1121,25 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Sustentabilidad de la biodiversidad y humanismo: Rasgos de los estilos de vida y modelos de desarrollo dominantes y su impacto en la biodiversidad, Implicaciones socioambientales de la preservación",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0567",
+      "PDA-REG-0568",
+      "PDA-REG-0569",
+      "PDA-REG-0570",
+      "PDA-REG-1317",
+      "PDA-REG-1318",
+      "PDA-REG-1319",
+      "PDA-REG-1320"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 399
+    "fila_origen": 399,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0158",
+    "contenido_canonico": "Sustentabilidad de la biodiversidad y humanismo: rasgos de los estilos de vida y modelos de desarrollo dominantes y su impacto en la biodiversidad, implicaciones socioambientales de la preservación",
+    "equivalencia_score": 98.86,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0282",
@@ -708,11 +1148,21 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "El derecho a la protección de la integridad física y mental, ante cualquier forma de maltrato, abuso o explotación de tipo sexual o laboral, así como la identificación de personas e instituciones que pueden apoyar para el ejercicio de ese derecho",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0603",
+      "PDA-REG-0604",
+      "PDA-REG-1353",
+      "PDA-REG-1354"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 403
+    "fila_origen": 403,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0168",
+    "contenido_canonico": "El derecho a la protección de la integridad física y mental, ante cualquier forma de maltrato, abuso o explotación de tipo sexual o laboral, así como, la identificación de personas e instituciones que pueden apoyar para el ejercicio de ese derecho",
+    "equivalencia_score": 99.77,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0293",
@@ -721,11 +1171,31 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Migración y derechos humanos: migración interna y externa: causas y consecuencias sociales, económicas, culturales, políticas y ambientales",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0649",
+      "PDA-REG-0650",
+      "PDA-REG-0651",
+      "PDA-REG-0652",
+      "PDA-REG-0653",
+      "PDA-REG-0654",
+      "PDA-REG-0655",
+      "PDA-REG-1399",
+      "PDA-REG-1400",
+      "PDA-REG-1401",
+      "PDA-REG-1402",
+      "PDA-REG-1403",
+      "PDA-REG-1404",
+      "PDA-REG-1405"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 346
+    "fila_origen": 346,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0176",
+    "contenido_canonico": "Migración y derechos humanos: migración interna y externa, causas y consecuencias sociales, económicas, culturales, políticas y ambientales",
+    "equivalencia_score": 99.25,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0304",
@@ -734,11 +1204,23 @@
     "campo_formativo_id": "CF02",
     "campo_formativo": "Saberes y Pensamiento Científico",
     "contenido_origen": "Factores que conforman la biodiversidad y el medio ambiente, la riqueza natural de México y su relevancia como parte del patrimonio bio cultural de la humanidad, y la importancia de su conservación",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0416",
+      "PDA-REG-0417",
+      "PDA-REG-0418",
+      "PDA-REG-1166",
+      "PDA-REG-1167",
+      "PDA-REG-1168"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 396
+    "fila_origen": 396,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0109",
+    "contenido_canonico": "Factores que conforman la biodiversidad y el medio ambiente, la riqueza natural de México y su relevancia como parte del patrimonio biocultural de la humanidad, y la importancia de su conservación",
+    "equivalencia_score": 99.71,
+    "campo_formativo_canonico_id": "CF02"
   },
   {
     "proyecto_id": "PR-0318",
@@ -747,11 +1229,23 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Cultura democrática: principios éticos que subyacen en los acuerdos, normas y leyes democráticas, importancia de su cumplimiento y evaluación aplicación equitativa igualitaria en la vida cotidiana",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0594",
+      "PDA-REG-0595",
+      "PDA-REG-0596",
+      "PDA-REG-1344",
+      "PDA-REG-1345",
+      "PDA-REG-1346"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 342
+    "fila_origen": 342,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0165",
+    "contenido_canonico": "Cultura democrática: principios éticos que subyacen en los acuerdos, normas y leyes democráticas, importancia de su cumplimiento y evaluación de su aplicación justa, equitativa e igualitaria en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0319",
@@ -760,11 +1254,33 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "México independiente: la vida cotidiana, las intervenciones extranjeras durante el siglo XIX, causas y consecuencias de conflictos territoriales, la defensa de la soberanía nacional y la conformación del estado laico (Quinto grado)",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0631",
+      "PDA-REG-0632",
+      "PDA-REG-0633",
+      "PDA-REG-0634",
+      "PDA-REG-0635",
+      "PDA-REG-0636",
+      "PDA-REG-0637",
+      "PDA-REG-0638",
+      "PDA-REG-1381",
+      "PDA-REG-1382",
+      "PDA-REG-1383",
+      "PDA-REG-1384",
+      "PDA-REG-1385",
+      "PDA-REG-1386",
+      "PDA-REG-1387",
+      "PDA-REG-1388"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 345
+    "fila_origen": 345,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0174",
+    "contenido_canonico": "México independiente: la vida cotidiana, las intervenciones extranjeras durante el siglo XIX, causas y consecuencias de conflictos territoriales, la defensa de la soberanía nacional y la conformación del estado laico",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0320",
@@ -773,11 +1289,16 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Valoración de la megadiversidad mexicana: Megadiversidad en México, diversidad cultural, ser humano naturaleza y representaciones distintas de las diferentes culturas o grupos sociales, sobre la biodiversidad y su manejo, acorde a sus contextos",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 341
+    "fila_origen": 341,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0157",
+    "contenido_canonico": "Valoración de la megadiversidad mexicana: megadiversidad en México, diversidad cultural, relaciones ser humano-naturaleza y representaciones distintas de las diferentes culturas o grupos sociales, sobre la biodiversidad y su manejo, acorde a sus contextos",
+    "equivalencia_score": 94.02,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0326",
@@ -786,11 +1307,23 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Desafíos para la construcción de comunidades y sociedades inclusivas y equitativas: la violencia de género como un problema estructural, con un peso social, cultural e histórico, a fin de visibilizar sus causas y consecuencias, para erradicarlas buscando la equidad como derecho",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0597",
+      "PDA-REG-0598",
+      "PDA-REG-0599",
+      "PDA-REG-1347",
+      "PDA-REG-1348",
+      "PDA-REG-1349"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 401
+    "fila_origen": 401,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0166",
+    "contenido_canonico": "Desafíos para la construcción de sociedades inclusivas y equitativas: la violencia de género como un problema estructural, con un peso social, cultural e histórico, a fin de visibilizar sus causas y consecuencias, para erradicarlas, buscando la equidad como derecho",
+    "equivalencia_score": 97.33,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0327",
@@ -799,11 +1332,21 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "La familia como espacio para el desarrollo del sentido de pertenencia y autonomía, para una sana convivencia",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0722",
+      "PDA-REG-0723",
+      "PDA-REG-1472",
+      "PDA-REG-1473"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 348
+    "fila_origen": 348,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0208",
+    "contenido_canonico": "Las familias como espacio para el desarrollo del sentido de pertenencia y autonomía, para una sana convivencia",
+    "equivalencia_score": 99.04,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0328",
@@ -812,11 +1355,23 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Cultura democrática: principios éticos que subyacen en los acuerdos, normas y leyes democráticas, importancia de su cumplimiento y evaluación aplicación equitativa igualitaria en la vida cotidiana",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0594",
+      "PDA-REG-0595",
+      "PDA-REG-0596",
+      "PDA-REG-1344",
+      "PDA-REG-1345",
+      "PDA-REG-1346"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 372
+    "fila_origen": 372,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0165",
+    "contenido_canonico": "Cultura democrática: principios éticos que subyacen en los acuerdos, normas y leyes democráticas, importancia de su cumplimiento y evaluación de su aplicación justa, equitativa e igualitaria en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0330",
@@ -825,11 +1380,16 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Capacidades y habilidades motrices",
-    "estado": "OTRO_CONTEXTO",
+    "estado": "VALIDADA_CANONICA_CONTEXTO_PENDIENTE_PDA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 379
+    "fila_origen": 379,
+    "estado_original": "OTRO_CONTEXTO",
+    "contenido_id_canonico": "C0213",
+    "contenido_canonico": "Capacidades, habilidades y destrezas motrices",
+    "equivalencia_score": 86.08,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0337",
@@ -838,11 +1398,27 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "La lucha por el reconocimiento de los humanos: la protección derechos de la dignidad de todas las personas y grupos sociales para vivir con gozo y armonía, sin importar las diferencias",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0605",
+      "PDA-REG-0606",
+      "PDA-REG-0607",
+      "PDA-REG-0608",
+      "PDA-REG-0609",
+      "PDA-REG-1355",
+      "PDA-REG-1356",
+      "PDA-REG-1357",
+      "PDA-REG-1358",
+      "PDA-REG-1359"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 373
+    "fila_origen": 373,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0169",
+    "contenido_canonico": "La lucha por el reconocimiento de los derechos humanos: la protección de la dignidad de todas las personas y grupos sociales para vivir con gozo y armonía, sin importar las diferencias",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0345",
@@ -851,11 +1427,25 @@
     "campo_formativo_id": "CF01",
     "campo_formativo": "Lenguajes",
     "contenido_origen": "Combinación de la realidad y la fantasía en elementos simbólicos de las manifestaciones culturales y artísticas, que dan identidad y sentido de pertenencia",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0287",
+      "PDA-REG-0288",
+      "PDA-REG-0289",
+      "PDA-REG-0290",
+      "PDA-REG-1037",
+      "PDA-REG-1038",
+      "PDA-REG-1039",
+      "PDA-REG-1040"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 333
+    "fila_origen": 333,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0073",
+    "contenido_canonico": "Combinación de la realidad y la ficción en elementos simbólicos de las manifestaciones culturales y artísticas, que dan identidad y sentido de pertenencia",
+    "equivalencia_score": 97.08,
+    "campo_formativo_canonico_id": "CF01"
   },
   {
     "proyecto_id": "PR-0349",
@@ -864,11 +1454,21 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "El derecho a la protección de la integridad física y mental, ante cualquier forma de maltrato, abuso o explotación de tipo sexual o laboral, así como la identificación de personas e instituciones que pueden apoyar para el ejercicio de ese derecho",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0603",
+      "PDA-REG-0604",
+      "PDA-REG-1353",
+      "PDA-REG-1354"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 343
+    "fila_origen": 343,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0168",
+    "contenido_canonico": "El derecho a la protección de la integridad física y mental, ante cualquier forma de maltrato, abuso o explotación de tipo sexual o laboral, así como, la identificación de personas e instituciones que pueden apoyar para el ejercicio de ese derecho",
+    "equivalencia_score": 99.77,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0352",
@@ -903,11 +1503,19 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Cumplimiento de los derechos humanos: estudio de casos de actos de discriminación, racismo o violencia que suceden actualmente en México y el mundo",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0610",
+      "PDA-REG-1360"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 492
+    "fila_origen": 492,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0170",
+    "contenido_canonico": "Cumplimiento de los derechos humanos: estudio de casos de actos de discriminación, racismo o violencias que suceden actualmente en México y el mundo",
+    "equivalencia_score": 99.64,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0362",
@@ -916,11 +1524,25 @@
     "campo_formativo_id": "CF01",
     "campo_formativo": "Lenguajes",
     "contenido_origen": "Combinación de la realidad y la fantasía en elementos simbólicos de las manifestaciones culturales y artísticas, que dan identidad y sentido de pertenencia",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0287",
+      "PDA-REG-0288",
+      "PDA-REG-0289",
+      "PDA-REG-0290",
+      "PDA-REG-1037",
+      "PDA-REG-1038",
+      "PDA-REG-1039",
+      "PDA-REG-1040"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 451
+    "fila_origen": 451,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0073",
+    "contenido_canonico": "Combinación de la realidad y la ficción en elementos simbólicos de las manifestaciones culturales y artísticas, que dan identidad y sentido de pertenencia",
+    "equivalencia_score": 97.08,
+    "campo_formativo_canonico_id": "CF01"
   },
   {
     "proyecto_id": "PR-0376",
@@ -929,11 +1551,25 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Sustentabilidad de la biodiversidad y humanismo: Rasgos de los estilos de vida y modelos de desarrollo dominantes y su impacto en la biodiversidad, Implicaciones socioambientales de la preservación",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0567",
+      "PDA-REG-0568",
+      "PDA-REG-0569",
+      "PDA-REG-0570",
+      "PDA-REG-1317",
+      "PDA-REG-1318",
+      "PDA-REG-1319",
+      "PDA-REG-1320"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 458
+    "fila_origen": 458,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0158",
+    "contenido_canonico": "Sustentabilidad de la biodiversidad y humanismo: rasgos de los estilos de vida y modelos de desarrollo dominantes y su impacto en la biodiversidad, implicaciones socioambientales de la preservación",
+    "equivalencia_score": 98.86,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0378",
@@ -942,11 +1578,23 @@
     "campo_formativo_id": "CF02",
     "campo_formativo": "Saberes y Pensamiento Científico",
     "contenido_origen": "Factores que conforman la biodiversidad y el medio ambiente, la riqueza natural de México y su relevancia como parte del patrimonio bio cultural de la humanidad, y la importancia de su conservación",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0416",
+      "PDA-REG-0417",
+      "PDA-REG-0418",
+      "PDA-REG-1166",
+      "PDA-REG-1167",
+      "PDA-REG-1168"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 486
+    "fila_origen": 486,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0109",
+    "contenido_canonico": "Factores que conforman la biodiversidad y el medio ambiente, la riqueza natural de México y su relevancia como parte del patrimonio biocultural de la humanidad, y la importancia de su conservación",
+    "equivalencia_score": 99.71,
+    "campo_formativo_canonico_id": "CF02"
   },
   {
     "proyecto_id": "PR-0381",
@@ -955,11 +1603,16 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Valoración de biodiversidad: Biodiversidad en la localidad, entidad, México y el mundo, valores, acciones sustentables",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 428
+    "fila_origen": 428,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0156",
+    "contenido_canonico": "Valoración de la biodiversidad en el territorio donde se ubica la localidad, entidad, México y el mundo, valores y acciones sustentables",
+    "equivalencia_score": 87.8,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0383",
@@ -981,11 +1634,16 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "Capacidades y habilidades motrices",
-    "estado": "OTRO_CONTEXTO",
+    "estado": "VALIDADA_CANONICA_CONTEXTO_PENDIENTE_PDA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 471
+    "fila_origen": 471,
+    "estado_original": "OTRO_CONTEXTO",
+    "contenido_id_canonico": "C0213",
+    "contenido_canonico": "Capacidades, habilidades y destrezas motrices",
+    "equivalencia_score": 86.08,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0386",
@@ -994,11 +1652,19 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Cumplimiento de los derechos humanos: estudio de casos de actos de discriminación, racismo o violencia que suceden actualmente en México y el mundo",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0610",
+      "PDA-REG-1360"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 461
+    "fila_origen": 461,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0170",
+    "contenido_canonico": "Cumplimiento de los derechos humanos: estudio de casos de actos de discriminación, racismo o violencias que suceden actualmente en México y el mundo",
+    "equivalencia_score": 99.64,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0390",
@@ -1007,11 +1673,23 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Desafíos para la construcción de comunidades y sociedades inclusivas y equitativas: la violencia de género como un problema estructural, con un peso social, cultural e histórico, a fin de visibilizar sus causas y consecuencias, para erradicarlas buscando la equidad como derecho",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0597",
+      "PDA-REG-0598",
+      "PDA-REG-0599",
+      "PDA-REG-1347",
+      "PDA-REG-1348",
+      "PDA-REG-1349"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 491
+    "fila_origen": 491,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0166",
+    "contenido_canonico": "Desafíos para la construcción de sociedades inclusivas y equitativas: la violencia de género como un problema estructural, con un peso social, cultural e histórico, a fin de visibilizar sus causas y consecuencias, para erradicarlas, buscando la equidad como derecho",
+    "equivalencia_score": 97.33,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0392",
@@ -1059,11 +1737,37 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "México posrevolucionario (19171940): la vida cotidiana, los procesos que implicaron la reconfiguración del país en los ámbitos social, económico, político, religioso y cultural así como el impacto en el ambiente",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0639",
+      "PDA-REG-0640",
+      "PDA-REG-0641",
+      "PDA-REG-0642",
+      "PDA-REG-0643",
+      "PDA-REG-0644",
+      "PDA-REG-0645",
+      "PDA-REG-0646",
+      "PDA-REG-0647",
+      "PDA-REG-0648",
+      "PDA-REG-1389",
+      "PDA-REG-1390",
+      "PDA-REG-1391",
+      "PDA-REG-1392",
+      "PDA-REG-1393",
+      "PDA-REG-1394",
+      "PDA-REG-1395",
+      "PDA-REG-1396",
+      "PDA-REG-1397",
+      "PDA-REG-1398"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 463
+    "fila_origen": 463,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0175",
+    "contenido_canonico": "México posrevolucionario (1917-1940): la vida cotidiana, los procesos que implicaron la reconfiguración del país en los ámbitos social, económico, político, religioso y cultural, así como el impacto en el ambiente",
+    "equivalencia_score": 99.5,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0402",
@@ -1072,11 +1776,16 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Valoración de la megadiversidad mexicana: Megadiversidad en México, diversidad cultural, ser humano naturaleza y representaciones distintas de las diferentes culturas o grupos sociales, sobre la biodiversidad y su manejo, acorde a sus contextos",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
+    "estado": "VALIDADA_CANONICA",
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 493
+    "fila_origen": 493,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0157",
+    "contenido_canonico": "Valoración de la megadiversidad mexicana: megadiversidad en México, diversidad cultural, relaciones ser humano-naturaleza y representaciones distintas de las diferentes culturas o grupos sociales, sobre la biodiversidad y su manejo, acorde a sus contextos",
+    "equivalencia_score": 94.02,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0403",
@@ -1085,11 +1794,21 @@
     "campo_formativo_id": "CF04",
     "campo_formativo": "De lo Humano y lo Comunitario",
     "contenido_origen": "La familia como espacio para el desarrollo del sentido de pertenencia y autonomía, para una sana convivencia",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0722",
+      "PDA-REG-0723",
+      "PDA-REG-1472",
+      "PDA-REG-1473"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 435
+    "fila_origen": 435,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0208",
+    "contenido_canonico": "Las familias como espacio para el desarrollo del sentido de pertenencia y autonomía, para una sana convivencia",
+    "equivalencia_score": 99.04,
+    "campo_formativo_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0405",
@@ -1098,11 +1817,23 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Cultura democrática: principios éticos que subyacen en los acuerdos, normas y leyes democráticas, importancia de su cumplimiento y evaluación aplicación equitativa igualitaria en la vida cotidiana",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0594",
+      "PDA-REG-0595",
+      "PDA-REG-0596",
+      "PDA-REG-1344",
+      "PDA-REG-1345",
+      "PDA-REG-1346"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 430
+    "fila_origen": 430,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0165",
+    "contenido_canonico": "Cultura democrática: principios éticos que subyacen en los acuerdos, normas y leyes democráticas, importancia de su cumplimiento y evaluación de su aplicación justa, equitativa e igualitaria en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0406",
@@ -1111,11 +1842,37 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "México posrevolucionario (1917-1940): la vida cotidiana, los procesos que implicaron la reconfiguración del país en los ámbitos social, económico, político, religioso y cultural así como el impacto en el ambiente",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0639",
+      "PDA-REG-0640",
+      "PDA-REG-0641",
+      "PDA-REG-0642",
+      "PDA-REG-0643",
+      "PDA-REG-0644",
+      "PDA-REG-0645",
+      "PDA-REG-0646",
+      "PDA-REG-0647",
+      "PDA-REG-0648",
+      "PDA-REG-1389",
+      "PDA-REG-1390",
+      "PDA-REG-1391",
+      "PDA-REG-1392",
+      "PDA-REG-1393",
+      "PDA-REG-1394",
+      "PDA-REG-1395",
+      "PDA-REG-1396",
+      "PDA-REG-1397",
+      "PDA-REG-1398"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 432
+    "fila_origen": 432,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0175",
+    "contenido_canonico": "México posrevolucionario (1917-1940): la vida cotidiana, los procesos que implicaron la reconfiguración del país en los ámbitos social, económico, político, religioso y cultural, así como el impacto en el ambiente",
+    "equivalencia_score": 99.75,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0408",
@@ -1137,11 +1894,31 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Migración y derechos humanos: migración interna y externa: causas y consecuencias sociales, económicas, culturales, políticas y ambientales",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0649",
+      "PDA-REG-0650",
+      "PDA-REG-0651",
+      "PDA-REG-0652",
+      "PDA-REG-0653",
+      "PDA-REG-0654",
+      "PDA-REG-0655",
+      "PDA-REG-1399",
+      "PDA-REG-1400",
+      "PDA-REG-1401",
+      "PDA-REG-1402",
+      "PDA-REG-1403",
+      "PDA-REG-1404",
+      "PDA-REG-1405"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 433
+    "fila_origen": 433,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0176",
+    "contenido_canonico": "Migración y derechos humanos: migración interna y externa, causas y consecuencias sociales, económicas, culturales, políticas y ambientales",
+    "equivalencia_score": 99.25,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0419",
@@ -1150,11 +1927,21 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "El derecho a la protección de la integridad física y mental, ante cualquier forma de maltrato, abuso o explotación de tipo sexual o laboral, así como la identificación de personas e instituciones que pueden apoyar para el ejercicio de ese derecho",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0603",
+      "PDA-REG-0604",
+      "PDA-REG-1353",
+      "PDA-REG-1354"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 431
+    "fila_origen": 431,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0168",
+    "contenido_canonico": "El derecho a la protección de la integridad física y mental, ante cualquier forma de maltrato, abuso o explotación de tipo sexual o laboral, así como, la identificación de personas e instituciones que pueden apoyar para el ejercicio de ese derecho",
+    "equivalencia_score": 99.77,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0420",
@@ -1163,11 +1950,21 @@
     "campo_formativo_id": "CF03",
     "campo_formativo": "Ética, Naturaleza y Sociedades",
     "contenido_origen": "Valores y prácticas de los pueblos originarios afromexicanos: el respeto, reciprocidad beneficio como fundamentales de la relación con la naturaleza y con otras personas",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0611",
+      "PDA-REG-0612",
+      "PDA-REG-1361",
+      "PDA-REG-1362"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 462
+    "fila_origen": 462,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0171",
+    "contenido_canonico": "Valores y prácticas de los pueblos originarios y afromexicanos: el respeto, la reciprocidad y el beneficio mutuo como valores fundamentales de la relación con la naturaleza y con otras personas",
+    "equivalencia_score": 100.0,
+    "campo_formativo_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0422",
@@ -1176,10 +1973,26 @@
     "campo_formativo_id": "CF01",
     "campo_formativo": "Lenguajes",
     "contenido_origen": "Exposiciósobre temas relacionados con el cuidado de la salud",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
+    "estado": "VALIDADA_CANONICA",
+    "pda_ids": [
+      "PDA-REG-0232",
+      "PDA-REG-0233",
+      "PDA-REG-0234",
+      "PDA-REG-0235",
+      "PDA-REG-0236",
+      "PDA-REG-0982",
+      "PDA-REG-0983",
+      "PDA-REG-0984",
+      "PDA-REG-0985",
+      "PDA-REG-0986"
+    ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 416
+    "fila_origen": 416,
+    "estado_original": "NO_ENCONTRADA_EN_PDAS",
+    "contenido_id_canonico": "C0060",
+    "contenido_canonico": "Exposición sobre temas relacionados con el cuidado de la salud",
+    "equivalencia_score": 98.36,
+    "campo_formativo_canonico_id": "CF01"
   }
 ]

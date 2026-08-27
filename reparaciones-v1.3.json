@@ -1,0 +1,184 @@
+{
+  "version": "1.3.0",
+  "reparaciones": [
+    {
+      "proyecto_id": "PR-0060",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0194",
+      "contenido": "Apoyos mutuos para favorecer los aprendizajes en el aula diversa",
+      "pda_ids": [
+        "PDA-REG-0684"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0061",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0131",
+      "contenido": "Democracia como forma de vida: construcción participativa de normas, reglas y acuerdos para alcanzar metas colectivas y contribuir a una convivencia pacífica en nuestra casa, el aula, la escuela y la comunidad, así como las consecuencias de no respetar los acuerdos, reglas y normas escolares y comunitarias",
+      "pda_ids": [
+        "PDA-REG-0490",
+        "PDA-REG-0491"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0077",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0079",
+      "contenido": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental",
+      "pda_ids": [
+        "PDA-REG-1061",
+        "PDA-REG-1062",
+        "PDA-REG-1063"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0114",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0079",
+      "contenido": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental",
+      "pda_ids": [
+        "PDA-REG-1061",
+        "PDA-REG-1062",
+        "PDA-REG-1063"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0119",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0079",
+      "contenido": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental",
+      "pda_ids": [
+        "PDA-REG-1061",
+        "PDA-REG-1062",
+        "PDA-REG-1063"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0126",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0079",
+      "contenido": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental",
+      "pda_ids": [
+        "PDA-REG-1061",
+        "PDA-REG-1062",
+        "PDA-REG-1063"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0189",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0177",
+      "contenido": "La comunidad como el espacio en el que se vive y se encuentra la escuela",
+      "pda_ids": []
+    },
+    {
+      "proyecto_id": "PR-0238",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0177",
+      "contenido": "La comunidad como el espacio en el que se vive y se encuentra la escuela",
+      "pda_ids": []
+    },
+    {
+      "proyecto_id": "PR-0249",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0030",
+      "contenido": "Comprensión y producción de textos expositivos en los que se planteen: problema-solución, comparación-contraste, causa-consecuencia y enumeración",
+      "pda_ids": [
+        "PDA-REG-0846",
+        "PDA-REG-0847",
+        "PDA-REG-0848",
+        "PDA-REG-0849",
+        "PDA-REG-0850",
+        "PDA-REG-0851"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0352",
+      "accion": "verificado_sin_contenido_canonico",
+      "contenido": null,
+      "nota": "La fuente SEP de Posibilidades de uso registra explícitamente este proyecto como “sin contenido”; no se inventó una equivalencia curricular."
+    },
+    {
+      "proyecto_id": "PR-0353",
+      "accion": "verificado_sin_contenido_canonico",
+      "contenido": null,
+      "nota": "La fuente SEP de Posibilidades de uso registra explícitamente este proyecto como “sin contenido”; no se inventó una equivalencia curricular."
+    },
+    {
+      "proyecto_id": "PR-0383",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0215",
+      "contenido": "Toma de decisiones y creatividad, ante problemas de la vida",
+      "pda_ids": [
+        "PDA-REG-1495",
+        "PDA-REG-1496",
+        "PDA-REG-1497",
+        "PDA-REG-1498"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0392",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0182",
+      "contenido": "Formas de ser, pensar, actuar y relacionarse",
+      "pda_ids": [
+        "PDA-REG-1480"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0392",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0062",
+      "contenido": "Interpretación y producción de anuncios publicitarios de productos o servicios ofrecidos en la comunidad",
+      "pda_ids": [
+        "PDA-REG-0992",
+        "PDA-REG-0993",
+        "PDA-REG-0994",
+        "PDA-REG-0995",
+        "PDA-REG-0996"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0395",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0053",
+      "contenido": "Comprensión y producción de textos explicativos",
+      "pda_ids": [
+        "PDA-REG-0950",
+        "PDA-REG-0951",
+        "PDA-REG-0952",
+        "PDA-REG-0953",
+        "PDA-REG-0954"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0396",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0069",
+      "contenido": "Análisis de cuentos y poemas para su disfrute y comprensión",
+      "pda_ids": [
+        "PDA-REG-1023",
+        "PDA-REG-1024",
+        "PDA-REG-1025",
+        "PDA-REG-1026",
+        "PDA-REG-1027"
+      ]
+    },
+    {
+      "proyecto_id": "PR-0408",
+      "accion": "contenido_canonico",
+      "contenido_id": "C0209",
+      "contenido": "Alternativas ante conflictos y problemas de la vida en la comunidad",
+      "pda_ids": [
+        "PDA-REG-1474",
+        "PDA-REG-1475"
+      ]
+    }
+  ],
+  "fuentes": [
+    "SEP Posibilidades de uso de los LTG Fase 3",
+    "SEP Posibilidades de uso de los LTG Fase 5",
+    "Programas Sintéticos Fases 2 a 6"
+  ],
+  "criterio": "No se asignó contenido cuando la fuente SEP explícitamente indica sin contenido. Cuando existió contenido canónico, se generaron sus PDA por grado y se sincronizó el campo formativo."
+}

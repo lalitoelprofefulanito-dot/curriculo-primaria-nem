@@ -1,0 +1,30 @@
+[
+  {
+    "tipo": "CONTENIDO_NO_VALIDADO",
+    "cantidad": 82,
+    "accion": "No inventar correspondencias; requieren cotejo directo contra la fuente Libros/Programa Sintético."
+  },
+  {
+    "tipo": "CONTENIDO_OTRO_CONTEXTO",
+    "cantidad": 5,
+    "accion": "No derivar PDA por diferencia de contexto."
+  },
+  {
+    "tipo": "CONTENIDO_OTRO_CAMPO_MISMO_GRADO",
+    "cantidad": 4,
+    "accion": "No derivar PDA sin coincidencia exacta de campo."
+  },
+  {
+    "tipo": "PROYECTO_SIN_COINCIDENCIA_TITULO",
+    "cantidad": 4,
+    "accion": "PR-0011, PR-0074, PR-0310 y PR-0340 quedan sin contenido/propósito de Libros hasta cotejo directo."
+  },
+  {
+    "tipo": "DISCREPANCIA_CAMPO_RESUELTA",
+    "proyectos": [
+      "PR-0074",
+      "PR-0134"
+    ],
+    "accion": "Se normalizó al campo Ética, Naturaleza y Sociedades con respaldo externo; conservar revisión contra el Excel maestro original."
+  }
+]

@@ -13,7 +13,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 18
+    "fila_origen": 18,
+    "contenido_id": "C0130",
+    "contenido_canonico": "Construcción de la paz mediante el diálogo: situaciones de conflicto o discrepancia como parte de la interacción de los seres humanos en la casa, el aula, la escuela y la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0002",
@@ -28,7 +32,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 52
+    "fila_origen": 52,
+    "contenido_id": "C0185",
+    "contenido_canonico": "Capacidades y habilidades motrices",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0003",
@@ -45,7 +53,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 44
+    "fila_origen": 44,
+    "contenido_id": "C0081",
+    "contenido_canonico": "Efectos de la aplicación de fuerzas: movimiento y deformación",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0004",
@@ -61,7 +73,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 53
+    "fila_origen": 53,
+    "contenido_id": "C0196",
+    "contenido_canonico": "Los afectos y su influencia en el bienestar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0005",
@@ -77,7 +93,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 26
+    "fila_origen": 26,
+    "contenido_id": "C0196",
+    "contenido_canonico": "Los afectos y su influencia en el bienestar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0006",
@@ -94,7 +114,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 34
+    "fila_origen": 34,
+    "contenido_id": "C0020",
+    "contenido_canonico": "Uso de los lenguajes artísticos para expresar rasgos de las identidades personal y colectiva",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0007",
@@ -111,7 +135,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 33
+    "fila_origen": 33,
+    "contenido_id": "C0016",
+    "contenido_canonico": "Reconocimiento de la diversidad lingüística y cultural en la familia, la escuela y el resto de la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0008",
@@ -127,7 +155,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 41
+    "fila_origen": 41,
+    "contenido_id": "C0088",
+    "contenido_canonico": "Figuras geométricas y sus características",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0009",
@@ -143,7 +175,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 4
+    "fila_origen": 4,
+    "contenido_id": "C0001",
+    "contenido_canonico": "Escritura de nombres en la lengua materna",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0010",
@@ -161,7 +197,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 74
+    "fila_origen": 74,
+    "contenido_id": "C0122",
+    "contenido_canonico": "Respeto, cuidado y empatía hacia la naturaleza, como parte de un todo interdependiente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0012",
@@ -181,7 +221,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 32
+    "fila_origen": 32,
+    "contenido_id": "C0002",
+    "contenido_canonico": "Lectura compartida en voz alta",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0013",
@@ -197,7 +241,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 35
+    "fila_origen": 35,
+    "contenido_id": "C0005",
+    "contenido_canonico": "Descripción de objetos, lugares y seres vivos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0014",
@@ -213,7 +261,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 76
+    "fila_origen": 76,
+    "contenido_id": "C0131",
+    "contenido_canonico": "Democracia como forma de vida: construcción participativa de normas, reglas y acuerdos para alcanzar metas colectivas y contribuir a una convivencia pacífica en nuestra casa, el aula, la escuela y la comunidad, así como las consecuencias de no respetar los acuerdos, reglas y normas escolares y comunitarias",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0015",
@@ -229,7 +281,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 58
+    "fila_origen": 58,
+    "contenido_id": "C0017",
+    "contenido_canonico": "Exploración de testimonios escritos, fotográficos y audiovisuales del pasado familiar y comunitario",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0016",
@@ -248,7 +304,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 7
+    "fila_origen": 7,
+    "contenido_id": "C0004",
+    "contenido_canonico": "Escritura colectiva por medio del dictado",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0017",
@@ -265,7 +325,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 36
+    "fila_origen": 36,
+    "contenido_id": "C0016",
+    "contenido_canonico": "Reconocimiento de la diversidad lingüística y cultural en la familia, la escuela y el resto de la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0018",
@@ -283,7 +347,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 40
+    "fila_origen": 40,
+    "contenido_id": "C0077",
+    "contenido_canonico": "Beneficios del consumo de alimentos saludables, de agua simple potable, y de la práctica de actividad física",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0019",
@@ -301,7 +369,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 47
+    "fila_origen": 47,
+    "contenido_id": "C0122",
+    "contenido_canonico": "Respeto, cuidado y empatía hacia la naturaleza, como parte de un todo interdependiente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0020",
@@ -318,7 +390,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 78
+    "fila_origen": 78,
+    "contenido_id": "C0181",
+    "contenido_canonico": "Sentido de pertenencia a la familia y la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0021",
@@ -334,7 +410,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 68
+    "fila_origen": 68,
+    "contenido_id": "C0083",
+    "contenido_canonico": "Cambios y regularidades de fenómenos naturales y actividades de las personas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0022",
@@ -351,7 +431,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 63
+    "fila_origen": 63,
+    "contenido_id": "C0020",
+    "contenido_canonico": "Uso de los lenguajes artísticos para expresar rasgos de las identidades personal y colectiva",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0023",
@@ -367,7 +451,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 72
+    "fila_origen": 72,
+    "contenido_id": "C0121",
+    "contenido_canonico": "Diversos contextos sociales, naturales y territoriales: cambios y continuidades",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0024",
@@ -383,7 +471,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 79
+    "fila_origen": 79,
+    "contenido_id": "C0196",
+    "contenido_canonico": "Los afectos y su influencia en el bienestar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0025",
@@ -400,7 +492,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 69
+    "fila_origen": 69,
+    "contenido_id": "C0081",
+    "contenido_canonico": "Efectos de la aplicación de fuerzas: movimiento y deformación",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0026",
@@ -417,7 +513,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 14
+    "fila_origen": 14,
+    "contenido_id": "C0080",
+    "contenido_canonico": "Objetos del entorno: características, propiedades, estados físicos y usos en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0027",
@@ -433,7 +533,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 55
+    "fila_origen": 55,
+    "contenido_id": "C0191",
+    "contenido_canonico": "Sentido de comunidad y satisfacción de necesidades humanas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0028",
@@ -449,7 +553,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 75
+    "fila_origen": 75,
+    "contenido_id": "C0121",
+    "contenido_canonico": "Diversos contextos sociales, naturales y territoriales: cambios y continuidades",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0029",
@@ -465,7 +573,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 60
+    "fila_origen": 60,
+    "contenido_id": "C0010",
+    "contenido_canonico": "Producción e interpretación de avisos, carteles, anuncios publicitarios y letreros en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0030",
@@ -482,7 +594,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 57
+    "fila_origen": 57,
+    "contenido_id": "C0012",
+    "contenido_canonico": "Producción de textos dirigidos a autoridades y personas de la comunidad, en relación con necesidades, intereses o actividades escolares",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0031",
@@ -499,7 +615,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 59
+    "fila_origen": 59,
+    "contenido_id": "C0016",
+    "contenido_canonico": "Reconocimiento de la diversidad lingüística y cultural en la familia, la escuela y el resto de la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0032",
@@ -519,7 +639,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 3
+    "fila_origen": 3,
+    "contenido_id": "C0002",
+    "contenido_canonico": "Lectura compartida en voz alta",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0033",
@@ -535,7 +659,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 46
+    "fila_origen": 46,
+    "contenido_id": "C0121",
+    "contenido_canonico": "Diversos contextos sociales, naturales y territoriales: cambios y continuidades",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0034",
@@ -552,7 +680,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 30
+    "fila_origen": 30,
+    "contenido_id": "C0019",
+    "contenido_canonico": "Uso de elementos de los lenguajes artísticos en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0035",
@@ -568,7 +700,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 48
+    "fila_origen": 48,
+    "contenido_id": "C0123",
+    "contenido_canonico": "Cambios en la naturaleza del lugar donde vive, y su relación con las actividades humanas cotidianas que tienen orden cronológico, asociadas a ciclos agrícolas y festividades, así como su vínculo con la noción de tiempo y espacio histórico (antes, durante y después)",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0036",
@@ -584,7 +720,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 22
+    "fila_origen": 22,
+    "contenido_id": "C0135",
+    "contenido_canonico": "Manifestaciones culturales y símbolos que identifican a los diversos pueblos indígenas, afrodescendientes y migrantes y a México como nación",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0037",
@@ -600,7 +740,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 80
+    "fila_origen": 80,
+    "contenido_id": "C0192",
+    "contenido_canonico": "Situaciones de riesgo social en las familias, escuela y comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0038",
@@ -618,7 +762,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 43
+    "fila_origen": 43,
+    "contenido_id": "C0082",
+    "contenido_canonico": "Características del sonido y la luz",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0039",
@@ -634,7 +782,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 23
+    "fila_origen": 23,
+    "contenido_id": "C0131",
+    "contenido_canonico": "Democracia como forma de vida: construcción participativa de normas, reglas y acuerdos para alcanzar metas colectivas y contribuir a una convivencia pacífica en nuestra casa, el aula, la escuela y la comunidad, así como las consecuencias de no respetar los acuerdos, reglas y normas escolares y comunitarias",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0040",
@@ -653,7 +805,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 37
+    "fila_origen": 37,
+    "contenido_id": "C0003",
+    "contenido_canonico": "Narración de actividades y eventos relevantes que tengan lugar en la familia, la escuela o el resto de la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0041",
@@ -670,7 +826,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 82
+    "fila_origen": 82,
+    "contenido_id": "C0181",
+    "contenido_canonico": "Sentido de pertenencia a la familia y la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0042",
@@ -688,7 +848,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 61
+    "fila_origen": 61,
+    "contenido_id": "C0022",
+    "contenido_canonico": "Apreciación de canciones, rondas infantiles, arrullos y cuentos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0043",
@@ -704,7 +868,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 62
+    "fila_origen": 62,
+    "contenido_id": "C0010",
+    "contenido_canonico": "Producción e interpretación de avisos, carteles, anuncios publicitarios y letreros en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0044",
@@ -721,7 +889,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 10
+    "fila_origen": 10,
+    "contenido_id": "C0020",
+    "contenido_canonico": "Uso de los lenguajes artísticos para expresar rasgos de las identidades personal y colectiva",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0045",
@@ -739,7 +911,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 13
+    "fila_origen": 13,
+    "contenido_id": "C0077",
+    "contenido_canonico": "Beneficios del consumo de alimentos saludables, de agua simple potable, y de la práctica de actividad física",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0046",
@@ -757,7 +933,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 67
+    "fila_origen": 67,
+    "contenido_id": "C0077",
+    "contenido_canonico": "Beneficios del consumo de alimentos saludables, de agua simple potable, y de la práctica de actividad física",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0047",
@@ -772,7 +952,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 20
+    "fila_origen": 20,
+    "contenido_id": "C0125",
+    "contenido_canonico": "Atención a las necesidades básicas, como parte del ejercicio de los derechos humanos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0048",
@@ -788,7 +972,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 19
+    "fila_origen": 19,
+    "contenido_id": "C0127",
+    "contenido_canonico": "Respeto a la dignidad e integridad: límites corporales y situaciones de riesgo para prevenir y denunciar situaciones de acoso, abuso y violencia de carácter sexual en la casa, la escuela, la comunidad y con el uso de internet y redes sociales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0049",
@@ -804,7 +992,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 50
+    "fila_origen": 50,
+    "contenido_id": "C0128",
+    "contenido_canonico": "Responsabilidad compartida en el cuidado de sí y el de nuestro entorno con la familia, la escuela, la comunidad, el uso de internet y redes sociales, para generar espacios de bienestar e inclusión, equidad e igualdad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0050",
@@ -821,7 +1013,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 12
+    "fila_origen": 12,
+    "contenido_id": "C0076",
+    "contenido_canonico": "Cuerpo humano: estructura externa, acciones para su cuidado y sus cambios como parte del crecimiento",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0051",
@@ -837,7 +1033,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 49
+    "fila_origen": 49,
+    "contenido_id": "C0130",
+    "contenido_canonico": "Construcción de la paz mediante el diálogo: situaciones de conflicto o discrepancia como parte de la interacción de los seres humanos en la casa, el aula, la escuela y la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0052",
@@ -856,7 +1056,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 8
+    "fila_origen": 8,
+    "contenido_id": "C0025",
+    "contenido_canonico": "Recreación de historias mediante el uso artístico de las palabras, del cuerpo, del espacio y del tiempo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0053",
@@ -874,7 +1078,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 15
+    "fila_origen": 15,
+    "contenido_id": "C0082",
+    "contenido_canonico": "Características del sonido y la luz",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0054",
@@ -891,7 +1099,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 42
+    "fila_origen": 42,
+    "contenido_id": "C0080",
+    "contenido_canonico": "Objetos del entorno: características, propiedades, estados físicos y usos en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0055",
@@ -906,7 +1118,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 71
+    "fila_origen": 71,
+    "contenido_id": "C0125",
+    "contenido_canonico": "Atención a las necesidades básicas, como parte del ejercicio de los derechos humanos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0056",
@@ -924,7 +1140,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 66
+    "fila_origen": 66,
+    "contenido_id": "C0078",
+    "contenido_canonico": "Características del entorno natural y sociocultural",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0057",
@@ -939,7 +1159,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 25
+    "fila_origen": 25,
+    "contenido_id": "C0182",
+    "contenido_canonico": "Formas de ser, pensar, actuar y relacionarse",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0058",
@@ -955,7 +1179,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 31
+    "fila_origen": 31,
+    "contenido_id": "C0010",
+    "contenido_canonico": "Producción e interpretación de avisos, carteles, anuncios publicitarios y letreros en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0059",
@@ -973,33 +1201,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 73
-  },
-  {
-    "proyecto_id": "PR-0060",
-    "grado_id": "G01",
-    "grado": "1°",
-    "campo_formativo_id": "CF04",
-    "campo_formativo": "De lo Humano y lo Comunitario",
-    "contenido_origen": "Apropiación de las culturas a través de la lectura y la escritura",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 81
-  },
-  {
-    "proyecto_id": "PR-0061",
-    "grado_id": "G01",
-    "grado": "1°",
-    "campo_formativo_id": "CF01",
-    "campo_formativo": "Lenguajes",
-    "contenido_origen": "Diálogo para la toma de acuerdos y el intercambio de puntos de vista",
-    "estado": "OTRO_CONTEXTO",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 5
+    "fila_origen": 73,
+    "contenido_id": "C0122",
+    "contenido_canonico": "Respeto, cuidado y empatía hacia la naturaleza, como parte de un todo interdependiente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0062",
@@ -1018,7 +1224,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 64
+    "fila_origen": 64,
+    "contenido_id": "C0025",
+    "contenido_canonico": "Recreación de historias mediante el uso artístico de las palabras, del cuerpo, del espacio y del tiempo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0063",
@@ -1033,7 +1243,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 28
+    "fila_origen": 28,
+    "contenido_id": "C0189",
+    "contenido_canonico": "Interacción motriz",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0064",
@@ -1050,7 +1264,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 9
+    "fila_origen": 9,
+    "contenido_id": "C0009",
+    "contenido_canonico": "Empleo de textos con instrucciones para participar en juegos, usar o elaborar objetos, preparar alimentos u otros propósitos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0065",
@@ -1067,7 +1285,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 39
+    "fila_origen": 39,
+    "contenido_id": "C0076",
+    "contenido_canonico": "Cuerpo humano: estructura externa, acciones para su cuidado y sus cambios como parte del crecimiento",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0066",
@@ -1083,7 +1305,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 17
+    "fila_origen": 17,
+    "contenido_id": "C0124",
+    "contenido_canonico": "Los seres humanos son diversos y valiosos, y tienen derechos humanos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0067",
@@ -1101,7 +1327,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 21
+    "fila_origen": 21,
+    "contenido_id": "C0122",
+    "contenido_canonico": "Respeto, cuidado y empatía hacia la naturaleza, como parte de un todo interdependiente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0068",
@@ -1118,7 +1348,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 27
+    "fila_origen": 27,
+    "contenido_id": "C0190",
+    "contenido_canonico": "Acciones individuales que repercuten en la conservación y mejora de la salud",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0069",
@@ -1135,7 +1369,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 54
+    "fila_origen": 54,
+    "contenido_id": "C0190",
+    "contenido_canonico": "Acciones individuales que repercuten en la conservación y mejora de la salud",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0070",
@@ -1148,7 +1386,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 111
+    "fila_origen": 111,
+    "contenido_id": "C0017",
+    "contenido_canonico": "Exploración de testimonios escritos, fotográficos y audiovisuales del pasado familiar y comunitario",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0071",
@@ -1164,7 +1406,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 87
+    "fila_origen": 87,
+    "contenido_id": "C0001",
+    "contenido_canonico": "Escritura de nombres en la lengua materna",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0072",
@@ -1177,7 +1423,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 98
+    "fila_origen": 98,
+    "contenido_id": "C0124",
+    "contenido_canonico": "Los seres humanos son diversos y valiosos, y tienen derechos humanos",
+    "equivalencia_score": 99.13,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0073",
@@ -1196,7 +1446,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 138
+    "fila_origen": 138,
+    "contenido_id": "C0004",
+    "contenido_canonico": "Escritura colectiva por medio del dictado",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0075",
@@ -1209,7 +1463,12 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 96
+    "fila_origen": 96,
+    "contenido_id": "C0079",
+    "contenido_canonico": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA",
+    "campo_discrepante_canonico_id": "CF02"
   },
   {
     "proyecto_id": "PR-0076",
@@ -1225,20 +1484,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 157
-  },
-  {
-    "proyecto_id": "PR-0077",
-    "grado_id": "G02",
-    "grado": "2°",
-    "campo_formativo_id": "CF03",
-    "campo_formativo": "Ética, Naturaleza y Sociedades",
-    "contenido_origen": "Impacto de las actividades humanas en el entorno natural, así como acciones y prácticas socioculturales para su cuidado",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 121
+    "fila_origen": 157,
+    "contenido_id": "C0196",
+    "contenido_canonico": "Los afectos y su influencia en el bienestar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0078",
@@ -1258,7 +1508,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 140
+    "fila_origen": 140,
+    "contenido_id": "C0002",
+    "contenido_canonico": "Lectura compartida en voz alta",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0079",
@@ -1273,7 +1527,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 152
+    "fila_origen": 152,
+    "contenido_id": "C0132",
+    "contenido_canonico": "Funciones y responsabilidades de las autoridades, de la familia, la escuela y la comunidad para la organización de la convivencia, la resolución de conflictos y el cumplimiento de acuerdos y normas de manera participativa y pacífica",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0080",
@@ -1286,7 +1544,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 150
+    "fila_origen": 150,
+    "contenido_id": "C0124",
+    "contenido_canonico": "Los seres humanos son diversos y valiosos, y tienen derechos humanos",
+    "equivalencia_score": 99.13,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0081",
@@ -1299,7 +1561,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 127
+    "fila_origen": 127,
+    "contenido_id": "C0131",
+    "contenido_canonico": "Democracia como forma de vida: construcción participativa de normas, reglas y acuerdos para alcanzar metas colectivas y contribuir a una convivencia pacífica en nuestra casa, el aula, la escuela y la comunidad, así como las consecuencias de no respetar los acuerdos, reglas y normas escolares y comunitarias",
+    "equivalencia_score": 98.75,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0082",
@@ -1312,7 +1578,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 149
+    "fila_origen": 149,
+    "contenido_id": "C0123",
+    "contenido_canonico": "Cambios en la naturaleza del lugar donde vive, y su relación con las actividades humanas cotidianas que tienen orden cronológico, asociadas a ciclos agrícolas y festividades, así como su vínculo con la noción de tiempo y espacio histórico (antes, durante y después)",
+    "equivalencia_score": 99.6,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0083",
@@ -1330,7 +1600,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 123
+    "fila_origen": 123,
+    "contenido_id": "C0122",
+    "contenido_canonico": "Respeto, cuidado y empatía hacia la naturaleza, como parte de un todo interdependiente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0084",
@@ -1345,7 +1619,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 139
+    "fila_origen": 139,
+    "contenido_id": "C0007",
+    "contenido_canonico": "Uso del dibujo y/o la escritura para recordar actividades y acuerdos escolares",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0085",
@@ -1358,7 +1636,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 112
+    "fila_origen": 112,
+    "contenido_id": "C0005",
+    "contenido_canonico": "Descripción de objetos, lugares y seres vivos",
+    "equivalencia_score": 98.88,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0086",
@@ -1375,7 +1657,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 116
+    "fila_origen": 116,
+    "contenido_id": "C0084",
+    "contenido_canonico": "Estudio de los números",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0087",
@@ -1393,7 +1679,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 109
+    "fila_origen": 109,
+    "contenido_id": "C0022",
+    "contenido_canonico": "Apreciación de canciones, rondas infantiles, arrullos y cuentos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0089",
@@ -1409,7 +1699,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 148
+    "fila_origen": 148,
+    "contenido_id": "C0126",
+    "contenido_canonico": "Situaciones de violencia, injusticia o discriminación, que afectan a integrantes de nuestras familias, la escuela o la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0090",
@@ -1424,7 +1718,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 107
+    "fila_origen": 107,
+    "contenido_id": "C0182",
+    "contenido_canonico": "Formas de ser, pensar, actuar y relacionarse",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0091",
@@ -1439,7 +1737,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 97
+    "fila_origen": 97,
+    "contenido_id": "C0125",
+    "contenido_canonico": "Atención a las necesidades básicas, como parte del ejercicio de los derechos humanos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0092",
@@ -1457,7 +1759,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 85
+    "fila_origen": 85,
+    "contenido_id": "C0008",
+    "contenido_canonico": "Registro y/o resumen de información consultada en fuentes orales, escritas, audiovisuales, táctiles o sonoras, para estudiar y/o exponer",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0093",
@@ -1474,7 +1780,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 89
+    "fila_origen": 89,
+    "contenido_id": "C0020",
+    "contenido_canonico": "Uso de los lenguajes artísticos para expresar rasgos de las identidades personal y colectiva",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0095",
@@ -1487,7 +1797,12 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 113
+    "fila_origen": 113,
+    "contenido_id": "C0191",
+    "contenido_canonico": "Sentido de comunidad y satisfacción de necesidades humanas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_EQUIVALENCIA_CONTEXTO",
+    "campo_discrepante_canonico_id": "CF04"
   },
   {
     "proyecto_id": "PR-0096",
@@ -1500,7 +1815,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 126
+    "fila_origen": 126,
+    "contenido_id": "C0124",
+    "contenido_canonico": "Los seres humanos son diversos y valiosos, y tienen derechos humanos",
+    "equivalencia_score": 99.13,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0097",
@@ -1513,7 +1832,12 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 158
+    "fila_origen": 158,
+    "contenido_id": "C0130",
+    "contenido_canonico": "Construcción de la paz mediante el diálogo: situaciones de conflicto o discrepancia como parte de la interacción de los seres humanos en la casa, el aula, la escuela y la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_EQUIVALENCIA_CONTEXTO",
+    "campo_discrepante_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0098",
@@ -1526,7 +1850,12 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 159
+    "fila_origen": 159,
+    "contenido_id": "C0123",
+    "contenido_canonico": "Cambios en la naturaleza del lugar donde vive, y su relación con las actividades humanas cotidianas que tienen orden cronológico, asociadas a ciclos agrícolas y festividades, así como su vínculo con la noción de tiempo y espacio histórico (antes, durante y después)",
+    "equivalencia_score": 99.6,
+    "validacion": "CANONICA",
+    "campo_discrepante_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0099",
@@ -1543,7 +1872,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 90
+    "fila_origen": 90,
+    "contenido_id": "C0019",
+    "contenido_canonico": "Uso de elementos de los lenguajes artísticos en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0100",
@@ -1560,7 +1893,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 114
+    "fila_origen": 114,
+    "contenido_id": "C0009",
+    "contenido_canonico": "Empleo de textos con instrucciones para participar en juegos, usar o elaborar objetos, preparar alimentos u otros propósitos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0101",
@@ -1578,7 +1915,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 84
+    "fila_origen": 84,
+    "contenido_id": "C0008",
+    "contenido_canonico": "Registro y/o resumen de información consultada en fuentes orales, escritas, audiovisuales, táctiles o sonoras, para estudiar y/o exponer",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0102",
@@ -1596,7 +1937,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 137
+    "fila_origen": 137,
+    "contenido_id": "C0008",
+    "contenido_canonico": "Registro y/o resumen de información consultada en fuentes orales, escritas, audiovisuales, táctiles o sonoras, para estudiar y/o exponer",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0103",
@@ -1611,7 +1956,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 129
+    "fila_origen": 129,
+    "contenido_id": "C0182",
+    "contenido_canonico": "Formas de ser, pensar, actuar y relacionarse",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0104",
@@ -1628,7 +1977,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 131
+    "fila_origen": 131,
+    "contenido_id": "C0190",
+    "contenido_canonico": "Acciones individuales que repercuten en la conservación y mejora de la salud",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0105",
@@ -1645,7 +1998,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 136
+    "fila_origen": 136,
+    "contenido_id": "C0020",
+    "contenido_canonico": "Uso de los lenguajes artísticos para expresar rasgos de las identidades personal y colectiva",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0106",
@@ -1660,7 +2017,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 104
+    "fila_origen": 104,
+    "contenido_id": "C0189",
+    "contenido_canonico": "Interacción motriz",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0107",
@@ -1673,7 +2034,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 156
+    "fila_origen": 156,
+    "contenido_id": "C0177",
+    "contenido_canonico": "La comunidad como el espacio en el que se vive y se encuentra la escuela",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0108",
@@ -1691,7 +2056,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 99
+    "fila_origen": 99,
+    "contenido_id": "C0122",
+    "contenido_canonico": "Respeto, cuidado y empatía hacia la naturaleza, como parte de un todo interdependiente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0109",
@@ -1707,7 +2076,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 132
+    "fila_origen": 132,
+    "contenido_id": "C0192",
+    "contenido_canonico": "Situaciones de riesgo social en las familias, escuela y comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0110",
@@ -1720,7 +2093,12 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 155
+    "fila_origen": 155,
+    "contenido_id": "C0077",
+    "contenido_canonico": "Beneficios del consumo de alimentos saludables, de agua simple potable, y de la práctica de actividad física",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA",
+    "campo_discrepante_canonico_id": "CF02"
   },
   {
     "proyecto_id": "PR-0111",
@@ -1736,7 +2114,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 110
+    "fila_origen": 110,
+    "contenido_id": "C0010",
+    "contenido_canonico": "Producción e interpretación de avisos, carteles, anuncios publicitarios y letreros en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0112",
@@ -1749,7 +2131,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 147
+    "fila_origen": 147,
+    "contenido_id": "C0134",
+    "contenido_canonico": "El derecho a la igualdad de género y vida sin violencia: estereotipos de género que pueden inducir a formas de violencia, desigualdad y discriminación",
+    "equivalencia_score": 96.7,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0113",
@@ -1762,20 +2148,12 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 105
-  },
-  {
-    "proyecto_id": "PR-0114",
-    "grado_id": "G02",
-    "grado": "2°",
-    "campo_formativo_id": "CF02",
-    "campo_formativo": "Saberes y Pensamiento Científico",
-    "contenido_origen": "Impacto de las actividades humanas en el entorno natural, así como acciones y prácticas socioculturales para su cuidado",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 144
+    "fila_origen": 105,
+    "contenido_id": "C0129",
+    "contenido_canonico": "Historia personal y familiar, diversidad de familias y el derecho a pertenecer a una",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_EQUIVALENCIA_CONTEXTO",
+    "campo_discrepante_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0115",
@@ -1791,7 +2169,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 102
+    "fila_origen": 102,
+    "contenido_id": "C0130",
+    "contenido_canonico": "Construcción de la paz mediante el diálogo: situaciones de conflicto o discrepancia como parte de la interacción de los seres humanos en la casa, el aula, la escuela y la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0116",
@@ -1807,7 +2189,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 122
+    "fila_origen": 122,
+    "contenido_id": "C0126",
+    "contenido_canonico": "Situaciones de violencia, injusticia o discriminación, que afectan a integrantes de nuestras familias, la escuela o la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0117",
@@ -1825,7 +2211,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 124
+    "fila_origen": 124,
+    "contenido_id": "C0122",
+    "contenido_canonico": "Respeto, cuidado y empatía hacia la naturaleza, como parte de un todo interdependiente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0118",
@@ -1843,20 +2233,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 125
-  },
-  {
-    "proyecto_id": "PR-0119",
-    "grado_id": "G02",
-    "grado": "2°",
-    "campo_formativo_id": "CF04",
-    "campo_formativo": "De lo Humano y lo Comunitario",
-    "contenido_origen": "Impacto de las actividades humanas en el entorno natural, así como acciones y prácticas socioculturales para su cuidado",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 133
+    "fila_origen": 125,
+    "contenido_id": "C0122",
+    "contenido_canonico": "Respeto, cuidado y empatía hacia la naturaleza, como parte de un todo interdependiente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0120",
@@ -1875,7 +2256,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 86
+    "fila_origen": 86,
+    "contenido_id": "C0003",
+    "contenido_canonico": "Narración de actividades y eventos relevantes que tengan lugar en la familia, la escuela o el resto de la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0121",
@@ -1894,7 +2279,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 88
+    "fila_origen": 88,
+    "contenido_id": "C0003",
+    "contenido_canonico": "Narración de actividades y eventos relevantes que tengan lugar en la familia, la escuela o el resto de la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0122",
@@ -1910,7 +2299,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 100
+    "fila_origen": 100,
+    "contenido_id": "C0135",
+    "contenido_canonico": "Manifestaciones culturales y símbolos que identifican a los diversos pueblos indígenas, afrodescendientes y migrantes y a México como nación",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0123",
@@ -1923,7 +2316,12 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 106
+    "fila_origen": 106,
+    "contenido_id": "C0005",
+    "contenido_canonico": "Descripción de objetos, lugares y seres vivos",
+    "equivalencia_score": 98.88,
+    "validacion": "CANONICA",
+    "campo_discrepante_canonico_id": "CF01"
   },
   {
     "proyecto_id": "PR-0124",
@@ -1940,7 +2338,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 92
+    "fila_origen": 92,
+    "contenido_id": "C0076",
+    "contenido_canonico": "Cuerpo humano: estructura externa, acciones para su cuidado y sus cambios como parte del crecimiento",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0125",
@@ -1957,20 +2359,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 94
-  },
-  {
-    "proyecto_id": "PR-0126",
-    "grado_id": "G02",
-    "grado": "2°",
-    "campo_formativo_id": "CF02",
-    "campo_formativo": "Saberes y Pensamiento Científico",
-    "contenido_origen": "Impacto de las actividades humanas en el entorno natural, así como acciones y prácticas socioculturales para su cuidado",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 119
+    "fila_origen": 94,
+    "contenido_id": "C0081",
+    "contenido_canonico": "Efectos de la aplicación de fuerzas: movimiento y deformación",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0127",
@@ -1987,7 +2380,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 142
+    "fila_origen": 142,
+    "contenido_id": "C0081",
+    "contenido_canonico": "Efectos de la aplicación de fuerzas: movimiento y deformación",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0128",
@@ -2003,7 +2400,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 143
+    "fila_origen": 143,
+    "contenido_id": "C0083",
+    "contenido_canonico": "Cambios y regularidades de fenómenos naturales y actividades de las personas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0129",
@@ -2016,7 +2417,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 93
+    "fila_origen": 93,
+    "contenido_id": "C0077",
+    "contenido_canonico": "Beneficios del consumo de alimentos saludables, de agua simple potable, y de la práctica de actividad física",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0130",
@@ -2034,7 +2439,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 117
+    "fila_origen": 117,
+    "contenido_id": "C0078",
+    "contenido_canonico": "Características del entorno natural y sociocultural",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0131",
@@ -2052,7 +2461,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 118
+    "fila_origen": 118,
+    "contenido_id": "C0078",
+    "contenido_canonico": "Características del entorno natural y sociocultural",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0132",
@@ -2070,7 +2483,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 145
+    "fila_origen": 145,
+    "contenido_id": "C0082",
+    "contenido_canonico": "Características del sonido y la luz",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0133",
@@ -2088,7 +2505,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 151
+    "fila_origen": 151,
+    "contenido_id": "C0122",
+    "contenido_canonico": "Respeto, cuidado y empatía hacia la naturaleza, como parte de un todo interdependiente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0134",
@@ -2101,7 +2522,12 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 153
+    "fila_origen": 153,
+    "contenido_id": "C0121",
+    "contenido_canonico": "Diversos contextos sociales, naturales y territoriales: cambios y continuidades",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_EQUIVALENCIA_CONTEXTO",
+    "campo_discrepante_canonico_id": "CF03"
   },
   {
     "proyecto_id": "PR-0135",
@@ -2120,7 +2546,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 192
+    "fila_origen": 192,
+    "contenido_id": "C0045",
+    "contenido_canonico": "Lectura y creación de poemas, canciones y juegos de palabras para su disfrute",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0136",
@@ -2136,7 +2566,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 180
+    "fila_origen": 180,
+    "contenido_id": "C0197",
+    "contenido_canonico": "Las familias como espacio de protección, cuidado, afecto y sustento para el desarrollo personal",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0137",
@@ -2153,7 +2587,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 176
+    "fila_origen": 176,
+    "contenido_id": "C0155",
+    "contenido_canonico": "Desigualdades por diferencias de género: causas y consecuencias en la vida cotidiana pasada y presente, para proponer acciones en favor de la igualdad, basadas en el reconocimiento y el respeto de los derechos de todas las personas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0138",
@@ -2166,7 +2604,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 229
+    "fila_origen": 229,
+    "contenido_id": "C0145",
+    "contenido_canonico": "La vida cotidiana antes de la primera invasión europea y en el México colonial: personas y grupos sociales que incidieron en la historia de la comunidad, entidad y el país, para reconocer sus aportes en lo social, cultural, político y económico",
+    "equivalencia_score": 97.67,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0139",
@@ -2184,7 +2626,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 169
+    "fila_origen": 169,
+    "contenido_id": "C0093",
+    "contenido_canonico": "Estructura y funcionamiento del cuerpo humano: sistema sexual; cambios en la pubertad e implicaciones socioculturales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0140",
@@ -2201,7 +2647,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 173
+    "fila_origen": 173,
+    "contenido_id": "C0140",
+    "contenido_canonico": "Interculturalidad y sustentabilidad: formas en las que los pueblos originarios y otras culturas del país se relacionan con la naturaleza para contribuir a reducir el impacto negativo de la humanidad en el medio natural y social, así como acciones colectivas para promover el bienestar con respeto y protección, a fin de preservar la naturaleza y fortalecer la conciencia geográfica",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0141",
@@ -2216,7 +2666,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 210
+    "fila_origen": 210,
+    "contenido_id": "C0186",
+    "contenido_canonico": "Posibilidades cognitivas, expresivas, motrices, creativas y de relación",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0142",
@@ -2232,7 +2686,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 237
+    "fila_origen": 237,
+    "contenido_id": "C0203",
+    "contenido_canonico": "Sentido de pertenencia, identidad personal y social",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0143",
@@ -2251,7 +2709,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 162
+    "fila_origen": 162,
+    "contenido_id": "C0050",
+    "contenido_canonico": "Lectura dramatizada y representación teatral",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0144",
@@ -2267,7 +2729,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 233
+    "fila_origen": 233,
+    "contenido_id": "C0152",
+    "contenido_canonico": "Formas y procedimientos mediante las que se eligen a las autoridades de gobierno, y los cambios que han tenido a través del tiempo, en función del bienestar colectivo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0145",
@@ -2285,7 +2751,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 214
+    "fila_origen": 214,
+    "contenido_id": "C0027",
+    "contenido_canonico": "Narración de sucesos del pasado y del presente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0146",
@@ -2304,7 +2774,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 240
+    "fila_origen": 240,
+    "contenido_id": "C0207",
+    "contenido_canonico": "Situaciones de riesgo social en la comunidad y región donde vive",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0147",
@@ -2319,7 +2793,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 177
+    "fila_origen": 177,
+    "contenido_id": "C0151",
+    "contenido_canonico": "La construcción colectiva de la paz: situaciones que generan diferencias y conflictos que afectan la convivencia entre las personas y grupos de pertenencia, causas y formas de resolverlo a través del diálogo, la comunicación y la empatía, para contribuir a la convivencia y la resolución de conflictos sin violencia",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0148",
@@ -2332,7 +2810,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 232
+    "fila_origen": 232,
+    "contenido_id": "C0153",
+    "contenido_canonico": "Democracia en la vida cotidiana: construcción, cumplimiento y aplicación justa de acuerdos, normas y leyes que contribuyen a la protección de los derechos de todas las personas individuales y colectivos, y a la convivencia conforme a los principios de igualdad, justicia y responsabilidad",
+    "equivalencia_score": 99.81,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0149",
@@ -2345,7 +2827,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 212
+    "fila_origen": 212,
+    "contenido_id": "C0205",
+    "contenido_canonico": "Hábitos saludables para promover el bienestar en los seres vivos",
+    "equivalencia_score": 99.22,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0150",
@@ -2362,7 +2848,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 196
+    "fila_origen": 196,
+    "contenido_id": "C0100",
+    "contenido_canonico": "Efectos de la aplicación de fuerzas y del calor sobre los objetos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0151",
@@ -2377,7 +2867,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 238
+    "fila_origen": 238,
+    "contenido_id": "C0187",
+    "contenido_canonico": "Estilos de vida activos y saludables",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0152",
@@ -2394,7 +2888,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 239
+    "fila_origen": 239,
+    "contenido_id": "C0202",
+    "contenido_canonico": "Reconocimiento de las necesidades y características propias y de las demás personas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0153",
@@ -2407,7 +2905,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 200
+    "fila_origen": 200,
+    "contenido_id": "C0141",
+    "contenido_canonico": "Cuidado de los ecosistemas para su regeneración, preservación responsable y sustentable",
+    "equivalencia_score": 94.94,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0154",
@@ -2423,7 +2925,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 230
+    "fila_origen": 230,
+    "contenido_id": "C0148",
+    "contenido_canonico": "Experiencias de organización comunitaria del pasado y del presente, y las acciones de colaboración, reciprocidad, cuidado mutuo y trabajo por el bienestar de la escuela, barrio, comunidad, pueblo y colectivo social, para configurar ambientes seguros e igualitarios, con equidad y justicia",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0155",
@@ -2441,7 +2947,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 231
+    "fila_origen": 231,
+    "contenido_id": "C0142",
+    "contenido_canonico": "Acciones de prevención ante peligros o amenazas de fenómenos naturales y acciones humanas y la importancia de actuar y participar en la escuela, barrio, pueblo, comunidad, entidad y país; promover la cultura de prevención, autoprotección, empatía y solidaridad con las personas afectadas y el entorno socioambiental",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0156",
@@ -2458,7 +2968,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 164
+    "fila_origen": 164,
+    "contenido_id": "C0043",
+    "contenido_canonico": "Reconocimiento y reflexión sobre el uso de elementos de los lenguajes artísticos, en manifestaciones culturales y artísticas de la comunidad y del resto del mundo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0157",
@@ -2479,7 +2993,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 165
+    "fila_origen": 165,
+    "contenido_id": "C0035",
+    "contenido_canonico": "Exposición sobre temas diversos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0158",
@@ -2497,7 +3015,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 161
+    "fila_origen": 161,
+    "contenido_id": "C0029",
+    "contenido_canonico": "Diálogo para la toma de acuerdos y el intercambio de puntos de vista",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0159",
@@ -2510,7 +3032,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 201
+    "fila_origen": 201,
+    "contenido_id": "C0150",
+    "contenido_canonico": "Retos en el reconocimiento y ejercicio de los derechos humanos y la satisfacción de las necesidades básicas, físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes; así como situaciones injustas en el pasado y el presente, en las que no se respetan los derechos para satisfacer las necesidades básicas de todas las personas",
+    "equivalencia_score": 99.65,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0160",
@@ -2523,7 +3049,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 178
+    "fila_origen": 178,
+    "contenido_id": "C0146",
+    "contenido_canonico": "Origen histórico de algunos símbolos (territorio, lugares sagrados, figuras y colores, banderas, escudos, himnos, entre otros), que identifican a las comunidades, pueblos, la entidad y a México como país, en tanto referentes que dan sentido de identidad y pertenencia",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0161",
@@ -2540,7 +3070,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 207
+    "fila_origen": 207,
+    "contenido_id": "C0198",
+    "contenido_canonico": "Entendimiento mutuo en la escuela",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0162",
@@ -2559,7 +3093,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 218
+    "fila_origen": 218,
+    "contenido_id": "C0028",
+    "contenido_canonico": "Descripción de personas, lugares, hechos y procesos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0163",
@@ -2578,7 +3116,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 174
+    "fila_origen": 174,
+    "contenido_id": "C0138",
+    "contenido_canonico": "Representaciones cartográficas de la localidad y/o comunidad; su ubicación dentro de la entidad y del país, con relación al conocimiento, función y cuidados de los ecosistemas como sustento de la vida",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0164",
@@ -2596,7 +3138,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 190
+    "fila_origen": 190,
+    "contenido_id": "C0041",
+    "contenido_canonico": "Indagación sobre la diversidad lingüística en su comunidad y el resto del país",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0165",
@@ -2615,7 +3161,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 191
+    "fila_origen": 191,
+    "contenido_id": "C0042",
+    "contenido_canonico": "Uso de croquis y mapas para describir trayectos o localizar lugares",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0166",
@@ -2628,7 +3178,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 187
+    "fila_origen": 187,
+    "contenido_id": "C0030",
+    "contenido_canonico": "Comprensión y producción de textos expositivos en los que se planteen: problema-solución, comparación-contraste, causa-consecuencia y enumeración",
+    "equivalencia_score": 88.89,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0167",
@@ -2646,7 +3200,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 170
+    "fila_origen": 170,
+    "contenido_id": "C0094",
+    "contenido_canonico": "Alimentación saludable, con base en el Plato del Bien Comer, así como prácticas culturales y la toma de decisiones encaminadas a favorecer la salud y el medio ambiente y la economía familiar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0168",
@@ -2661,7 +3219,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 224
+    "fila_origen": 224,
+    "contenido_id": "C0087",
+    "contenido_canonico": "Cuerpos geométricos y sus características",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0169",
@@ -2677,7 +3239,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 208
+    "fila_origen": 208,
+    "contenido_id": "C0199",
+    "contenido_canonico": "La escuela como espacio de convivencia, colaboración y aprendizaje",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0170",
@@ -2692,7 +3258,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 209
+    "fila_origen": 209,
+    "contenido_id": "C0185",
+    "contenido_canonico": "Capacidades y habilidades motrices",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0171",
@@ -2711,7 +3281,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 193
+    "fila_origen": 193,
+    "contenido_id": "C0044",
+    "contenido_canonico": "Creación de propuestas con intención artística para mejorar la escuela y el resto de la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0172",
@@ -2729,7 +3303,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 203
+    "fila_origen": 203,
+    "contenido_id": "C0142",
+    "contenido_canonico": "Acciones de prevención ante peligros o amenazas de fenómenos naturales y acciones humanas y la importancia de actuar y participar en la escuela, barrio, pueblo, comunidad, entidad y país; promover la cultura de prevención, autoprotección, empatía y solidaridad con las personas afectadas y el entorno socioambiental",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0173",
@@ -2742,7 +3320,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 236
+    "fila_origen": 236,
+    "contenido_id": "C0200",
+    "contenido_canonico": "Equidad de género en las familias, la escuela y la comunidad",
+    "equivalencia_score": 95.41,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0174",
@@ -2760,7 +3342,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 215
+    "fila_origen": 215,
+    "contenido_id": "C0027",
+    "contenido_canonico": "Narración de sucesos del pasado y del presente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0175",
@@ -2779,7 +3365,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 216
+    "fila_origen": 216,
+    "contenido_id": "C0028",
+    "contenido_canonico": "Descripción de personas, lugares, hechos y procesos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0176",
@@ -2797,7 +3387,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 220
+    "fila_origen": 220,
+    "contenido_id": "C0038",
+    "contenido_canonico": "Indagación, reelaboración y difusión de notas informativas con opiniones sobre hechos que afectan a la escuela y/o a la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0177",
@@ -2814,7 +3408,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 175
+    "fila_origen": 175,
+    "contenido_id": "C0147",
+    "contenido_canonico": "El derecho a la protección de la integridad propia y la de todas las personas, reconociendo situaciones de riesgo, como el maltrato, el abuso, bullying o la explotación de tipo sexual y la importancia de su prevención, al conocer las instancias para solicitar ayuda y/o denunciar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0178",
@@ -2830,7 +3428,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 202
+    "fila_origen": 202,
+    "contenido_id": "C0149",
+    "contenido_canonico": "Situaciones de discriminación en el aula, la escuela, la comunidad, la entidad y el país, sobre la diversidad de género, cultural, étnica, lingüística, social, así como sobre rasgos físicos, desarrollo cognitivo y barreras de aprendizaje, y participación en ámbitos de convivencia, para la promoción de ambientes igualitarios, de respeto a la dignidad humana y a los derechos de todas las personas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0179",
@@ -2846,7 +3448,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 204
+    "fila_origen": 204,
+    "contenido_id": "C0154",
+    "contenido_canonico": "La toma de decisiones ante situaciones cotidianas y de riesgos, con base en el cuidado de la dignidad de todas y todos, considerando posibles consecuencias de las acciones, para actuar con responsabilidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0180",
@@ -2863,7 +3469,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 205
+    "fila_origen": 205,
+    "contenido_id": "C0144",
+    "contenido_canonico": "Composición sociocultural de la entidad federativa y de México, y su configuración a través de la historia como un país pluricultural, integrado por pueblos originarios, afromexicanos, migrantes y diversas comunidades con características y necesidades, quienes han luchado por el reconocimiento de la igualdad en dignidad y derechos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0181",
@@ -2878,7 +3488,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 182
+    "fila_origen": 182,
+    "contenido_id": "C0182",
+    "contenido_canonico": "Formas de ser, pensar, actuar y relacionarse",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0182",
@@ -2893,7 +3507,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 183
+    "fila_origen": 183,
+    "contenido_id": "C0204",
+    "contenido_canonico": "Pensamiento lúdico, estratégico y creativo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0183",
@@ -2909,7 +3527,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 195
+    "fila_origen": 195,
+    "contenido_id": "C0099",
+    "contenido_canonico": "Formación de mezclas y sus propiedades",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0184",
@@ -2922,7 +3544,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 222
+    "fila_origen": 222,
+    "contenido_id": "C0089",
+    "contenido_canonico": "Medición de longitud, masa y capacidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0185",
@@ -2938,7 +3564,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 184
+    "fila_origen": 184,
+    "contenido_id": "C0196",
+    "contenido_canonico": "Los afectos y su influencia en el bienestar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0186",
@@ -2957,7 +3587,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 188
+    "fila_origen": 188,
+    "contenido_id": "C0034",
+    "contenido_canonico": "Comprensión y producción de textos instructivos para realizar actividades escolares y participar en diversos juegos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0187",
@@ -2972,7 +3606,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 181
+    "fila_origen": 181,
+    "contenido_id": "C0201",
+    "contenido_canonico": "Efectos en la vida de las personas, derivados de cambios sociales, culturales y en la salud",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0188",
@@ -2985,20 +3623,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 185
-  },
-  {
-    "proyecto_id": "PR-0189",
-    "grado_id": "G03",
-    "grado": "3°",
-    "campo_formativo_id": "CF04",
-    "campo_formativo": "De lo Humano y lo Comunitario",
-    "contenido_origen": "La comunidad como el espacio en el que se vive y se encuentra la escuela",
-    "estado": "OTRO_CONTEXTO",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 235
+    "fila_origen": 185,
+    "contenido_id": "C0206",
+    "contenido_canonico": "Higiene para una vida saludable",
+    "equivalencia_score": 93.55,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0190",
@@ -3016,7 +3645,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 189
+    "fila_origen": 189,
+    "contenido_id": "C0032",
+    "contenido_canonico": "Comprensión y producción de textos discontinuos para organizar actividades y ordenar información",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0191",
@@ -3033,7 +3666,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 171
+    "fila_origen": 171,
+    "contenido_id": "C0098",
+    "contenido_canonico": "Propiedades de los materiales: masa y longitud; relación entre estados físicos y la temperatura",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0192",
@@ -3051,7 +3688,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 223
+    "fila_origen": 223,
+    "contenido_id": "C0095",
+    "contenido_canonico": "Interacciones entre plantas, animales y el entorno natural: nutrición y locomoción",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0193",
@@ -3068,7 +3709,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 226
+    "fila_origen": 226,
+    "contenido_id": "C0097",
+    "contenido_canonico": "Impacto de las actividades humanas en la naturaleza y en la salud",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0194",
@@ -3087,7 +3732,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 166
+    "fila_origen": 166,
+    "contenido_id": "C0051",
+    "contenido_canonico": "Comprensión y producción de cuentos para su disfrute",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0195",
@@ -3106,7 +3755,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 217
+    "fila_origen": 217,
+    "contenido_id": "C0040",
+    "contenido_canonico": "Entrevistas con personas de la comunidad para conocer diversos temas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0196",
@@ -3119,7 +3772,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 219
+    "fila_origen": 219,
+    "contenido_id": "C0036",
+    "contenido_canonico": "Comunicación a distancia con personas y propósitos diversos",
+    "equivalencia_score": 99.15,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0197",
@@ -3140,7 +3797,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 197
+    "fila_origen": 197,
+    "contenido_id": "C0084",
+    "contenido_canonico": "Estudio de los números",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0198",
@@ -3157,7 +3818,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 198
+    "fila_origen": 198,
+    "contenido_id": "C0101",
+    "contenido_canonico": "Sistema Tierra-Luna-Sol: interacciones, cambios y regularidades; diversas explicaciones acerca del movimiento de estos astros y su relación con algunos fenómenos naturales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0199",
@@ -3176,7 +3841,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 163
+    "fila_origen": 163,
+    "contenido_id": "C0040",
+    "contenido_canonico": "Entrevistas con personas de la comunidad para conocer diversos temas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0200",
@@ -3193,7 +3862,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 168
+    "fila_origen": 168,
+    "contenido_id": "C0092",
+    "contenido_canonico": "Estructura y funcionamiento del cuerpo humano: sistemas locomotor y digestivo, así como prácticas para su cuidado, desde su contexto sociocultural",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0201",
@@ -3210,7 +3883,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 225
+    "fila_origen": 225,
+    "contenido_id": "C0096",
+    "contenido_canonico": "Relaciones entre los factores físicos y biológicos que conforman los ecosistemas y favorecen la preservación de la vida",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0202",
@@ -3223,7 +3900,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 228
+    "fila_origen": 228,
+    "contenido_id": "C0139",
+    "contenido_canonico": "Valoración de los ecosistemas: características del territorio como espacio de vida y las interacciones de la comunidad con los ecosistemas, para su preservación responsable y sustentable",
+    "equivalencia_score": 99.43,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0203",
@@ -3238,7 +3919,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 211
+    "fila_origen": 211,
+    "contenido_id": "C0189",
+    "contenido_canonico": "Interacción motriz",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0204",
@@ -3258,7 +3943,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 243
+    "fila_origen": 243,
+    "contenido_id": "C0031",
+    "contenido_canonico": "Búsqueda y manejo reflexivo de información",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0205",
@@ -3277,7 +3966,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 304
+    "fila_origen": 304,
+    "contenido_id": "C0050",
+    "contenido_canonico": "Lectura dramatizada y representación teatral",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0206",
@@ -3290,7 +3983,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 317
+    "fila_origen": 317,
+    "contenido_id": "C0153",
+    "contenido_canonico": "Democracia en la vida cotidiana: construcción, cumplimiento y aplicación justa de acuerdos, normas y leyes que contribuyen a la protección de los derechos de todas las personas individuales y colectivos, y a la convivencia conforme a los principios de igualdad, justicia y responsabilidad",
+    "equivalencia_score": 99.81,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0207",
@@ -3307,7 +4004,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 292
+    "fila_origen": 292,
+    "contenido_id": "C0202",
+    "contenido_canonico": "Reconocimiento de las necesidades y características propias y de las demás personas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0208",
@@ -3324,7 +4025,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 258
+    "fila_origen": 258,
+    "contenido_id": "C0147",
+    "contenido_canonico": "El derecho a la protección de la integridad propia y la de todas las personas, reconociendo situaciones de riesgo, como el maltrato, el abuso, bullying o la explotación de tipo sexual y la importancia de su prevención, al conocer las instancias para solicitar ayuda y/o denunciar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0209",
@@ -3337,7 +4042,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 256
+    "fila_origen": 256,
+    "contenido_id": "C0141",
+    "contenido_canonico": "Cuidado de los ecosistemas para su regeneración, preservación responsable y sustentable",
+    "equivalencia_score": 94.94,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0210",
@@ -3354,7 +4063,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 314
+    "fila_origen": 314,
+    "contenido_id": "C0144",
+    "contenido_canonico": "Composición sociocultural de la entidad federativa y de México, y su configuración a través de la historia como un país pluricultural, integrado por pueblos originarios, afromexicanos, migrantes y diversas comunidades con características y necesidades, quienes han luchado por el reconocimiento de la igualdad en dignidad y derechos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0211",
@@ -3367,7 +4080,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 285
+    "fila_origen": 285,
+    "contenido_id": "C0150",
+    "contenido_canonico": "Retos en el reconocimiento y ejercicio de los derechos humanos y la satisfacción de las necesidades básicas, físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes; así como situaciones injustas en el pasado y el presente, en las que no se respetan los derechos para satisfacer las necesidades básicas de todas las personas",
+    "equivalencia_score": 99.65,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0212",
@@ -3383,7 +4100,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 315
+    "fila_origen": 315,
+    "contenido_id": "C0148",
+    "contenido_canonico": "Experiencias de organización comunitaria del pasado y del presente, y las acciones de colaboración, reciprocidad, cuidado mutuo y trabajo por el bienestar de la escuela, barrio, comunidad, pueblo y colectivo social, para configurar ambientes seguros e igualitarios, con equidad y justicia",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0213",
@@ -3401,7 +4122,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 252
+    "fila_origen": 252,
+    "contenido_id": "C0093",
+    "contenido_canonico": "Estructura y funcionamiento del cuerpo humano: sistema sexual; cambios en la pubertad e implicaciones socioculturales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0214",
@@ -3418,7 +4143,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 254
+    "fila_origen": 254,
+    "contenido_id": "C0100",
+    "contenido_canonico": "Efectos de la aplicación de fuerzas y del calor sobre los objetos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0215",
@@ -3435,7 +4164,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 281
+    "fila_origen": 281,
+    "contenido_id": "C0098",
+    "contenido_canonico": "Propiedades de los materiales: masa y longitud; relación entre estados físicos y la temperatura",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0216",
@@ -3450,7 +4183,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 294
+    "fila_origen": 294,
+    "contenido_id": "C0185",
+    "contenido_canonico": "Capacidades y habilidades motrices",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0217",
@@ -3466,7 +4203,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 296
+    "fila_origen": 296,
+    "contenido_id": "C0199",
+    "contenido_canonico": "La escuela como espacio de convivencia, colaboración y aprendizaje",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0218",
@@ -3479,7 +4220,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 297
+    "fila_origen": 297,
+    "contenido_id": "C0206",
+    "contenido_canonico": "Higiene para una vida saludable",
+    "equivalencia_score": 93.55,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0219",
@@ -3496,7 +4241,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 282
+    "fila_origen": 282,
+    "contenido_id": "C0101",
+    "contenido_canonico": "Sistema Tierra-Luna-Sol: interacciones, cambios y regularidades; diversas explicaciones acerca del movimiento de estos astros y su relación con algunos fenómenos naturales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0220",
@@ -3509,7 +4258,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 261
+    "fila_origen": 261,
+    "contenido_id": "C0146",
+    "contenido_canonico": "Origen histórico de algunos símbolos (territorio, lugares sagrados, figuras y colores, banderas, escudos, himnos, entre otros), que identifican a las comunidades, pueblos, la entidad y a México como país, en tanto referentes que dan sentido de identidad y pertenencia",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0221",
@@ -3526,7 +4279,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 310
+    "fila_origen": 310,
+    "contenido_id": "C0097",
+    "contenido_canonico": "Impacto de las actividades humanas en la naturaleza y en la salud",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0222",
@@ -3543,7 +4300,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 251
+    "fila_origen": 251,
+    "contenido_id": "C0092",
+    "contenido_canonico": "Estructura y funcionamiento del cuerpo humano: sistemas locomotor y digestivo, así como prácticas para su cuidado, desde su contexto sociocultural",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0223",
@@ -3561,7 +4322,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 253
+    "fila_origen": 253,
+    "contenido_id": "C0094",
+    "contenido_canonico": "Alimentación saludable, con base en el Plato del Bien Comer, así como prácticas culturales y la toma de decisiones encaminadas a favorecer la salud y el medio ambiente y la economía familiar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0224",
@@ -3580,7 +4345,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 244
+    "fila_origen": 244,
+    "contenido_id": "C0033",
+    "contenido_canonico": "Comprensión y producción de resúmenes",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0225",
@@ -3597,7 +4366,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 274
+    "fila_origen": 274,
+    "contenido_id": "C0043",
+    "contenido_canonico": "Reconocimiento y reflexión sobre el uso de elementos de los lenguajes artísticos, en manifestaciones culturales y artísticas de la comunidad y del resto del mundo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0226",
@@ -3610,7 +4383,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 324
+    "fila_origen": 324,
+    "contenido_id": "C0205",
+    "contenido_canonico": "Hábitos saludables para promover el bienestar en los seres vivos",
+    "equivalencia_score": 99.22,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0227",
@@ -3625,7 +4402,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 293
+    "fila_origen": 293,
+    "contenido_id": "C0189",
+    "contenido_canonico": "Interacción motriz",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0228",
@@ -3640,7 +4421,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 295
+    "fila_origen": 295,
+    "contenido_id": "C0204",
+    "contenido_canonico": "Pensamiento lúdico, estratégico y creativo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0229",
@@ -3659,7 +4444,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 303
+    "fila_origen": 303,
+    "contenido_id": "C0040",
+    "contenido_canonico": "Entrevistas con personas de la comunidad para conocer diversos temas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0230",
@@ -3674,7 +4463,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 309
+    "fila_origen": 309,
+    "contenido_id": "C0088",
+    "contenido_canonico": "Figuras geométricas y sus características",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0231",
@@ -3693,7 +4486,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 248
+    "fila_origen": 248,
+    "contenido_id": "C0045",
+    "contenido_canonico": "Lectura y creación de poemas, canciones y juegos de palabras para su disfrute",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0232",
@@ -3710,7 +4507,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 249
+    "fila_origen": 249,
+    "contenido_id": "C0049",
+    "contenido_canonico": "Identificación del uso de la fantasía y la realidad en diferentes manifestaciones culturales y artísticas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0233",
@@ -3731,7 +4532,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 245
+    "fila_origen": 245,
+    "contenido_id": "C0035",
+    "contenido_canonico": "Exposición sobre temas diversos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0234",
@@ -3746,7 +4551,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 280
+    "fila_origen": 280,
+    "contenido_id": "C0091",
+    "contenido_canonico": "Organización e interpretación de datos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0235",
@@ -3764,7 +4573,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 247
+    "fila_origen": 247,
+    "contenido_id": "C0036",
+    "contenido_canonico": "Comunicación a distancia con personas y propósitos diversos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0236",
@@ -3781,7 +4594,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 279
+    "fila_origen": 279,
+    "contenido_id": "C0098",
+    "contenido_canonico": "Propiedades de los materiales: masa y longitud; relación entre estados físicos y la temperatura",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0237",
@@ -3797,20 +4614,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 318
-  },
-  {
-    "proyecto_id": "PR-0238",
-    "grado_id": "G04",
-    "grado": "4°",
-    "campo_formativo_id": "CF04",
-    "campo_formativo": "De lo Humano y lo Comunitario",
-    "contenido_origen": "La comunidad como el espacio en el que se vive y se encuentra la escuela",
-    "estado": "OTRO_CONTEXTO",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 320
+    "fila_origen": 318,
+    "contenido_id": "C0152",
+    "contenido_canonico": "Formas y procedimientos mediante las que se eligen a las autoridades de gobierno, y los cambios que han tenido a través del tiempo, en función del bienestar colectivo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0239",
@@ -3829,7 +4637,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 272
+    "fila_origen": 272,
+    "contenido_id": "C0034",
+    "contenido_canonico": "Comprensión y producción de textos instructivos para realizar actividades escolares y participar en diversos juegos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0240",
@@ -3842,7 +4654,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 301
+    "fila_origen": 301,
+    "contenido_id": "C0036",
+    "contenido_canonico": "Comunicación a distancia con personas y propósitos diversos",
+    "equivalencia_score": 91.74,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0241",
@@ -3860,7 +4676,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 307
+    "fila_origen": 307,
+    "contenido_id": "C0103",
+    "contenido_canonico": "Multiplicación y división, su relación como operaciones inversas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0242",
@@ -3877,7 +4697,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 311
+    "fila_origen": 311,
+    "contenido_id": "C0096",
+    "contenido_canonico": "Relaciones entre los factores físicos y biológicos que conforman los ecosistemas y favorecen la preservación de la vida",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0243",
@@ -3895,7 +4719,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 242
+    "fila_origen": 242,
+    "contenido_id": "C0029",
+    "contenido_canonico": "Diálogo para la toma de acuerdos y el intercambio de puntos de vista",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0244",
@@ -3912,7 +4740,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 276
+    "fila_origen": 276,
+    "contenido_id": "C0046",
+    "contenido_canonico": "Experimentación con elementos visuales y sonoros en producciones colectivas artísticas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0245",
@@ -3931,7 +4763,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 305
+    "fila_origen": 305,
+    "contenido_id": "C0051",
+    "contenido_canonico": "Comprensión y producción de cuentos para su disfrute",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0246",
@@ -3949,7 +4785,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 246
+    "fila_origen": 246,
+    "contenido_id": "C0039",
+    "contenido_canonico": "Uso de textos formales para atender diversos asuntos personales o del bienestar común",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0247",
@@ -3966,7 +4806,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 259
+    "fila_origen": 259,
+    "contenido_id": "C0155",
+    "contenido_canonico": "Desigualdades por diferencias de género: causas y consecuencias en la vida cotidiana pasada y presente, para proponer acciones en favor de la igualdad, basadas en el reconocimiento y el respeto de los derechos de todas las personas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0248",
@@ -3979,20 +4823,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 321
-  },
-  {
-    "proyecto_id": "PR-0249",
-    "grado_id": "G04",
-    "grado": "4°",
-    "campo_formativo_id": "CF01",
-    "campo_formativo": "Lenguajes",
-    "contenido_origen": "Comprensión y producción de textos expositivos en los que se planteen: problema@solución, comparación",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 270
+    "fila_origen": 321,
+    "contenido_id": "C0200",
+    "contenido_canonico": "Equidad de género en las familias, la escuela y la comunidad",
+    "equivalencia_score": 95.41,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0250",
@@ -4011,7 +4846,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 277
+    "fila_origen": 277,
+    "contenido_id": "C0042",
+    "contenido_canonico": "Uso de croquis y mapas para describir trayectos o localizar lugares",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0251",
@@ -4030,7 +4869,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 300
+    "fila_origen": 300,
+    "contenido_id": "C0028",
+    "contenido_canonico": "Descripción de personas, lugares, hechos y procesos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0252",
@@ -4048,7 +4891,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 273
+    "fila_origen": 273,
+    "contenido_id": "C0041",
+    "contenido_canonico": "Indagación sobre la diversidad lingüística en su comunidad y el resto del país",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0253",
@@ -4064,7 +4911,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 263
+    "fila_origen": 263,
+    "contenido_id": "C0197",
+    "contenido_canonico": "Las familias como espacio de protección, cuidado, afecto y sustento para el desarrollo personal",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0254",
@@ -4079,7 +4930,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 264
+    "fila_origen": 264,
+    "contenido_id": "C0204",
+    "contenido_canonico": "Pensamiento lúdico, estratégico y creativo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0255",
@@ -4094,7 +4949,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 266
+    "fila_origen": 266,
+    "contenido_id": "C0182",
+    "contenido_canonico": "Formas de ser, pensar, actuar y relacionarse",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0256",
@@ -4112,7 +4971,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 271
+    "fila_origen": 271,
+    "contenido_id": "C0032",
+    "contenido_canonico": "Comprensión y producción de textos discontinuos para organizar actividades y ordenar información",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0257",
@@ -4130,7 +4993,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 299
+    "fila_origen": 299,
+    "contenido_id": "C0027",
+    "contenido_canonico": "Narración de sucesos del pasado y del presente",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0258",
@@ -4145,7 +5012,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 265
+    "fila_origen": 265,
+    "contenido_id": "C0187",
+    "contenido_canonico": "Estilos de vida activos y saludables",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0259",
@@ -4162,7 +5033,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 291
+    "fila_origen": 291,
+    "contenido_id": "C0198",
+    "contenido_canonico": "Entendimiento mutuo en la escuela",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0260",
@@ -4180,7 +5055,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 308
+    "fila_origen": 308,
+    "contenido_id": "C0095",
+    "contenido_canonico": "Interacciones entre plantas, animales y el entorno natural: nutrición y locomoción",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0261",
@@ -4193,7 +5072,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 284
+    "fila_origen": 284,
+    "contenido_id": "C0139",
+    "contenido_canonico": "Valoración de los ecosistemas: características del territorio como espacio de vida y las interacciones de la comunidad con los ecosistemas, para su preservación responsable y sustentable",
+    "equivalencia_score": 99.43,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0262",
@@ -4206,7 +5089,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 313
+    "fila_origen": 313,
+    "contenido_id": "C0140",
+    "contenido_canonico": "Interculturalidad y sustentabilidad: formas en las que los pueblos originarios y otras culturas del país se relacionan con la naturaleza para contribuir a reducir el impacto negativo de la humanidad en el medio natural y social, así como acciones colectivas para promover el bienestar con respeto y protección, a fin de preservar la naturaleza y fortalecer la conciencia geográfica",
+    "equivalencia_score": 99.7,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0263",
@@ -4219,7 +5106,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 316
+    "fila_origen": 316,
+    "contenido_id": "C0140",
+    "contenido_canonico": "Interculturalidad y sustentabilidad: formas en las que los pueblos originarios y otras culturas del país se relacionan con la naturaleza para contribuir a reducir el impacto negativo de la humanidad en el medio natural y social, así como acciones colectivas para promover el bienestar con respeto y protección, a fin de preservar la naturaleza y fortalecer la conciencia geográfica",
+    "equivalencia_score": 99.7,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0264",
@@ -4238,7 +5129,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 275
+    "fila_origen": 275,
+    "contenido_id": "C0044",
+    "contenido_canonico": "Creación de propuestas con intención artística para mejorar la escuela y el resto de la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0265",
@@ -4253,7 +5148,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 260
+    "fila_origen": 260,
+    "contenido_id": "C0151",
+    "contenido_canonico": "La construcción colectiva de la paz: situaciones que generan diferencias y conflictos que afectan la convivencia entre las personas y grupos de pertenencia, causas y formas de resolverlo a través del diálogo, la comunicación y la empatía, para contribuir a la convivencia y la resolución de conflictos sin violencia",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0266",
@@ -4271,7 +5170,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 287
+    "fila_origen": 287,
+    "contenido_id": "C0142",
+    "contenido_canonico": "Acciones de prevención ante peligros o amenazas de fenómenos naturales y acciones humanas y la importancia de actuar y participar en la escuela, barrio, pueblo, comunidad, entidad y país; promover la cultura de prevención, autoprotección, empatía y solidaridad con las personas afectadas y el entorno socioambiental",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0267",
@@ -4284,7 +5187,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 288
+    "fila_origen": 288,
+    "contenido_id": "C0150",
+    "contenido_canonico": "Retos en el reconocimiento y ejercicio de los derechos humanos y la satisfacción de las necesidades básicas, físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes; así como situaciones injustas en el pasado y el presente, en las que no se respetan los derechos para satisfacer las necesidades básicas de todas las personas",
+    "equivalencia_score": 99.65,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0268",
@@ -4300,7 +5207,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 267
+    "fila_origen": 267,
+    "contenido_id": "C0183",
+    "contenido_canonico": "Construcción del proyecto de vida",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0269",
@@ -4316,7 +5227,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 268
+    "fila_origen": 268,
+    "contenido_id": "C0196",
+    "contenido_canonico": "Los afectos y su influencia en el bienestar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0270",
@@ -4331,7 +5246,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 322
+    "fila_origen": 322,
+    "contenido_id": "C0201",
+    "contenido_canonico": "Efectos en la vida de las personas, derivados de cambios sociales, culturales y en la salud",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0271",
@@ -4350,7 +5269,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 325
+    "fila_origen": 325,
+    "contenido_id": "C0207",
+    "contenido_canonico": "Situaciones de riesgo social en la comunidad y región donde vive",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0272",
@@ -4368,7 +5291,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 302
+    "fila_origen": 302,
+    "contenido_id": "C0038",
+    "contenido_canonico": "Indagación, reelaboración y difusión de notas informativas con opiniones sobre hechos que afectan a la escuela y/o a la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0273",
@@ -4387,7 +5314,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 257
+    "fila_origen": 257,
+    "contenido_id": "C0138",
+    "contenido_canonico": "Representaciones cartográficas de la localidad y/o comunidad; su ubicación dentro de la entidad y del país, con relación al conocimiento, función y cuidados de los ecosistemas como sustento de la vida",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0274",
@@ -4403,7 +5334,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 286
+    "fila_origen": 286,
+    "contenido_id": "C0149",
+    "contenido_canonico": "Situaciones de discriminación en el aula, la escuela, la comunidad, la entidad y el país, sobre la diversidad de género, cultural, étnica, lingüística, social, así como sobre rasgos físicos, desarrollo cognitivo y barreras de aprendizaje, y participación en ámbitos de convivencia, para la promoción de ambientes igualitarios, de respeto a la dignidad humana y a los derechos de todas las personas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0275",
@@ -4416,7 +5351,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 289
+    "fila_origen": 289,
+    "contenido_id": "C0145",
+    "contenido_canonico": "La vida cotidiana antes de la primera invasión europea y en el México colonial: personas y grupos sociales que incidieron en la historia de la comunidad, entidad y el país, para reconocer sus aportes en lo social, cultural, político y económico",
+    "equivalencia_score": 97.67,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0276",
@@ -4432,7 +5371,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 323
+    "fila_origen": 323,
+    "contenido_id": "C0203",
+    "contenido_canonico": "Sentido de pertenencia, identidad personal y social",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0277",
@@ -4450,7 +5393,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 336
+    "fila_origen": 336,
+    "contenido_id": "C0105",
+    "contenido_canonico": "Estructura y funcionamiento del cuerpo humano: sistemas circulatorio, respiratorio e inmunológico, y su relación con la salud ambiental, así como acciones para su cuidado",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0278",
@@ -4469,7 +5416,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 393
+    "fila_origen": 393,
+    "contenido_id": "C0108",
+    "contenido_canonico": "Funciones vitales que caracterizan a plantas y animales como seres vivos, y su relación con el entorno natural, así como sus cambios a través del tiempo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0279",
@@ -4482,7 +5433,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 370
+    "fila_origen": 370,
+    "contenido_id": "C0158",
+    "contenido_canonico": "Sustentabilidad de la biodiversidad y humanismo: rasgos de los estilos de vida y modelos de desarrollo dominantes y su impacto en la biodiversidad, implicaciones socioambientales de la preservación",
+    "equivalencia_score": 98.86,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0280",
@@ -4495,7 +5450,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 399
+    "fila_origen": 399,
+    "contenido_id": "C0158",
+    "contenido_canonico": "Sustentabilidad de la biodiversidad y humanismo: rasgos de los estilos de vida y modelos de desarrollo dominantes y su impacto en la biodiversidad, implicaciones socioambientales de la preservación",
+    "equivalencia_score": 98.86,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0281",
@@ -4517,7 +5476,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 400
+    "fila_origen": 400,
+    "contenido_id": "C0162",
+    "contenido_canonico": "Riesgos de desastre y crisis humanitarias, asociados a fenómenos naturales y generados por acciones humanas: sus causas y consecuencias, para contribuir, de manera solidaria, a minimizar sus efectos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0282",
@@ -4530,7 +5493,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 403
+    "fila_origen": 403,
+    "contenido_id": "C0168",
+    "contenido_canonico": "El derecho a la protección de la integridad física y mental, ante cualquier forma de maltrato, abuso o explotación de tipo sexual o laboral, así como, la identificación de personas e instituciones que pueden apoyar para el ejercicio de ese derecho",
+    "equivalencia_score": 99.77,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0283",
@@ -4549,7 +5516,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 338
+    "fila_origen": 338,
+    "contenido_id": "C0107",
+    "contenido_canonico": "Alimentación saludable: características de la dieta correcta, costumbres de la comunidad, riesgos del consumo de alimentos ultraprocesados, y acciones para mejorar la alimentación",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0284",
@@ -4566,7 +5537,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 397
+    "fila_origen": 397,
+    "contenido_id": "C0111",
+    "contenido_canonico": "Costos y beneficios del consumo de agua, energía eléctrica y combustibles en la satisfacción de necesidades personales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0285",
@@ -4584,7 +5559,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 404
+    "fila_origen": 404,
+    "contenido_id": "C0159",
+    "contenido_canonico": "Ética y biodiversidad: factores sociales que propician la convivencia armónica con el medio ambiente basada en el respeto, responsabilidad, justicia social y equidad con la naturaleza",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0286",
@@ -4600,7 +5579,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 406
+    "fila_origen": 406,
+    "contenido_id": "C0211",
+    "contenido_canonico": "La comunidad, como espacio para el aprendizaje y el bienestar común",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0287",
@@ -4616,7 +5599,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 411
+    "fila_origen": 411,
+    "contenido_id": "C0191",
+    "contenido_canonico": "Sentido de comunidad y satisfacción de necesidades humanas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0288",
@@ -4634,7 +5621,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 365
+    "fila_origen": 365,
+    "contenido_id": "C0112",
+    "contenido_canonico": "Propiedades de los materiales: dureza, flexibilidad y permeabilidad y su aplicación en la satisfacción de necesidades; caracterización de los gases con base en sus propiedades",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0289",
@@ -4649,7 +5640,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 350
+    "fila_origen": 350,
+    "contenido_id": "C0182",
+    "contenido_canonico": "Formas de ser, pensar, actuar y relacionarse",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0290",
@@ -4665,7 +5660,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 353
+    "fila_origen": 353,
+    "contenido_id": "C0196",
+    "contenido_canonico": "Los afectos y su influencia en el bienestar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0291",
@@ -4680,7 +5679,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 377
+    "fila_origen": 377,
+    "contenido_id": "C0212",
+    "contenido_canonico": "Equidad de género",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0292",
@@ -4699,7 +5702,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 388
+    "fila_origen": 388,
+    "contenido_id": "C0064",
+    "contenido_canonico": "Comprensión y producción de textos para gestionar servicios públicos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0293",
@@ -4712,7 +5719,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 346
+    "fila_origen": 346,
+    "contenido_id": "C0176",
+    "contenido_canonico": "Migración y derechos humanos: migración interna y externa, causas y consecuencias sociales, económicas, culturales, políticas y ambientales",
+    "equivalencia_score": 99.25,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0294",
@@ -4730,7 +5741,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 371
+    "fila_origen": 371,
+    "contenido_id": "C0163",
+    "contenido_canonico": "Construcción de la cultura de paz: análisis de conflictos vecinales y/o territoriales del pasado y del presente entre personas, grupos, comunidades y pueblos para identificar sus causas, cómo se desarrollaron y cómo se resolvieron, destacando el diálogo, la negociación y la tolerancia",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0295",
@@ -4746,7 +5761,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 354
+    "fila_origen": 354,
+    "contenido_id": "C0211",
+    "contenido_canonico": "La comunidad, como espacio para el aprendizaje y el bienestar común",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0296",
@@ -4765,7 +5784,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 327
+    "fila_origen": 327,
+    "contenido_id": "C0052",
+    "contenido_canonico": "Narración de sucesos autobiográficos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0297",
@@ -4783,7 +5806,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 329
+    "fila_origen": 329,
+    "contenido_id": "C0055",
+    "contenido_canonico": "Comprensión y producción de textos argumentativos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0298",
@@ -4802,7 +5829,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 356
+    "fila_origen": 356,
+    "contenido_id": "C0063",
+    "contenido_canonico": "Seguimiento crítico de noticias en diferentes medios de comunicación escrita",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0299",
@@ -4819,7 +5850,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 368
+    "fila_origen": 368,
+    "contenido_id": "C0116",
+    "contenido_canonico": "Sistema Solar y Universo: características de sus componentes, y aportaciones culturales, científicas y tecnológicas que han favorecido su conocimiento",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0300",
@@ -4838,7 +5873,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 389
+    "fila_origen": 389,
+    "contenido_id": "C0061",
+    "contenido_canonico": "Producción y envío de cartas personales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0301",
@@ -4857,7 +5896,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 390
+    "fila_origen": 390,
+    "contenido_id": "C0065",
+    "contenido_canonico": "Elaboración de un tríptico informativo sobre la prevención de algún problema colectivo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0302",
@@ -4874,7 +5917,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 409
+    "fila_origen": 409,
+    "contenido_id": "C0190",
+    "contenido_canonico": "Acciones individuales que repercuten en la conservación y mejora de la salud",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0303",
@@ -4892,7 +5939,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 395
+    "fila_origen": 395,
+    "contenido_id": "C0110",
+    "contenido_canonico": "Pérdida de biodiversidad, problemas medio ambientales en la comunidad, México y el mundo, así como acciones orientadas a fortalecer estilos de vida sustentables",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0304",
@@ -4905,7 +5956,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 396
+    "fila_origen": 396,
+    "contenido_id": "C0109",
+    "contenido_canonico": "Factores que conforman la biodiversidad y el medio ambiente, la riqueza natural de México y su relevancia como parte del patrimonio biocultural de la humanidad, y la importancia de su conservación",
+    "equivalencia_score": 99.71,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0305",
@@ -4921,7 +5976,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 381
+    "fila_origen": 381,
+    "contenido_id": "C0196",
+    "contenido_canonico": "Los afectos y su influencia en el bienestar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0306",
@@ -4939,7 +5998,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 367
+    "fila_origen": 367,
+    "contenido_id": "C0115",
+    "contenido_canonico": "Transformaciones de la energía térmica y eléctrica, así como su aplicación tecnológica",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0307",
@@ -4956,7 +6019,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 402
+    "fila_origen": 402,
+    "contenido_id": "C0167",
+    "contenido_canonico": "Contribuciones al bienestar colectivo: servicios públicos e infraestructura para satisfacer las necesidades de salud, educación, esparcimiento, comunicación, seguridad y justicia de las personas que habitan la comunidad y el país, así como la rendición de cuentas y el uso transparente de los recursos como parte de una sociedad democrática",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0308",
@@ -4973,7 +6040,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 358
+    "fila_origen": 358,
+    "contenido_id": "C0067",
+    "contenido_canonico": "Interpretación y valoración de manifestaciones culturales y artísticas de México y del mundo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0309",
@@ -4989,7 +6060,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 412
+    "fila_origen": 412,
+    "contenido_id": "C0191",
+    "contenido_canonico": "Sentido de comunidad y satisfacción de necesidades humanas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0311",
@@ -5006,7 +6081,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 339
+    "fila_origen": 339,
+    "contenido_id": "C0114",
+    "contenido_canonico": "Efecto del magnetismo y de la fuerza de gravedad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0312",
@@ -5023,7 +6102,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 363
+    "fila_origen": 363,
+    "contenido_id": "C0072",
+    "contenido_canonico": "Creación y representación de narrativas a partir de acontecimientos relevantes de la comunidad, empleando recursos literarios, visuales, corporales y sonoros",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0313",
@@ -5041,7 +6124,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 366
+    "fila_origen": 366,
+    "contenido_id": "C0113",
+    "contenido_canonico": "Cambios permanentes en los materiales y sus implicaciones en la vida diaria",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0314",
@@ -5056,7 +6143,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 351
+    "fila_origen": 351,
+    "contenido_id": "C0214",
+    "contenido_canonico": "Potencialidades cognitivas, expresivas, motrices, creativas y de relación",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0315",
@@ -5071,7 +6162,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 382
+    "fila_origen": 382,
+    "contenido_id": "C0187",
+    "contenido_canonico": "Estilos de vida activos y saludables",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0316",
@@ -5090,7 +6185,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 337
+    "fila_origen": 337,
+    "contenido_id": "C0106",
+    "contenido_canonico": "Etapas del desarrollo humano: proceso de reproducción y prevención de infecciones de transmisión sexual (ITS) y embarazos en adolescentes, en el marco de la salud sexual y reproductiva",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0317",
@@ -5106,7 +6205,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 376
+    "fila_origen": 376,
+    "contenido_id": "C0209",
+    "contenido_canonico": "Alternativas ante conflictos y problemas de la vida en la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0318",
@@ -5119,7 +6222,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 342
+    "fila_origen": 342,
+    "contenido_id": "C0165",
+    "contenido_canonico": "Cultura democrática: principios éticos que subyacen en los acuerdos, normas y leyes democráticas, importancia de su cumplimiento y evaluación de su aplicación justa, equitativa e igualitaria en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0319",
@@ -5132,7 +6239,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 345
+    "fila_origen": 345,
+    "contenido_id": "C0174",
+    "contenido_canonico": "México independiente: la vida cotidiana, las intervenciones extranjeras durante el siglo XIX, causas y consecuencias de conflictos territoriales, la defensa de la soberanía nacional y la conformación del estado laico",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0320",
@@ -5145,7 +6256,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 341
+    "fila_origen": 341,
+    "contenido_id": "C0157",
+    "contenido_canonico": "Valoración de la megadiversidad mexicana: megadiversidad en México, diversidad cultural, relaciones ser humano-naturaleza y representaciones distintas de las diferentes culturas o grupos sociales, sobre la biodiversidad y su manejo, acorde a sus contextos",
+    "equivalencia_score": 94.02,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0321",
@@ -5163,7 +6278,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 362
+    "fila_origen": 362,
+    "contenido_id": "C0070",
+    "contenido_canonico": "Combinación de elementos visuales, sonoros y corporales, en composiciones artísticas colectivas, para expresar rasgos de sus identidades personal y colectiva",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0322",
@@ -5179,7 +6298,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 361
+    "fila_origen": 361,
+    "contenido_id": "C0071",
+    "contenido_canonico": "Expresión, mediante el uso de los lenguajes artísticos, de experiencias estéticas que tienen lugar en la naturaleza",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0323",
@@ -5199,7 +6322,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 391
+    "fila_origen": 391,
+    "contenido_id": "C0075",
+    "contenido_canonico": "Lectura y análisis de mitos y leyendas, para su disfrute y valoración",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0324",
@@ -5218,7 +6345,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 332
+    "fila_origen": 332,
+    "contenido_id": "C0066",
+    "contenido_canonico": "Reconocimiento de la diversidad lingüística de México",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0325",
@@ -5238,7 +6369,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 374
+    "fila_origen": 374,
+    "contenido_id": "C0172",
+    "contenido_canonico": "Pueblos y culturas de América y el mundo: el respeto a las costumbres, tradiciones y formas de vivir de diferentes culturas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0326",
@@ -5251,7 +6386,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 401
+    "fila_origen": 401,
+    "contenido_id": "C0166",
+    "contenido_canonico": "Desafíos para la construcción de sociedades inclusivas y equitativas: la violencia de género como un problema estructural, con un peso social, cultural e histórico, a fin de visibilizar sus causas y consecuencias, para erradicarlas, buscando la equidad como derecho",
+    "equivalencia_score": 97.33,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0327",
@@ -5264,7 +6403,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 348
+    "fila_origen": 348,
+    "contenido_id": "C0208",
+    "contenido_canonico": "Las familias como espacio para el desarrollo del sentido de pertenencia y autonomía, para una sana convivencia",
+    "equivalencia_score": 99.04,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0328",
@@ -5277,7 +6420,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 372
+    "fila_origen": 372,
+    "contenido_id": "C0165",
+    "contenido_canonico": "Cultura democrática: principios éticos que subyacen en los acuerdos, normas y leyes democráticas, importancia de su cumplimiento y evaluación de su aplicación justa, equitativa e igualitaria en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0329",
@@ -5292,7 +6439,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 380
+    "fila_origen": 380,
+    "contenido_id": "C0189",
+    "contenido_canonico": "Interacción motriz",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0330",
@@ -5305,7 +6456,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 379
+    "fila_origen": 379,
+    "contenido_id": "C0213",
+    "contenido_canonico": "Capacidades, habilidades y destrezas motrices",
+    "equivalencia_score": 86.08,
+    "validacion": "CANONICA_EQUIVALENCIA_CONTEXTO"
   },
   {
     "proyecto_id": "PR-0331",
@@ -5324,7 +6479,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 331
+    "fila_origen": 331,
+    "contenido_id": "C0059",
+    "contenido_canonico": "Comparación y producción de documentos que regulan la convivencia",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0332",
@@ -5341,7 +6500,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 407
+    "fila_origen": 407,
+    "contenido_id": "C0190",
+    "contenido_canonico": "Acciones individuales que repercuten en la conservación y mejora de la salud",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0333",
@@ -5356,7 +6519,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 394
+    "fila_origen": 394,
+    "contenido_id": "C0087",
+    "contenido_canonico": "Cuerpos geométricos y sus características",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0334",
@@ -5375,7 +6542,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 386
+    "fila_origen": 386,
+    "contenido_id": "C0062",
+    "contenido_canonico": "Interpretación y producción de anuncios publicitarios de productos o servicios ofrecidos en la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0335",
@@ -5391,7 +6562,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 378
+    "fila_origen": 378,
+    "contenido_id": "C0191",
+    "contenido_canonico": "Sentido de comunidad y satisfacción de necesidades humanas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0336",
@@ -5409,7 +6584,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 384
+    "fila_origen": 384,
+    "contenido_id": "C0056",
+    "contenido_canonico": "Comprensión y producción de textos informativos, para ampliar sus conocimientos sobre temas de interés tanto colectivo como individual",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0337",
@@ -5422,7 +6601,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 373
+    "fila_origen": 373,
+    "contenido_id": "C0169",
+    "contenido_canonico": "La lucha por el reconocimiento de los derechos humanos: la protección de la dignidad de todas las personas y grupos sociales para vivir con gozo y armonía, sin importar las diferencias",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0338",
@@ -5441,7 +6624,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 385
+    "fila_origen": 385,
+    "contenido_id": "C0061",
+    "contenido_canonico": "Producción y envío de cartas personales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0339",
@@ -5460,7 +6647,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 387
+    "fila_origen": 387,
+    "contenido_id": "C0063",
+    "contenido_canonico": "Seguimiento crítico de noticias en diferentes medios de comunicación escrita",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0341",
@@ -5478,7 +6669,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 357
+    "fila_origen": 357,
+    "contenido_id": "C0057",
+    "contenido_canonico": "Comprensión y producción de textos discontinuos, para organizar y presentar información",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0342",
@@ -5493,7 +6688,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 352
+    "fila_origen": 352,
+    "contenido_id": "C0204",
+    "contenido_canonico": "Pensamiento lúdico, estratégico y creativo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0343",
@@ -5510,7 +6709,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 359
+    "fila_origen": 359,
+    "contenido_id": "C0068",
+    "contenido_canonico": "Apropiación e intervención artística en el espacio comunitario",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0344",
@@ -5529,7 +6732,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 360
+    "fila_origen": 360,
+    "contenido_id": "C0069",
+    "contenido_canonico": "Análisis de cuentos y poemas para su disfrute y comprensión",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0345",
@@ -5542,7 +6749,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 333
+    "fila_origen": 333,
+    "contenido_id": "C0073",
+    "contenido_canonico": "Combinación de la realidad y la ficción en elementos simbólicos de las manifestaciones culturales y artísticas, que dan identidad y sentido de pertenencia",
+    "equivalencia_score": 97.08,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0346",
@@ -5557,7 +6768,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 408
+    "fila_origen": 408,
+    "contenido_id": "C0187",
+    "contenido_canonico": "Estilos de vida activos y saludables",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0347",
@@ -5576,7 +6791,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 328
+    "fila_origen": 328,
+    "contenido_id": "C0054",
+    "contenido_canonico": "Participación en debates sobre temas de interés común",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0348",
@@ -5602,7 +6821,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 344
+    "fila_origen": 344,
+    "contenido_id": "C0173",
+    "contenido_canonico": "Movimientos sociales en el México de los siglos XIX y XX: la Independencia y la Revolución Mexicana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0349",
@@ -5615,7 +6838,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 343
+    "fila_origen": 343,
+    "contenido_id": "C0168",
+    "contenido_canonico": "El derecho a la protección de la integridad física y mental, ante cualquier forma de maltrato, abuso o explotación de tipo sexual o laboral, así como, la identificación de personas e instituciones que pueden apoyar para el ejercicio de ese derecho",
+    "equivalencia_score": 99.77,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0350",
@@ -5631,7 +6858,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 349
+    "fila_origen": 349,
+    "contenido_id": "C0210",
+    "contenido_canonico": "La escuela como ventana hacia el futuro",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0351",
@@ -5648,33 +6879,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 410
-  },
-  {
-    "proyecto_id": "PR-0352",
-    "grado_id": "G06",
-    "grado": "6°",
-    "campo_formativo_id": "CF04",
-    "campo_formativo": "De lo Humano y lo Comunitario",
-    "contenido_origen": "Sin contenido referente a la identidad",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 466
-  },
-  {
-    "proyecto_id": "PR-0353",
-    "grado_id": "G06",
-    "grado": "6°",
-    "campo_formativo_id": "CF04",
-    "campo_formativo": "De lo Humano y lo Comunitario",
-    "contenido_origen": "Sin contenido identidad",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 467
+    "fila_origen": 410,
+    "contenido_id": "C0190",
+    "contenido_canonico": "Acciones individuales que repercuten en la conservación y mejora de la salud",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0354",
@@ -5693,7 +6902,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 447
+    "fila_origen": 447,
+    "contenido_id": "C0066",
+    "contenido_canonico": "Reconocimiento de la diversidad lingüística de México",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0355",
@@ -5709,7 +6922,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 495
+    "fila_origen": 495,
+    "contenido_id": "C0209",
+    "contenido_canonico": "Alternativas ante conflictos y problemas de la vida en la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0356",
@@ -5722,7 +6939,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 492
+    "fila_origen": 492,
+    "contenido_id": "C0170",
+    "contenido_canonico": "Cumplimiento de los derechos humanos: estudio de casos de actos de discriminación, racismo o violencias que suceden actualmente en México y el mundo",
+    "equivalencia_score": 99.64,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0357",
@@ -5740,7 +6961,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 453
+    "fila_origen": 453,
+    "contenido_id": "C0112",
+    "contenido_canonico": "Propiedades de los materiales: dureza, flexibilidad y permeabilidad y su aplicación en la satisfacción de necesidades; caracterización de los gases con base en sus propiedades",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0358",
@@ -5757,7 +6982,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 450
+    "fila_origen": 450,
+    "contenido_id": "C0068",
+    "contenido_canonico": "Apropiación e intervención artística en el espacio comunitario",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0359",
@@ -5776,7 +7005,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 420
+    "fila_origen": 420,
+    "contenido_id": "C0053",
+    "contenido_canonico": "Comprensión y producción de textos explicativos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0360",
@@ -5795,7 +7028,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 425
+    "fila_origen": 425,
+    "contenido_id": "C0107",
+    "contenido_canonico": "Alimentación saludable: características de la dieta correcta, costumbres de la comunidad, riesgos del consumo de alimentos ultraprocesados, y acciones para mejorar la alimentación",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0361",
@@ -5810,7 +7047,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 436
+    "fila_origen": 436,
+    "contenido_id": "C0214",
+    "contenido_canonico": "Potencialidades cognitivas, expresivas, motrices, creativas y de relación",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0362",
@@ -5823,7 +7064,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 451
+    "fila_origen": 451,
+    "contenido_id": "C0073",
+    "contenido_canonico": "Combinación de la realidad y la ficción en elementos simbólicos de las manifestaciones culturales y artísticas, que dan identidad y sentido de pertenencia",
+    "equivalencia_score": 97.08,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0363",
@@ -5840,7 +7085,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 426
+    "fila_origen": 426,
+    "contenido_id": "C0114",
+    "contenido_canonico": "Efecto del magnetismo y de la fuerza de gravedad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0364",
@@ -5859,7 +7108,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 476
+    "fila_origen": 476,
+    "contenido_id": "C0061",
+    "contenido_canonico": "Producción y envío de cartas personales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0365",
@@ -5876,7 +7129,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 479
+    "fila_origen": 479,
+    "contenido_id": "C0068",
+    "contenido_canonico": "Apropiación e intervención artística en el espacio comunitario",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0366",
@@ -5891,7 +7148,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 484
+    "fila_origen": 484,
+    "contenido_id": "C0088",
+    "contenido_canonico": "Figuras geométricas y sus características",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0367",
@@ -5910,7 +7171,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 446
+    "fila_origen": 446,
+    "contenido_id": "C0063",
+    "contenido_canonico": "Seguimiento crítico de noticias en diferentes medios de comunicación escrita",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0368",
@@ -5928,7 +7193,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 485
+    "fila_origen": 485,
+    "contenido_id": "C0110",
+    "contenido_canonico": "Pérdida de biodiversidad, problemas medio ambientales en la comunidad, México y el mundo, así como acciones orientadas a fortalecer estilos de vida sustentables",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0369",
@@ -5946,7 +7215,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 454
+    "fila_origen": 454,
+    "contenido_id": "C0113",
+    "contenido_canonico": "Cambios permanentes en los materiales y sus implicaciones en la vida diaria",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0370",
@@ -5961,7 +7234,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 468
+    "fila_origen": 468,
+    "contenido_id": "C0187",
+    "contenido_canonico": "Estilos de vida activos y saludables",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0371",
@@ -5983,7 +7260,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 459
+    "fila_origen": 459,
+    "contenido_id": "C0162",
+    "contenido_canonico": "Riesgos de desastre y crisis humanitarias, asociados a fenómenos naturales y generados por acciones humanas: sus causas y consecuencias, para contribuir, de manera solidaria, a minimizar sus efectos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0372",
@@ -6002,7 +7283,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 481
+    "fila_origen": 481,
+    "contenido_id": "C0069",
+    "contenido_canonico": "Análisis de cuentos y poemas para su disfrute y comprensión",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0373",
@@ -6019,7 +7304,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 472
+    "fila_origen": 472,
+    "contenido_id": "C0190",
+    "contenido_canonico": "Acciones individuales que repercuten en la conservación y mejora de la salud",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0374",
@@ -6039,7 +7328,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 478
+    "fila_origen": 478,
+    "contenido_id": "C0075",
+    "contenido_canonico": "Lectura y análisis de mitos y leyendas, para su disfrute y valoración",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0375",
@@ -6054,7 +7347,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 470
+    "fila_origen": 470,
+    "contenido_id": "C0212",
+    "contenido_canonico": "Equidad de género",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0376",
@@ -6067,7 +7364,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 458
+    "fila_origen": 458,
+    "contenido_id": "C0158",
+    "contenido_canonico": "Sustentabilidad de la biodiversidad y humanismo: rasgos de los estilos de vida y modelos de desarrollo dominantes y su impacto en la biodiversidad, implicaciones socioambientales de la preservación",
+    "equivalencia_score": 98.86,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0377",
@@ -6083,7 +7384,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 438
+    "fila_origen": 438,
+    "contenido_id": "C0196",
+    "contenido_canonico": "Los afectos y su influencia en el bienestar",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0378",
@@ -6096,7 +7401,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 486
+    "fila_origen": 486,
+    "contenido_id": "C0109",
+    "contenido_canonico": "Factores que conforman la biodiversidad y el medio ambiente, la riqueza natural de México y su relevancia como parte del patrimonio biocultural de la humanidad, y la importancia de su conservación",
+    "equivalencia_score": 99.71,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0379",
@@ -6111,7 +7420,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 489
+    "fila_origen": 489,
+    "contenido_id": "C0161",
+    "contenido_canonico": "La responsabilidad compartida, el respeto y el consumo sustentable: acciones colectivas a favor de la protección, regeneración y preservación de la biodiversidad y el bienestar socioambiental",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0380",
@@ -6128,7 +7441,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 487
+    "fila_origen": 487,
+    "contenido_id": "C0111",
+    "contenido_canonico": "Costos y beneficios del consumo de agua, energía eléctrica y combustibles en la satisfacción de necesidades personales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0381",
@@ -6141,7 +7458,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 428
+    "fila_origen": 428,
+    "contenido_id": "C0156",
+    "contenido_canonico": "Valoración de la biodiversidad en el territorio donde se ubica la localidad, entidad, México y el mundo, valores y acciones sustentables",
+    "equivalencia_score": 87.8,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0382",
@@ -6160,20 +7481,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 483
-  },
-  {
-    "proyecto_id": "PR-0383",
-    "grado_id": "G06",
-    "grado": "6°",
-    "campo_formativo_id": "CF04",
-    "campo_formativo": "De lo Humano y lo Comunitario",
-    "contenido_origen": "Sin contenido toma de decisiones",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 440
+    "fila_origen": 483,
+    "contenido_id": "C0108",
+    "contenido_canonico": "Funciones vitales que caracterizan a plantas y animales como seres vivos, y su relación con el entorno natural, así como sus cambios a través del tiempo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0384",
@@ -6186,7 +7498,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 471
+    "fila_origen": 471,
+    "contenido_id": "C0213",
+    "contenido_canonico": "Capacidades, habilidades y destrezas motrices",
+    "equivalencia_score": 86.08,
+    "validacion": "CANONICA_EQUIVALENCIA_CONTEXTO"
   },
   {
     "proyecto_id": "PR-0385",
@@ -6202,7 +7518,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 497
+    "fila_origen": 497,
+    "contenido_id": "C0191",
+    "contenido_canonico": "Sentido de comunidad y satisfacción de necesidades humanas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0386",
@@ -6215,7 +7535,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 461
+    "fila_origen": 461,
+    "contenido_id": "C0170",
+    "contenido_canonico": "Cumplimiento de los derechos humanos: estudio de casos de actos de discriminación, racismo o violencias que suceden actualmente en México y el mundo",
+    "equivalencia_score": 99.64,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0387",
@@ -6231,7 +7555,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 439
+    "fila_origen": 439,
+    "contenido_id": "C0209",
+    "contenido_canonico": "Alternativas ante conflictos y problemas de la vida en la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0388",
@@ -6246,7 +7574,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 498
+    "fila_origen": 498,
+    "contenido_id": "C0204",
+    "contenido_canonico": "Pensamiento lúdico, estratégico y creativo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0389",
@@ -6265,7 +7597,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 424
+    "fila_origen": 424,
+    "contenido_id": "C0106",
+    "contenido_canonico": "Etapas del desarrollo humano: proceso de reproducción y prevención de infecciones de transmisión sexual (ITS) y embarazos en adolescentes, en el marco de la salud sexual y reproductiva",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0390",
@@ -6278,7 +7614,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 491
+    "fila_origen": 491,
+    "contenido_id": "C0166",
+    "contenido_canonico": "Desafíos para la construcción de sociedades inclusivas y equitativas: la violencia de género como un problema estructural, con un peso social, cultural e histórico, a fin de visibilizar sus causas y consecuencias, para erradicarlas, buscando la equidad como derecho",
+    "equivalencia_score": 97.33,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0391",
@@ -6294,20 +7634,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 499
-  },
-  {
-    "proyecto_id": "PR-0392",
-    "grado_id": "G06",
-    "grado": "6°",
-    "campo_formativo_id": "CF04",
-    "campo_formativo": "De lo Humano y lo Comunitario",
-    "contenido_origen": "sin contenido estereotipos",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 437
+    "fila_origen": 499,
+    "contenido_id": "C0209",
+    "contenido_canonico": "Alternativas ante conflictos y problemas de la vida en la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0393",
@@ -6322,7 +7653,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 465
+    "fila_origen": 465,
+    "contenido_id": "C0182",
+    "contenido_canonico": "Formas de ser, pensar, actuar y relacionarse",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0394",
@@ -6338,33 +7673,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 496
-  },
-  {
-    "proyecto_id": "PR-0395",
-    "grado_id": "G06",
-    "grado": "6°",
-    "campo_formativo_id": "CF01",
-    "campo_formativo": "Lenguajes",
-    "contenido_origen": "Sin contenido Descripciones",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 415
-  },
-  {
-    "proyecto_id": "PR-0396",
-    "grado_id": "G06",
-    "grado": "6°",
-    "campo_formativo_id": "CF01",
-    "campo_formativo": "Lenguajes",
-    "contenido_origen": "Sin contenido Textos literarios",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 480
+    "fila_origen": 496,
+    "contenido_id": "C0211",
+    "contenido_canonico": "La comunidad, como espacio para el aprendizaje y el bienestar común",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0397",
@@ -6381,7 +7694,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 456
+    "fila_origen": 456,
+    "contenido_id": "C0116",
+    "contenido_canonico": "Sistema Solar y Universo: características de sus componentes, y aportaciones culturales, científicas y tecnológicas que han favorecido su conocimiento",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0398",
@@ -6399,7 +7716,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 448
+    "fila_origen": 448,
+    "contenido_id": "C0055",
+    "contenido_canonico": "Comprensión y producción de textos argumentativos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0399",
@@ -6417,7 +7738,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 474
+    "fila_origen": 474,
+    "contenido_id": "C0057",
+    "contenido_canonico": "Comprensión y producción de textos discontinuos, para organizar y presentar información",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0400",
@@ -6430,7 +7755,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 463
+    "fila_origen": 463,
+    "contenido_id": "C0175",
+    "contenido_canonico": "México posrevolucionario (1917-1940): la vida cotidiana, los procesos que implicaron la reconfiguración del país en los ámbitos social, económico, político, religioso y cultural, así como el impacto en el ambiente",
+    "equivalencia_score": 99.5,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0401",
@@ -6449,7 +7778,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 417
+    "fila_origen": 417,
+    "contenido_id": "C0059",
+    "contenido_canonico": "Comparación y producción de documentos que regulan la convivencia",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0402",
@@ -6462,7 +7795,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 493
+    "fila_origen": 493,
+    "contenido_id": "C0157",
+    "contenido_canonico": "Valoración de la megadiversidad mexicana: megadiversidad en México, diversidad cultural, relaciones ser humano-naturaleza y representaciones distintas de las diferentes culturas o grupos sociales, sobre la biodiversidad y su manejo, acorde a sus contextos",
+    "equivalencia_score": 94.02,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0403",
@@ -6475,7 +7812,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 435
+    "fila_origen": 435,
+    "contenido_id": "C0208",
+    "contenido_canonico": "Las familias como espacio para el desarrollo del sentido de pertenencia y autonomía, para una sana convivencia",
+    "equivalencia_score": 99.04,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0404",
@@ -6491,7 +7832,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 441
+    "fila_origen": 441,
+    "contenido_id": "C0210",
+    "contenido_canonico": "La escuela como ventana hacia el futuro",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0405",
@@ -6504,7 +7849,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 430
+    "fila_origen": 430,
+    "contenido_id": "C0165",
+    "contenido_canonico": "Cultura democrática: principios éticos que subyacen en los acuerdos, normas y leyes democráticas, importancia de su cumplimiento y evaluación de su aplicación justa, equitativa e igualitaria en la vida cotidiana",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0406",
@@ -6517,7 +7866,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 432
+    "fila_origen": 432,
+    "contenido_id": "C0175",
+    "contenido_canonico": "México posrevolucionario (1917-1940): la vida cotidiana, los procesos que implicaron la reconfiguración del país en los ámbitos social, económico, político, religioso y cultural, así como el impacto en el ambiente",
+    "equivalencia_score": 99.75,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0407",
@@ -6534,20 +7887,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 460
-  },
-  {
-    "proyecto_id": "PR-0408",
-    "grado_id": "G06",
-    "grado": "6°",
-    "campo_formativo_id": "CF04",
-    "campo_formativo": "De lo Humano y lo Comunitario",
-    "contenido_origen": "Sin contenido Cultura de la paz",
-    "estado": "NO_ENCONTRADA_EN_PDAS",
-    "pda_ids": [],
-    "fuente": "Libros",
-    "hoja_origen": "Libros",
-    "fila_origen": 469
+    "fila_origen": 460,
+    "contenido_id": "C0167",
+    "contenido_canonico": "Contribuciones al bienestar colectivo: servicios públicos e infraestructura para satisfacer las necesidades de salud, educación, esparcimiento, comunicación, seguridad y justicia de las personas que habitan la comunidad y el país, así como la rendición de cuentas y el uso transparente de los recursos como parte de una sociedad democrática",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0409",
@@ -6566,7 +7910,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 421
+    "fila_origen": 421,
+    "contenido_id": "C0054",
+    "contenido_canonico": "Participación en debates sobre temas de interés común",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0410",
@@ -6583,7 +7931,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 443
+    "fila_origen": 443,
+    "contenido_id": "C0074",
+    "contenido_canonico": "Análisis y representación de guiones teatrales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0411",
@@ -6600,7 +7952,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 449
+    "fila_origen": 449,
+    "contenido_id": "C0067",
+    "contenido_canonico": "Interpretación y valoración de manifestaciones culturales y artísticas de México y del mundo",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0412",
@@ -6617,7 +7973,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 429
+    "fila_origen": 429,
+    "contenido_id": "C0164",
+    "contenido_canonico": "La democracia como forma de gobierno en México y su construcción a través de la historia",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0413",
@@ -6636,7 +7996,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 475
+    "fila_origen": 475,
+    "contenido_id": "C0058",
+    "contenido_canonico": "Elaboración e intercambio de reseñas de diversos textos y/o audiovisuales",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0414",
@@ -6649,7 +8013,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 433
+    "fila_origen": 433,
+    "contenido_id": "C0176",
+    "contenido_canonico": "Migración y derechos humanos: migración interna y externa, causas y consecuencias sociales, económicas, culturales, políticas y ambientales",
+    "equivalencia_score": 99.25,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0415",
@@ -6667,7 +8035,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 490
+    "fila_origen": 490,
+    "contenido_id": "C0163",
+    "contenido_canonico": "Construcción de la cultura de paz: análisis de conflictos vecinales y/o territoriales del pasado y del presente entre personas, grupos, comunidades y pueblos para identificar sus causas, cómo se desarrollaron y cómo se resolvieron, destacando el diálogo, la negociación y la tolerancia",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0416",
@@ -6683,7 +8055,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 500
+    "fila_origen": 500,
+    "contenido_id": "C0209",
+    "contenido_canonico": "Alternativas ante conflictos y problemas de la vida en la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0417",
@@ -6702,7 +8078,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 445
+    "fila_origen": 445,
+    "contenido_id": "C0062",
+    "contenido_canonico": "Interpretación y producción de anuncios publicitarios de productos o servicios ofrecidos en la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0418",
@@ -6720,7 +8100,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 423
+    "fila_origen": 423,
+    "contenido_id": "C0105",
+    "contenido_canonico": "Estructura y funcionamiento del cuerpo humano: sistemas circulatorio, respiratorio e inmunológico, y su relación con la salud ambiental, así como acciones para su cuidado",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0419",
@@ -6733,7 +8117,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 431
+    "fila_origen": 431,
+    "contenido_id": "C0168",
+    "contenido_canonico": "El derecho a la protección de la integridad física y mental, ante cualquier forma de maltrato, abuso o explotación de tipo sexual o laboral, así como, la identificación de personas e instituciones que pueden apoyar para el ejercicio de ese derecho",
+    "equivalencia_score": 99.77,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0420",
@@ -6746,7 +8134,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 462
+    "fila_origen": 462,
+    "contenido_id": "C0171",
+    "contenido_canonico": "Valores y prácticas de los pueblos originarios y afromexicanos: el respeto, la reciprocidad y el beneficio mutuo como valores fundamentales de la relación con la naturaleza y con otras personas",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0421",
@@ -6765,7 +8157,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 414
+    "fila_origen": 414,
+    "contenido_id": "C0052",
+    "contenido_canonico": "Narración de sucesos autobiográficos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0422",
@@ -6778,7 +8174,11 @@
     "pda_ids": [],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 416
+    "fila_origen": 416,
+    "contenido_id": "C0060",
+    "contenido_canonico": "Exposición sobre temas relacionados con el cuidado de la salud",
+    "equivalencia_score": 98.36,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0423",
@@ -6797,7 +8197,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 418
+    "fila_origen": 418,
+    "contenido_id": "C0054",
+    "contenido_canonico": "Participación en debates sobre temas de interés común",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0424",
@@ -6816,7 +8220,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 419
+    "fila_origen": 419,
+    "contenido_id": "C0064",
+    "contenido_canonico": "Comprensión y producción de textos para gestionar servicios públicos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0425",
@@ -6834,7 +8242,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 444
+    "fila_origen": 444,
+    "contenido_id": "C0055",
+    "contenido_canonico": "Comprensión y producción de textos argumentativos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0426",
@@ -6853,7 +8265,11 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 477
+    "fila_origen": 477,
+    "contenido_id": "C0063",
+    "contenido_canonico": "Seguimiento crítico de noticias en diferentes medios de comunicación escrita",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
   },
   {
     "proyecto_id": "PR-0427",
@@ -6871,6 +8287,321 @@
     ],
     "fuente": "Libros",
     "hoja_origen": "Libros",
-    "fila_origen": 455
+    "fila_origen": 455,
+    "contenido_id": "C0115",
+    "contenido_canonico": "Transformaciones de la energía térmica y eléctrica, así como su aplicación tecnológica",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA"
+  },
+  {
+    "proyecto_id": "PR-0060",
+    "grado_id": "G01",
+    "grado": "1°",
+    "campo_formativo_id": "CF04",
+    "campo_formativo": "De lo Humano y lo Comunitario",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-0684"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0194",
+    "contenido_canonico": "Apoyos mutuos para favorecer los aprendizajes en el aula diversa",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0061",
+    "grado_id": "G01",
+    "grado": "1°",
+    "campo_formativo_id": "CF03",
+    "campo_formativo": "Ética, Naturaleza y Sociedades",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-0490",
+      "PDA-REG-0491"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0131",
+    "contenido_canonico": "Democracia como forma de vida: construcción participativa de normas, reglas y acuerdos para alcanzar metas colectivas y contribuir a una convivencia pacífica en nuestra casa, el aula, la escuela y la comunidad, así como las consecuencias de no respetar los acuerdos, reglas y normas escolares y comunitarias",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0077",
+    "grado_id": "G02",
+    "grado": "2°",
+    "campo_formativo_id": "CF02",
+    "campo_formativo": "Saberes y Pensamiento Científico",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-1061",
+      "PDA-REG-1062",
+      "PDA-REG-1063"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0079",
+    "contenido_canonico": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0114",
+    "grado_id": "G02",
+    "grado": "2°",
+    "campo_formativo_id": "CF02",
+    "campo_formativo": "Saberes y Pensamiento Científico",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-1061",
+      "PDA-REG-1062",
+      "PDA-REG-1063"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0079",
+    "contenido_canonico": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0119",
+    "grado_id": "G02",
+    "grado": "2°",
+    "campo_formativo_id": "CF02",
+    "campo_formativo": "Saberes y Pensamiento Científico",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-1061",
+      "PDA-REG-1062",
+      "PDA-REG-1063"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0079",
+    "contenido_canonico": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0126",
+    "grado_id": "G02",
+    "grado": "2°",
+    "campo_formativo_id": "CF02",
+    "campo_formativo": "Saberes y Pensamiento Científico",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-1061",
+      "PDA-REG-1062",
+      "PDA-REG-1063"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0079",
+    "contenido_canonico": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0189",
+    "grado_id": "G03",
+    "grado": "3°",
+    "campo_formativo_id": "CF04",
+    "campo_formativo": "De lo Humano y lo Comunitario",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0177",
+    "contenido_canonico": "La comunidad como el espacio en el que se vive y se encuentra la escuela",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0238",
+    "grado_id": "G04",
+    "grado": "4°",
+    "campo_formativo_id": "CF04",
+    "campo_formativo": "De lo Humano y lo Comunitario",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0177",
+    "contenido_canonico": "La comunidad como el espacio en el que se vive y se encuentra la escuela",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0249",
+    "grado_id": "G04",
+    "grado": "4°",
+    "campo_formativo_id": "CF01",
+    "campo_formativo": "Lenguajes",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-0846",
+      "PDA-REG-0847",
+      "PDA-REG-0848",
+      "PDA-REG-0849",
+      "PDA-REG-0850",
+      "PDA-REG-0851"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0030",
+    "contenido_canonico": "Comprensión y producción de textos expositivos en los que se planteen: problema-solución, comparación-contraste, causa-consecuencia y enumeración",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0383",
+    "grado_id": "G06",
+    "grado": "6°",
+    "campo_formativo_id": "CF04",
+    "campo_formativo": "De lo Humano y lo Comunitario",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-1495",
+      "PDA-REG-1496",
+      "PDA-REG-1497",
+      "PDA-REG-1498"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0215",
+    "contenido_canonico": "Toma de decisiones y creatividad, ante problemas de la vida",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0392",
+    "grado_id": "G06",
+    "grado": "6°",
+    "campo_formativo_id": "CF04",
+    "campo_formativo": "De lo Humano y lo Comunitario",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-1480"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0182",
+    "contenido_canonico": "Formas de ser, pensar, actuar y relacionarse",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0392",
+    "grado_id": "G06",
+    "grado": "6°",
+    "campo_formativo_id": "CF01",
+    "campo_formativo": "Lenguajes",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-0992",
+      "PDA-REG-0993",
+      "PDA-REG-0994",
+      "PDA-REG-0995",
+      "PDA-REG-0996"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0062",
+    "contenido_canonico": "Interpretación y producción de anuncios publicitarios de productos o servicios ofrecidos en la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0395",
+    "grado_id": "G06",
+    "grado": "6°",
+    "campo_formativo_id": "CF01",
+    "campo_formativo": "Lenguajes",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-0950",
+      "PDA-REG-0951",
+      "PDA-REG-0952",
+      "PDA-REG-0953",
+      "PDA-REG-0954"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0053",
+    "contenido_canonico": "Comprensión y producción de textos explicativos",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0396",
+    "grado_id": "G06",
+    "grado": "6°",
+    "campo_formativo_id": "CF01",
+    "campo_formativo": "Lenguajes",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-1023",
+      "PDA-REG-1024",
+      "PDA-REG-1025",
+      "PDA-REG-1026",
+      "PDA-REG-1027"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0069",
+    "contenido_canonico": "Análisis de cuentos y poemas para su disfrute y comprensión",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
+  },
+  {
+    "proyecto_id": "PR-0408",
+    "grado_id": "G06",
+    "grado": "6°",
+    "campo_formativo_id": "CF04",
+    "campo_formativo": "De lo Humano y lo Comunitario",
+    "contenido_origen": null,
+    "estado": "VALIDADA",
+    "pda_ids": [
+      "PDA-REG-1474",
+      "PDA-REG-1475"
+    ],
+    "fuente": "REPARACION_V1_3",
+    "hoja_origen": "Posibilidades_de_uso_de_los_LTG",
+    "fila_origen": null,
+    "contenido_id": "C0209",
+    "contenido_canonico": "Alternativas ante conflictos y problemas de la vida en la comunidad",
+    "equivalencia_score": 100.0,
+    "validacion": "CANONICA_OFICIAL"
   }
 ]

@@ -1,0 +1,79 @@
+[
+  {
+    "proyecto_id": "PR-0339",
+    "tipo": "ejes_texto_origen",
+    "antes": "Pensamiento Crítico,",
+    "despues": "Pensamiento Crítico",
+    "justificacion": "normalización contra catálogo canónico"
+  },
+  {
+    "proyecto_id": "PR-0356",
+    "tipo": "ejes_texto_origen",
+    "antes": "Inclusión, Interculturalidad Crítica, Igualdad de Género,",
+    "despues": "Inclusión, Interculturalidad Crítica, Igualdad de Género",
+    "justificacion": "normalización contra catálogo canónico"
+  },
+  {
+    "proyecto_id": "PR-0358",
+    "tipo": "ejes_texto_origen",
+    "antes": "Inclusión, Pensamiento Crítico, Interculturalidad Crítica,",
+    "despues": "Inclusión, Pensamiento Crítico, Interculturalidad Crítica",
+    "justificacion": "normalización contra catálogo canónico"
+  },
+  {
+    "proyecto_id": "PR-0074",
+    "tipo": "metadatos",
+    "antes": {
+      "campo_formativo": "Lenguajes",
+      "campo_formativo_id": "CF01"
+    },
+    "despues": {
+      "campo_formativo": "Ética, Naturaleza y Sociedades",
+      "campo_formativo_id": "CF03"
+    },
+    "justificacion": "El proyecto Los saberes de mi comunidad de 2° aparece en fuentes externas como campo Ética, Naturaleza y Sociedades."
+  },
+  {
+    "proyecto_id": "PR-0134",
+    "tipo": "metadatos",
+    "antes": {
+      "campo_formativo": "De lo Humano y lo Comunitario",
+      "campo_formativo_id": "CF04"
+    },
+    "despues": {
+      "campo_formativo": "Ética, Naturaleza y Sociedades",
+      "campo_formativo_id": "CF03"
+    },
+    "justificacion": "El proyecto Los espacios de riesgo de mi comunidad de 2° aparece en fuentes externas como campo Ética, Naturaleza y Sociedades."
+  },
+  {
+    "proyecto_id": "PR-0310",
+    "tipo": "metadatos",
+    "antes": {
+      "titulo": "Mi cuerpo hablan",
+      "campo_formativo": "#N/A",
+      "campo_formativo_id": null
+    },
+    "despues": {
+      "titulo": "Mi cuerpo habla",
+      "campo_formativo": "Lenguajes",
+      "campo_formativo_id": "CF01"
+    },
+    "justificacion": "Corrección del #N/A y del título; fuentes externas identifican Mi cuerpo habla en 5° como Lenguajes."
+  },
+  {
+    "proyecto_id": "PR-0340",
+    "tipo": "metadatos",
+    "antes": {
+      "grado": "",
+      "grado_id": null,
+      "fase_id": null
+    },
+    "despues": {
+      "grado": "5°",
+      "grado_id": "G05",
+      "fase_id": "FASE05"
+    },
+    "justificacion": "Las historias que nos unen está documentado en 5°/Fase 5."
+  }
+]
